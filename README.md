@@ -1,6 +1,7 @@
 # major-stats
 Compiling basic match statistics from majors.
 
+If you want to help: look at "How To Help" section below, and contact widdy
 
 Raw data available here:
 https://docs.google.com/spreadsheets/d/1zzXHuM-5LYCkfolMJtZg0ycAlJvGzFhXAHNaKwwqA-I/edit?usp=sharing
@@ -35,3 +36,19 @@ So far archives count recorded matches only. Because the goal is to include char
     * Do people really want to see info from matches before 2016? THE YEAR OF 64?
   * add ability to look up stats for specific player, e.g. "how many games has lord_narwhal played in bracket?"; "what is bacorn's career match % against kirby?"
   * compute ELO?
+  
+  
+## How To Help
+If you want to contribute info to the archive, there are a few ways:
+
+1. contributing new archive info
+2. checking existing archive for accuracy (let us know if you find any mistakes!)
+3. writing code to perform better / more interesting queries
+
+How to contribute archive info:
+
+1. enter your info in a spreadsheet using the same format as this project
+  * year | tournament name | player1 | player2 | char1 | char2 | number of winning player | bracket or pool
+  * every row is one game
+  * **Please** make sure your info is accurate. We'll spot-check contributions -- if a single piece of info is found to be inaccurate from a contributor, we'll throw out their whole contribution.
+2. send the spreadsheet to widdy at wdyhssm@gmail.com
