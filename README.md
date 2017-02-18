@@ -4,7 +4,7 @@ Compiling basic match statistics from majors.
 If you want to help: look at "How To Help" section below, and contact widdy
 
 Raw data available here:
-https://docs.google.com/spreadsheets/d/1zzXHuM-5LYCkfolMJtZg0ycAlJvGzFhXAHNaKwwqA-I/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1zpuTBg0k5njPZfxUNXf7VUhsi9F1QSBYcaeE1i7PKNE/edit?usp=sharing
 
 To analyze the data (e.g. "how many games between fox and puff at G3?") look at `generate_table.ipynb`.
 
@@ -15,6 +15,7 @@ So far archives count recorded matches only. Because the goal is to include char
     * G3
     * GOML 2016
     * Pound 2016
+    * Snosa 2
     
   * the code `generate_table.ipynb` tabulates:
     * number of matches between characters
@@ -25,7 +26,6 @@ So far archives count recorded matches only. Because the goal is to include char
   * get info for non-recorded matches
     * if brackets on smash.gg or challonge, e.g., contained character info, this would be possible for future tournaments.
   * add data from:
-    * SNOSA 2
     * SSC 2016
     * Shine 2016
     * ODS 2
