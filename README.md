@@ -13,10 +13,13 @@ So far archives count recorded matches only. Because the goal is to include char
 ## Current status (2017-02-27)
   * the archive contains all pools and bracket matches recorded at the following tournaments:
     * BEAST7
+    * SSC 2016
     * G3
     * GOML 2016
     * Pound 2016
     * Snosa 2
+  
+  * Slowly updating archives to include info like "top 8, top 16, WF, GF" etc
     
   * the code `generate_table.ipynb` reads from the spreadsheet:
     * number of matches between characters
@@ -24,10 +27,10 @@ So far archives count recorded matches only. Because the goal is to include char
     * can restrict these results to just bracket matches (or just pools matches)
 
 ## To do
+  * When listing number of games each character appears in, list 2 players with most games logged as that char
   * get info for non-recorded matches
     * if brackets on smash.gg or challonge, e.g., contained character info, this would be possible for future tournaments.
   * add data from:
-    * SSC 2016
     * Shine 2016
     * ODS 2
     * SuperBoomed
@@ -42,8 +45,8 @@ So far archives count recorded matches only. Because the goal is to include char
 ## How To Help
 If you want to contribute info to the archive, there are a few ways:
 
-1. contributing new archive info (this involves entering info into spreadsheets, nothing complicated)
-2. checking existing archive for accuracy (let us know if you find any mistakes!)
+1. contributing new archive info (by entering info into spreadsheets, nothing too complicated)
+2. checking existing archives for accuracy (please let us know if you find any mistakes)
 3. writing code to perform better / more interesting queries
 
 How to contribute archive info:
