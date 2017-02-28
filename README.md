@@ -10,14 +10,15 @@ To analyze the data (e.g. "how many games between fox and puff at G3?") look at 
 
 So far archives count recorded matches only. Because the goal is to include character info (dk, samus, etc) for each match, we don't have a reliable way of getting info for non-recorded matchs.
 
-## Current status (2017-02-16)
+## Current status (2017-02-27)
   * the archive contains all pools and bracket matches recorded at the following tournaments:
+    * BEAST7
     * G3
     * GOML 2016
     * Pound 2016
     * Snosa 2
     
-  * the code `generate_table.ipynb` tabulates:
+  * the code `generate_table.ipynb` reads from the spreadsheet:
     * number of matches between characters
     * win % each character has over each other
     * can restrict these results to just bracket matches (or just pools matches)
@@ -41,7 +42,7 @@ So far archives count recorded matches only. Because the goal is to include char
 ## How To Help
 If you want to contribute info to the archive, there are a few ways:
 
-1. contributing new archive info
+1. contributing new archive info (this involves entering info into spreadsheets, nothing complicated)
 2. checking existing archive for accuracy (let us know if you find any mistakes!)
 3. writing code to perform better / more interesting queries
 
