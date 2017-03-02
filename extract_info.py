@@ -17,9 +17,12 @@ def initial_counting( bracket_levels_map, level_chosen, skip_these_players ):
         play1, play2 = parts[2:4]
         if (play1 in skip_these_players.keys()) or (play2 in skip_these_players.keys()):
             continue
-
-        tourney_years[ parts[0] ] = 1
-        tournaments[ parts[1] ] = 1
+        
+        tournament_year = parts[0]
+        tournament_title = parts[1]
+        tourn_full = tournament_title + '\t\t' + tournament_year
+        tourney_years[ tourn_full ] = 1
+        tournaments[ tournament_title ] = 1
         numitems = numitems + 1
         playernames[ play1 ] = 1
         playernames[ play2 ] = 1
