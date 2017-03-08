@@ -59,7 +59,7 @@ def print_header( smash_data, stat_object ):
     
         set 'which_rankings' to 'pchar' to see rankings on player-characters; any other value will instead print rankings for players
 """
-def print_plchar_ranks(level_limits, skip_these_players, individual_stats, which_rankings='pchar'):
+def print_plchar_ranks(level_limits, skip_these_players, individual_stats, which_rankings='pchar', centered_player=None):
     # EXTRACT DATA FROM TABLES
     stat_object = {
     'limits':  level_limits,
@@ -83,13 +83,32 @@ def print_plchar_ranks(level_limits, skip_these_players, individual_stats, which
         num2pname = smash_char_data['num2pname']
 
     """ Begin PageRank computation """
+    # First extract the connected network from gamemat
+    pmat = np.zeros( gamemat.shape )
+    rows,cols = pmat.shape
+    M = gamemat + gamemat.T
+    for col in range(cols):
+        weight = sum(M[:,col])
+        if weight != 0:
+            M[:,col] = M[:,col]/weight
+    
+    index = pname2num['superboomfan']
+    dummyvec = np.zeros( (rows,1) )
+    dummyvec[index] = 1
+    temp_mat = np.eye(cols) - 0.5*M
+    connected_vec = np.linalg.solve(temp_mat, dummyvec)
+    for row in range(len(connected_vec)):
+        val = connected_vec[row]
+        if val==0:
+            gamemat[:,row] = np.squeeze(np.zeros((rows,1)))
+            gamemat[row,:] = np.squeeze(np.zeros((1,rows)))
+    
+    
     # Options
     normalize = True
     handle_dangling = False
     alpha = 0.99
     
-    pmat = np.zeros( gamemat.shape )
-    rows,cols = pmat.shape
     for row in range(rows):
         for col in range(cols):
             if gamemat[row,col] != 0:
@@ -116,7 +135,13 @@ def print_plchar_ranks(level_limits, skip_these_players, individual_stats, which
                 filled_pmat[row,col] = 1/cols
     
     sysmat = np.eye(cols) - alpha*filled_pmat
-    righthandvec = ((1-alpha)/cols) *np.ones((rows,1))
+    righthandvec = ((1-alpha)/cols) * np.ones((rows,1))
+    if bool(centered_player):
+        if centered_player in pname2num.keys():
+            index = pname2num[centered_player]
+            righthandvec = np.zeros( (rows,1) )
+            righthandvec[index] = ((1-alpha)/cols)
+        
 
     rankings_vec = np.linalg.solve(sysmat, righthandvec)
 
