@@ -198,7 +198,7 @@ def print_player_rankings(level_limits, skip_these_players, individual_stats):
 """
     PRINT char based stats, player-char based stats
 """
-def print_smash_stats( level_limits, skip_these_players, individual_stats ):
+def print_smash_stats( level_limits, skip_these_players, individual_stats, markdown_flag=False ):
     
     stat_object = {
         'limits':  level_limits,
@@ -242,12 +242,19 @@ def print_smash_stats( level_limits, skip_these_players, individual_stats ):
 
     # NOW PRINT
     print("MATCHUP PERCENTAGES \n")
-    print("char1\tchar2 \t# games \tchar1 wins \tprct win by char 1")
+    if markdown_flag == True:
+        print(" | char1 | char2 | # games | % win char1 | ")
+        print(" |:---|:---|---:|---:| ")
+    else:
+        print("char1 \tchar2 \t# games \tchar1 wins \tprct win by char 1")
     inds = list(reversed(np.argsort(num_matches)))
     for i in inds:
         if num_matches[i] < 1:
             continue
-        print( char1[i] + '\t' + char2[i] + '\t' + str(num_matches[ i ] ) + '\t\t' + str(num_outcomes[i]) + '\t\t' + ("%.2f" % outcome_prct[i]) )
+        if markdown_flag == True:
+            print( '|' + char1[i] + '|' + char2[i] + '|' + str(num_matches[ i ] ) + '|' + ("%.2f" % outcome_prct[i]) + '|' )
+        else:
+            print( char1[i] + '\t' + char2[i] + '\t' + str(num_matches[ i ] ) + '\t\t' + str(num_outcomes[i]) + '\t\t' + ("%.2f" % outcome_prct[i]) )
 
     inds = list(reversed(np.argsort(charnums)))
     sorted_data = []
