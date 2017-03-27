@@ -19,18 +19,18 @@ bracket_levels_map = {'pools': 0,
             'gf':8,
             'gf2':9
            }
-    
 
-def print_header( smash_data, stat_object ):
+
+def print_header( smash_data, query_specs ):
 
     tournaments = smash_data['tournaments_included']
     numitems = len( smash_data['games_archive'] )
     numnames = len(smash_data['playernames'])
-    
-    level_limits = stat_object['limits']
-    skip_these_players = stat_object['skips']
-    bracket_levels_map = stat_object['bracket_map']
-    bracket_levels = stat_object['bracket_levels']
+
+    level_limits = query_specs['limits']
+    skip_these_players = query_specs['skips']
+    bracket_levels_map = query_specs['bracket_map']
+    bracket_levels = query_specs['bracket_levels']
 
     print("\nSMASH ARCHIVE QUERY RESULTS")
     print("\nfrom recorded games at the following events:")
@@ -40,37 +40,37 @@ def print_header( smash_data, stat_object ):
         print("\nSkipping these players:")
         for key in skip_these_players:
             print('\t\t' + key)
-        
+
     lim1,lim2 = level_limits
     print("Includes " + bracket_levels[lim1] + " games through " + bracket_levels[lim2])
-    
+
     # print("Data taken from all recorded games.")
     print( 'Number of players in query: ' + str(numnames) )
     print( 'Number of games in query: ' + str(numitems) )
     print('\n')
 
 
-    
-    
+
+
 """
     Print player-char rankings
-    
+
     print_plchar_ranks(level_limits, skip_these_players, individual_stats, which_rankings=='pchar')
-    
+
         set 'which_rankings' to 'pchar' to see rankings on player-characters; any other value will instead print rankings for players
 """
-def print_plchar_ranks(level_limits, skip_these_players, individual_stats, which_rankings='pchar', centered_player=None):
+def print_plchar_ranks(level_limits, skip_these_players, individual_stats, which_rankings='pchar', centered_player=None, degree_scale=False):
     # EXTRACT DATA FROM TABLES
-    stat_object = {
+    query_specs = {
     'limits':  level_limits,
     'skips': skip_these_players,
     'individuals': individual_stats,
     'bracket_levels': bracket_levels,
     'bracket_map': bracket_levels_map
     }
-    smash_data = exinf.db_load_csv( stat_object )
-    smash_char_data = exinf.get_game_data( smash_data, stat_object )
-    
+    smash_data = exinf.db_load_csv( query_specs )
+    smash_char_data = exinf.get_game_data( smash_data, query_specs )
+
     if which_rankings == 'pchar':
         gamemat = smash_char_data['pchargamemat']
         outcomemat = smash_char_data['pcharoutcomemat']
@@ -83,15 +83,17 @@ def print_plchar_ranks(level_limits, skip_these_players, individual_stats, which
         num2pname = smash_char_data['num2pname']
 
     """ Begin PageRank computation """
-    # First extract the connected network from gamemat
+    # First extract from gamemat the connected network that contains NA
     pmat = np.zeros( gamemat.shape )
     rows,cols = pmat.shape
     M = gamemat + gamemat.T
+    degree_weights = []
     for col in range(cols):
         weight = sum(M[:,col])
+        degree_weights.append(weight)
         if weight != 0:
             M[:,col] = M[:,col]/weight
-    
+
     index = pname2num['superboomfan']
     dummyvec = np.zeros( (rows,1) )
     dummyvec[index] = 1
@@ -102,13 +104,13 @@ def print_plchar_ranks(level_limits, skip_these_players, individual_stats, which
         if val==0:
             gamemat[:,row] = np.squeeze(np.zeros((rows,1)))
             gamemat[row,:] = np.squeeze(np.zeros((1,rows)))
-    
-    
+
+
     # Options
     normalize = True
     handle_dangling = False
     alpha = 0.99
-    
+
     for row in range(rows):
         for col in range(cols):
             if gamemat[row,col] != 0:
@@ -133,7 +135,7 @@ def print_plchar_ranks(level_limits, skip_these_players, individual_stats, which
         for col in empty_cols:
             for row in range(rows):
                 filled_pmat[row,col] = 1/cols
-    
+
     sysmat = np.eye(cols) - alpha*filled_pmat
     righthandvec = ((1-alpha)/cols) * np.ones((rows,1))
     if bool(centered_player):
@@ -141,9 +143,16 @@ def print_plchar_ranks(level_limits, skip_these_players, individual_stats, which
             index = pname2num[centered_player]
             righthandvec = np.zeros( (rows,1) )
             righthandvec[index] = ((1-alpha)/cols)
-        
+
 
     rankings_vec = np.linalg.solve(sysmat, righthandvec)
+
+    # Scale by degree?
+    if degree_scale == True:
+        for j in range(len(rankings_vec)):
+            deg_weight = degree_weights[j]
+            if deg_weight != 0:
+                rankings_vec[j] *= 1/deg_weight
 
     """ PageRank computed; now sort and print """
     ranks = rankings_vec[:,0]
@@ -160,16 +169,16 @@ def print_plchar_ranks(level_limits, skip_these_players, individual_stats, which
 """
 def print_player_rankings(level_limits, skip_these_players, individual_stats):
     # EXTRACT DATA FROM TABLES
-    stat_object = {
+    query_specs = {
     'limits':  level_limits,
     'skips': skip_these_players,
     'individuals': individual_stats,
     'bracket_levels': bracket_levels,
     'bracket_map': bracket_levels_map
     }
-        
-    smash_data = exinf.db_load_csv( stat_object )
-    
+
+    smash_data = exinf.db_load_csv( query_specs )
+
     playernames = smash_data['playernames']
     charnames = smash_data['charnames']
     tournaments = smash_data['tournaments_included']
@@ -178,12 +187,12 @@ def print_player_rankings(level_limits, skip_these_players, individual_stats):
     numchars = len(charnames)
     numnames = len(playernames)
 
-    print_header( smash_data, stat_object )
+    print_header( smash_data, query_specs )
 
 
     # Next retrieve character-based results
 
-    smash_char_data = exinf.get_game_data( smash_data, stat_object )
+    smash_char_data = exinf.get_game_data( smash_data, query_specs )
 
     return {
         'all_data':smash_char_data,
@@ -192,27 +201,27 @@ def print_player_rankings(level_limits, skip_these_players, individual_stats):
         'gamemat':smash_char_data['GameMat'],
         'outcomemat':smash_char_data['GameOutcomeMat']
     }
-    
-    
-    
+
+
+
 """
     PRINT char based stats, player-char based stats
 """
 def print_smash_stats( level_limits, skip_these_players, individual_stats, markdown_flag=False ):
-    
-    stat_object = {
+
+    query_specs = {
         'limits':  level_limits,
         'skips': skip_these_players,
         'individuals': individual_stats,
         'bracket_levels': bracket_levels,
         'bracket_map': bracket_levels_map
         }
-    
+
     # EXTRACT DATA FROM TABLES
     ''' First get number of datapoints and number of player names '''
 
-    smash_data = exinf.db_load_csv( stat_object )
-    
+    smash_data = exinf.db_load_csv( query_specs )
+
     playernames = smash_data['playernames']
     charnames = smash_data['charnames']
     tournaments = smash_data['tournaments_included']
@@ -221,12 +230,12 @@ def print_smash_stats( level_limits, skip_these_players, individual_stats, markd
     numchars = len(charnames)
     numnames = len(playernames)
 
-    print_header( smash_data, stat_object )
+    print_header( smash_data, query_specs )
 
 
     # Next retrieve character-based results
 
-    smash_char_data = exinf.get_game_data( smash_data, stat_object )
+    smash_char_data = exinf.get_game_data( smash_data, query_specs )
     charnames = smash_char_data['charnames']
     charnums = smash_char_data['charnums']
     char_tots = smash_char_data['char_tots']
@@ -290,18 +299,18 @@ def print_smash_stats( level_limits, skip_these_players, individual_stats, markd
     # GET PLAYER DATA
     ''' Get player game totals, and char totals '''
 
-    pldata = exinf.get_player_data(smash_data, stat_object)
+    pldata = exinf.get_player_data(smash_data, query_specs)
     playerchargames = pldata['playerchargames']
     playercharwins = pldata['playercharwins']
 
     for game in smash_data['games_archive']:
-        
+
         play1 = game['player1']
         play2 = game['player2']
         char1 = game['char1']
         char2 = game['char2']
-        
-        gameplayernames = [ play1, play2 ]        
+
+        gameplayernames = [ play1, play2 ]
         gamecharnames = [ char1, char2 ]
         for j in [0,1]:
             current_playerchar = gameplayernames[j] + '-' + gamecharnames[j]
@@ -334,7 +343,7 @@ def print_smash_stats( level_limits, skip_these_players, individual_stats, markd
 
 
     # INDIVIDUAL STATS
-    
+
     print("\n\nINDIVIDUAL STATS")
 
     for PLAYER_NAME in individual_stats:

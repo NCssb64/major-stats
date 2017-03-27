@@ -4,27 +4,27 @@ import numpy as np
 """
     Determines if a game falls outside the input search criteria
 """
-def skip_this_game( comp_level, players, stat_object):
-    level_limits = stat_object['limits']
-    skip_these_players = stat_object['skips']
-    bracket_levels_map = stat_object['bracket_map']
-    
+def skip_this_game( comp_level, players, query_specs):
+    level_limits = query_specs['limits']
+    skip_these_players = query_specs['skips']
+    bracket_levels_map = query_specs['bracket_map']
+
     if (bracket_levels_map[comp_level] < level_limits[0]) or (bracket_levels_map[comp_level] > level_limits[1]):
         return True
     play1, play2 = players
     if (play1 in skip_these_players.keys()) or (play2 in skip_these_players.keys()):
         return True
 
-    
+
 """
     Loads all games that meet search criteria
 """
-def db_load_csv( stat_object ):
+def db_load_csv( query_specs ):
 
-    level_limits = stat_object['limits']
-    skip_these_players = stat_object['skips']
-    bracket_levels_map = stat_object['bracket_map']
-            
+    level_limits = query_specs['limits']
+    skip_these_players = query_specs['skips']
+    bracket_levels_map = query_specs['bracket_map']
+
     file = open( 'smashdata.csv' )
     games_archive = []
     playernames = {}
@@ -38,7 +38,7 @@ def db_load_csv( stat_object ):
         comp_level = parts[8]
         play1 = parts[2]
         play2 = parts[3]
-        if skip_this_game( comp_level, parts[2:4], stat_object) == True:
+        if skip_this_game( comp_level, parts[2:4], query_specs) == True:
             continue
 
         tourn_full = parts[0] + ' ' + parts[1]
@@ -47,7 +47,7 @@ def db_load_csv( stat_object ):
         playernames[ play2 ] = 1
         charnames[ parts[4] ] = 1
         charnames[ parts[5] ] = 1
-        
+
         single_game = {
             'tourney_name': tourn_full,
             'player1': play1,
@@ -60,7 +60,7 @@ def db_load_csv( stat_object ):
             'which_game': parts[9],
             'best_of_X': parts[10]
             }
-        
+
         games_archive.append( single_game )
     file.close()
     return {
@@ -74,13 +74,13 @@ def db_load_csv( stat_object ):
 """
     From games archive, compile per-game stats
 """
-def get_game_data(smash_data, stat_object ):
+def get_game_data(smash_data, query_specs ):
 
-    level_limits = stat_object['limits']
-    skip_these_players = stat_object['skips']
-    bracket_levels_map = stat_object['bracket_map']
-    
-    games_archive = smash_data['games_archive'] 
+    level_limits = query_specs['limits']
+    skip_these_players = query_specs['skips']
+    bracket_levels_map = query_specs['bracket_map']
+
+    games_archive = smash_data['games_archive']
     numitems = len(games_archive)
     playernames = smash_data['playernames']
     charnames = smash_data['charnames']
@@ -107,7 +107,7 @@ def get_game_data(smash_data, stat_object ):
         number2char[ whichchar ] = item
         whichchar = whichchar + 1
 
-        
+
     ''' Construct maps for player-character info '''
     num2pchar = []
     pchar2num = {}
@@ -129,7 +129,7 @@ def get_game_data(smash_data, stat_object ):
                 num2pchar.append(current_playerchar)
                 which_entry = which_entry + 1
     numpchars = len(num2pchar)
-    
+
 
     ''' Construct adjacency matrices for game stats ??? '''
     # GameMat gives number of games played between players.
@@ -144,22 +144,22 @@ def get_game_data(smash_data, stat_object ):
 
     char_wins = np.zeros((numchars,1))
     for game in games_archive:
-        
+
         game_num = game['which_game']
         best_of = game['best_of_X']
-            
+
         play1 = game['player1']
         play2 = game['player2']
         char1 = game['char1']
         char2 = game['char2']
         pchar1 = play1 + '-' + char1
         pchar2 = play2 + '-' + char2
-        
+
         xjpchar = pchar2num[pchar1]
         yjpchar = pchar2num[pchar2]
         xj = name2number[ play1 ]
         yj = name2number[ play2 ]
-        
+
         pchargamemat[ xjpchar, yjpchar ] = pchargamemat[ xjpchar, yjpchar ] + 1
         pchargamemat[ yjpchar, xjpchar ] = pchargamemat[ yjpchar, xjpchar ] + 1
         GameMat[ xj, yj ] = GameMat[ xj, yj ] + 1
@@ -250,25 +250,25 @@ def get_game_data(smash_data, stat_object ):
         'char_wins':char_wins
         }
 
-def get_player_data( smash_data, stat_object):
-    level_limits = stat_object['limits']
-    skip_these_players = stat_object['skips']
-    bracket_levels_map = stat_object['bracket_map']
-    
+def get_player_data( smash_data, query_specs):
+    level_limits = query_specs['limits']
+    skip_these_players = query_specs['skips']
+    bracket_levels_map = query_specs['bracket_map']
+
     playerchargames = {}
     playercharwins = {}
-    
+
     for game in smash_data['games_archive']:
-        
+
         comp_level = game['bracket_level']
         play1 = game['player1']
         play2 = game['player2']
         char1 = game['char1']
         char2 = game['char2']
-        
-        if skip_this_game( comp_level, (play1, play2) , stat_object) == True:
+
+        if skip_this_game( comp_level, (play1, play2) , query_specs) == True:
             continue
-            
+
         gameplayernames = [ play1, play2 ]
         gamecharnames = [ char1, char2 ]
         for j in [0,1]:
@@ -276,7 +276,7 @@ def get_player_data( smash_data, stat_object):
             playerchargames[ current_playerchar ] = 0
             playercharwins[ current_playerchar ] = 0
 
-            
+
     return {
         'playerchargames':playerchargames,
         'playercharwins':playercharwins
