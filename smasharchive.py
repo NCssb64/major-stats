@@ -26,36 +26,37 @@ class smashdb:
         self.level_limits = [0,9]
         self.skip_these_players = {}
 
-        # ARCHIVE
-        self.games_archive = []
-        self.playernames = {}
-        self.charnames = {}
-        self.tournaments_included = {}
-
-        self.numgames = len( self.games_archive )
-        self.numchars = len( self.charnames )
-        self.numnames = len( self.playernames )
+        self.tournament_year_skip = {}
+        self.tournament_name_skip = {}
         
-        self.load_csv()
-        self.print_header()
+        # ARCHIVE
 
+        self.load_csv()
+        # self.print_header()
         self.get_game_data()
 
 
     """
     Determines if a game falls outside the input search criteria
     """
-    def skip_this_game( self, comp_level, players):
-        if (self.bracket_levels_map[comp_level] < self.level_limits[0]) or (self.bracket_levels_map[comp_level] > self.level_limits[1]):
+    def skip_this_game( self, comp_level, players, tournament_year, tournament_name ):
+        if (self.bracket_levels_map[comp_level] < self.level_limits[0]):
+            return True
+        if (self.bracket_levels_map[comp_level] > self.level_limits[1]):
             return True
         play1, play2 = players
-        if (play1 in self.skip_these_players.keys()) or (play2 in self.skip_these_players.keys()):
+        if (play1 in self.skip_these_players.keys()):
+            return True
+        if (play2 in self.skip_these_players.keys()):
+            return True
+        if tournament_year in self.tournament_year_skip.keys():
+            return True
+        if tournament_name in self.tournament_name_skip.keys():
             return True
 
 
 
     def load_csv(self):
-        print('testing')
         file = open( 'smashdata.csv' )
         self.games_archive = []
         self.playernames = {}
@@ -69,10 +70,12 @@ class smashdb:
             comp_level = parts[8]
             play1 = parts[2]
             play2 = parts[3]
-            if self.skip_this_game( comp_level, parts[2:4] ) == True:
+            tournament_year = parts[0]
+            tournament_name = parts[1]
+            if self.skip_this_game( comp_level, parts[2:4], tournament_year, tournament_name ) == True:
                 continue
 
-            tourn_full = parts[0] + ' ' + parts[1]
+            tourn_full = tournament_year + ' ' + tournament_name
             self.tournaments_included[ tourn_full ] = 1
             self.playernames[ play1 ] = 1
             self.playernames[ play2 ] = 1
@@ -129,9 +132,6 @@ class smashdb:
     """
     def get_game_data(self):
 
-        self.num2pchar = []
-        self.pchar2num = {}
-                
         # PREPPING PER-GAME STATS
         self.number2name = {}
         self.name2number = {}
@@ -140,7 +140,6 @@ class smashdb:
 
         self.mu_charnames = []
         self.mu_charnums = []
-        
         self.muchar1 = []
         self.muchar2 = []
         self.muchar_tots = []
@@ -253,6 +252,14 @@ class smashdb:
             self.mu_charnames.append(self.muchar_tots[j][0])
             self.mu_charnums.append(self.muchar_tots[j][1])
 
+
+    """
+    Re-compile the smash archive 
+    """
+    def refilter_archive(self):
+        self.load_csv()
+        self.print_header()
+        self.get_game_data()
 
 
     def print_mu_stats( self, game_threshold=20, markdown_flag=False ):
