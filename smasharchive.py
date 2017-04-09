@@ -4,7 +4,8 @@ import numpy as np
 class smashdb:
     def __init__(self):
         print('initiatlizing smashdb')
-        # FILTER
+
+        # FILTERING OPTIONS
         self.bracket_levels = [ 'pools', 'bracket', 'top64', 'top32',
                           'top16', 'top8', 'lf', 'wf', 'gf', 'gf2']
         self.bracket_levels_map = {
@@ -32,7 +33,6 @@ class smashdb:
         # ARCHIVE
 
         self.load_csv()
-        # self.print_header()
         self.get_game_data()
 
 
@@ -57,6 +57,22 @@ class smashdb:
 
 
     def load_csv(self):
+        file = open( 'smashdata-tournaments.csv' )
+        self.tournament_archive = {}
+        for line in file:
+            line = line.strip()
+            parts = line.split(',')
+            tourn_full = parts[0] + ' ' + parts[1]
+            self.tournament_archive[tourn_full] = {
+                'year': parts[0],
+                'name': parts[1],
+                'attendance': parts[2],
+                'version': parts[3],
+                'region': parts[4],
+                'games': 0
+            }
+        file.close()
+        
         file = open( 'smashdata.csv' )
         self.games_archive = []
         self.playernames = {}
@@ -82,8 +98,11 @@ class smashdb:
             self.charnames[ parts[4] ] = 1
             self.charnames[ parts[5] ] = 1
 
+            self.tournament_archive[tourn_full]['games'] += 1
+            
             single_game = {
-                'tourney_name': tourn_full,
+                'tourney_name': tournament_name,
+                'tourney_year': tournament_year,
                 'player1': play1,
                 'player2': play2,
                 'char1': parts[4],
@@ -108,23 +127,33 @@ class smashdb:
     PRINTING FUNCTIONS
     """
     def print_header(self):
-
-        print("\nSMASH ARCHIVE QUERY RESULTS")
-        print("\nfrom recorded games at the following events:")
+        namesp = 17
+        playsp = 8
+        datasp = 12
+        regsp = 8
+        versp = 9
+        print('\nSMASH ARCHIVE QUERY RESULTS\n')
+        print('| ' + '{: <{sp}}'.format('Name',sp=namesp) + '|' + '{: >{sp}}'.format('Players',sp=playsp) + ' |' + '{: >{sp}}'.format('data-points',sp=datasp) + ' |' + '{: >{sp}}'.format('Region',sp=regsp) + ' |' + '{: >{sp}}'.format('Version',sp=versp) + ' |')
+        
+        print('|:' + '{:->{sp}}'.format('',sp=namesp) + '|' + '{:->{sp}}'.format('',sp=playsp) + ':|' + '{:->{sp}}'.format('',sp=datasp) + ':|' + '{:->{sp}}'.format('',sp=regsp) + ':|' + '{:->{sp}}'.format('',sp=versp) + ':|')
+        
         for key in self.tournaments_included:
-            print('\t\t' + key)
+            tourn_dict = self.tournament_archive[key]
+            print('| ' + '{: <{sp}}'.format(key,sp=namesp) + '|' + '{: >{sp}}'.format(tourn_dict['attendance'],sp=playsp) + ' |' + '{: >{sp}}'.format(str(tourn_dict['games']),sp=datasp) + ' |' + '{: >{sp}}'.format(tourn_dict['region'],sp=regsp) + ' |' + '{: >{sp}}'.format(tourn_dict['version'],sp=versp) + ' |')
+
+
         if bool(self.skip_these_players):
             print("\nSkipping these players:")
             for key in self.skip_these_players:
-                print('\t\t' + key)
-
+                    print(' * ' + key)
+                
         lim1,lim2 = self.level_limits
-        print("Includes " + self.bracket_levels[lim1] + " games through " + self.bracket_levels[lim2])
+        print("\n* Includes " + self.bracket_levels[lim1] + " games through " + self.bracket_levels[lim2])
 
-        # print("Data taken from all recorded games.")
-        print( 'Number of players in query: ' + str(self.numnames) )
-        print( 'Number of games in query: ' + str(self.numgames) )
-        print( '\n' )
+        print( '* Number of players in query: ' + str(self.numnames) )
+        print( '* Number of games in query: ' + str(self.numgames) + '\n')
+                
+                
 
 
     """
@@ -162,7 +191,6 @@ class smashdb:
             self.char2number[ item ] = whichchar
             self.number2char[ whichchar ] = item
             whichchar = whichchar + 1
-
 
         ''' Construct maps for player-character info '''
         which_entry = 0
@@ -216,6 +244,8 @@ class smashdb:
             losechar = ychar
             winpl = xj
             losepl = yj
+            winpchar = xjpchar
+            losepchar = yjpchar
             if int( game['game_outcome'] ) == 2:
                 winchar = ychar
                 losechar = xchar
@@ -252,30 +282,124 @@ class smashdb:
             self.mu_charnames.append(self.muchar_tots[j][0])
             self.mu_charnums.append(self.muchar_tots[j][1])
 
+    """
+    Retrieve player-character stats
+    """
+    def get_playerchar_data(self):
+
+        self.playerchargames = {}
+        self.playercharwins = {}
+
+        # Make sure they're all in the dictionary
+        for game in self.games_archive:
+            play1 = game['player1']
+            play2 = game['player2']
+            char1 = game['char1']
+            char2 = game['char2']            
+            gameplayernames = [ play1, play2 ]
+            gamecharnames = [ char1, char2 ]
+            for j in [0,1]:
+                current_playerchar = gameplayernames[j] + '-' + gamecharnames[j]
+                self.playerchargames[ current_playerchar ] = 0
+                self.playercharwins[ current_playerchar ] = 0
+
+        # Now tally the games and wins
+        for game in self.games_archive:
+            play1 = game['player1']
+            play2 = game['player2']
+            char1 = game['char1']
+            char2 = game['char2']            
+            gameplayernames = [ play1, play2 ]
+            gamecharnames = [ char1, char2 ]
+            for j in [0,1]:
+                current_playerchar = gameplayernames[j] + '-' + gamecharnames[j]
+                self.playerchargames[ current_playerchar ] += 1
+                
+            whichwin = int(game['game_outcome']) - 1
+            winningplayer = gameplayernames[whichwin] + '-' + gamecharnames[whichwin]
+            self.playercharwins[winningplayer] += 1
+        
+
+        
+    """
+    Print stats for all player-chars
+    """
+    def print_playerchar(self):
+        self.get_playerchar_data()
+        # Re-organize to sort alphabetically
+        playchar2num = {}
+        num2playchar = []
+        num2wins = []
+        numitems = 0
+        for key, val in self.playerchargames.items():
+            playchar2num[key] = numitems
+            num2playchar.append(key)
+            num2wins.append(val)
+            numitems = numitems + 1
+
+        inds = list(np.argsort(num2playchar))
+        print("\nPlayer-character game data")
+        print("\nplayer-character" + '\t\t' + "# games" + '\t\t' + "# wins" + '\t\t' + "% win")
+        for j in range(len(playchar2num)):
+            idx = inds[j]
+            key = num2playchar[idx]
+            val = int(self.playerchargames[key])
+            valwins = int(self.playercharwins[key])
+            print( key.ljust(20) + '\t\t' + str(val) + '\t\t' + str(valwins) + '\t\t' +  ("%.2f" % (valwins/val) ) )
+        
 
     """
     Re-compile the smash archive 
     """
     def refilter_archive(self):
         self.load_csv()
-        self.print_header()
         self.get_game_data()
 
 
-    def print_mu_stats( self, game_threshold=20, markdown_flag=False ):
-
-        # NOW PRINT
+    """
+        PRINT MATCH UP STATS
+    """
+    def print_mu_stats( self, game_threshold=20):
         print("MATCHUP PERCENTAGES \n")
-        if markdown_flag == True:
-            print(" | char1 | char2 | # games | % win char1 | ")
-            print(" |:---|:---|---:|---:| ")
-        else:
-            print("char1 \tchar2 \t# games \tchar1 wins \tprct win by char 1")
+        print("| char1 | char2 | # games | % win char1 | ")
+        print("|:---|:---|---:|---:| ")
         inds = list(reversed(np.argsort(self.num_mu_matches)))
         for i in inds:
             if self.num_mu_matches[i] < game_threshold:
                 continue
-            if markdown_flag == True:
-                print( '|' + self.muchar1[i] + '|' + self.muchar2[i] + '|' + str(self.num_mu_matches[ i ] ) + '|' + ("%.2f" % self.mu_outcome_prct[i]) + '|' )
-            else:
-                print( self.muchar1[i] + '\t' + self.muchar2[i] + '\t' + str(self.num_mu_matches[ i ] ) + '\t\t' + str(self.num_mu_outcomes[i]) + '\t\t' + ("%.2f" % self.mu_outcome_prct[i]) )
+            print( '|' + self.muchar1[i] + '|' + self.muchar2[i] + '|' + str(self.num_mu_matches[ i ] ) + '|' + ("%.2f" % self.mu_outcome_prct[i]) + '|' )
+                
+                
+
+    """
+        PRINT CHAR STATS
+    """
+    def print_chargames_stats( self ):
+        # Print just character appearances
+        # (including dittos)
+        
+        # Set spacing values for output
+        charspacing = 12
+        countspacing = 13
+        prctspacing = 10
+
+        tempcharnames = []
+        charappearances = []
+        for j in range(len(self.muchar_tots)):
+            tempcharnames.append( self.muchar_tots[j][0] )
+            charappearances.append( self.muchar_tots[j][1] )
+            
+        inds = list(np.argsort(charappearances)[::-1])
+
+        print("\n* Total games " + str(sum(sum(self.CharGameMat))/2 ) + " (two characters appear per game)")
+        print( '* Number of players in query: ' + str(self.numnames) )
+        print( '* Number of games in query: ' + str(self.numgames) + '\n')
+        
+        print('| ' + '{: ^{sp}}'.format('char',sp=charspacing) + ' | ' + '{: ^{sp}}'.format('# appearances',sp=countspacing) + ' | ' + '{: >{sp}}'.format('% of total',sp=prctspacing) + ' |')
+        print('|:' + '{:-<{sp}}'.format('',sp=charspacing) + '-|-' + '{:->{sp}}'.format('',sp=countspacing) + ':|-' + '{:->{sp}}'.format('',sp=prctspacing) + ':|' )
+        
+        for idx in range(len(inds)):
+            i = inds[idx]
+            prctchr = "%.2f" % (int(charappearances[i])/(sum(sum(self.CharGameMat))) )
+            print( '| ' + '{msg: <{sp}}'.format(msg=tempcharnames[i],sp=charspacing) + ' | ' + '{msg: >{sp}}'.format(msg=str(charappearances[i]),sp=countspacing) + ' | ' + '{msg: >{sp}}'.format(msg=prctchr,sp=prctspacing) + ' |')
+                
