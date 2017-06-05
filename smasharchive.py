@@ -360,16 +360,36 @@ class smashdb:
         PRINT MATCH UP STATS
     """
     def print_mu_stats( self, game_threshold=20):
+        charspace = 12
+        gamenumspace = 8
+        percspace = 12
+        
         print("MATCHUP PERCENTAGES \n")
-        print("| char1 | char2 | # games | % win char1 | ")
-        print("|:---|:---|---:|---:| ")
+        print("| {: <{sp}}| {: <{sp}}| {: <{spg}}| {: >{spp}}|".format('char1', 'char2', '# games', '% win char1',
+                                                                    sp=charspace, spg=gamenumspace, spp=percspace) )
+        print("|:{:->{sp}}|:{:->{sp}}|{:->{spg}}:|{:->{spp}}:|".format('', '', '', '', sp=charspace, spg=gamenumspace,
+                                                                       spp=percspace))
         inds = list(reversed(np.argsort(self.num_mu_matches)))
         for i in inds:
             if self.num_mu_matches[i] < game_threshold:
                 continue
-            print( '|' + self.muchar1[i] + '|' + self.muchar2[i] + '|' + str(self.num_mu_matches[ i ] ) + '|' + ("%.2f" % self.mu_outcome_prct[i]) + '|' )
+            
+            winningchar = self.muchar1[i]
+            losingchar = self.muchar2[i]
+            prct = self.mu_outcome_prct[i]
+            if winningchar == losingchar:
+                continue
+            if prct < 0.5:
+                prct = 1-prct
+                winningchar = losingchar
+                losingchar = self.muchar1[i]
+            print( '| ' + '{: <{sp}}'.format(winningchar,sp=charspace)
+                  + '| ' + '{: <{sp}}'.format(losingchar,sp=charspace)
+                  + '| ' + '{: <{sp}}'.format(str(self.num_mu_matches[ i ] ), sp=gamenumspace)
+                  + '| ' + '{: >{sp}.2f}'.format(prct, sp=percspace) + '|' )
+                  #+ '| ' + ("%.2f" % self.mu_outcome_prct[i]) + '|' )
                 
-                
+
 
     """
         PRINT CHAR STATS

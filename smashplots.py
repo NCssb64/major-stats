@@ -14,6 +14,12 @@ labels = ['pools', 'bracket', 'top32', 'top16', 'top8', 'top4', 'grands', 'reset
 
 def make_single_plot(temp_char_map, temp_char_name, pltname, print_plots=False):
     # plt.figure(num=None, figsize=(8, 5), dpi=100, facecolor='w', edgecolor='k')
+
+    print("Trying {}  {}  {}".format(pltname, len(temp_char_name), len(temp_char_map)))
+    if (len(temp_char_name) == 0) | (len(temp_char_map) == 0):
+        print("passed an empty input for {}".format(pltname))
+        return
+        
     fig, ax = plt.subplots()
     
     for data in temp_char_map:
@@ -25,7 +31,7 @@ def make_single_plot(temp_char_map, temp_char_name, pltname, print_plots=False):
     plt.title('Character usage: ' + pltname)
     plt.xlabel('Stage of tournament')
     plt.ylabel('Ratio of total character usage that stage')
-
+    
     end_idx = min( len(temp_char_map[0]), len(labels) )
     use_labels = labels[0:end_idx]
     plt.xticks(range(len(use_labels)), use_labels, rotation='vertical')
