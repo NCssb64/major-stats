@@ -29,6 +29,11 @@ class smashdb:
 
         self.tournament_year_skip = {}
         self.tournament_name_skip = {}
+
+        self.ranking_threshold = 10
+        self.ranking_filter = False
+        
+        self.character_set = set()
         
         # ARCHIVE
 
@@ -39,7 +44,7 @@ class smashdb:
     """
     Determines if a game falls outside the input search criteria
     """
-    def skip_this_game( self, comp_level, players, tournament_year, tournament_name ):
+    def skip_this_game( self, comp_level, players, tournament_year, tournament_name, outcome, chars ):
         if (self.bracket_levels_map[comp_level] < self.level_limits[0]):
             return True
         if (self.bracket_levels_map[comp_level] > self.level_limits[1]):
@@ -53,7 +58,25 @@ class smashdb:
             return True
         if tournament_name in self.tournament_name_skip.keys():
             return True
-
+        
+        if self.ranking_filter:
+            if players[0] in self.player_rankings and players[1] in self.player_rankings:
+                wini = (int(outcome) + 1) % 2
+                losei = (wini + 1) % 2
+                winningplayer = players[wini]
+                losingplayer = players[losei]
+                winningplayerrank = float(self.player_rankings[winningplayer])
+                losingplayerrank = float(self.player_rankings[losingplayer])
+                if winningplayerrank < losingplayerrank + self.ranking_threshold:
+                    """
+                    print("{} beats {}; {} vs {} gap = {} ".format(winningplayer, losingplayer,
+                                                                   chars[wini], chars[losei],
+                                                                   winningplayerrank - losingplayerrank))
+                    """
+                    return False
+                else:
+                    return True
+        return False
 
 
     def load_csv(self):
@@ -88,7 +111,7 @@ class smashdb:
             play2 = parts[3]
             tournament_year = parts[0]
             tournament_name = parts[1]
-            if self.skip_this_game( comp_level, parts[2:4], tournament_year, tournament_name ) == True:
+            if self.skip_this_game( comp_level, parts[2:4], tournament_year, tournament_name, parts[6], parts[4:6] ) == True:
                 continue
 
             tourn_full = tournament_year + ' ' + tournament_name
@@ -120,6 +143,23 @@ class smashdb:
         self.numchars = len( self.charnames )
         self.numnames = len( self.playernames )
 
+        file.close()
+
+        file = open( 'ssbcentral-rankings.tsv' )
+        self.player_rankings = {}
+        self.player_names_map = {}
+        for line in file:
+            line = line.strip()
+            parts = line.split()
+            if len(parts) < 2:
+                print(line)
+                continue
+            self.player_rankings[parts[0]] = parts[1]
+            if len(parts) > 2:
+                for new_name in parts[2::]:
+                    self.player_names_map[parts[0]] = parts[0]
+                    self.player_names_map[new_name] = parts[0]
+                    self.player_rankings[new_name] = parts[1]
         file.close()
 
 
@@ -357,6 +397,22 @@ class smashdb:
 
 
     """
+    Re-compile the smash archive 
+    """
+    def refilter_archive_for_ssbcentral(self, threshold=10):
+        self.ranking_threshold = threshold
+        self.ranking_filter = True
+        self.load_csv()
+        for player_name in self.playernames.keys():
+            self.skip_these_players[player_name] = 1
+        for player_name in self.player_rankings:
+            self.skip_these_players.pop(player_name, None)
+        self.load_csv()
+        self.get_game_data()
+
+
+
+    """
         PRINT MATCH UP STATS
     """
     def print_mu_stats( self, game_threshold=20):
@@ -422,4 +478,47 @@ class smashdb:
             i = inds[idx]
             prctchr = "%.2f" % (int(charappearances[i])/(sum(sum(self.CharGameMat))) )
             print( '| ' + '{msg: <{sp}}'.format(msg=tempcharnames[i],sp=charspacing) + ' | ' + '{msg: >{sp}}'.format(msg=str(charappearances[i]),sp=countspacing) + ' | ' + '{msg: >{sp}}'.format(msg=prctchr,sp=prctspacing) + ' |')
-                
+
+    def print_char_mu(self, char_set):
+        
+        def get_rankings(winplayer, losplayer):
+            winrank = -1.0
+            losrank = -1.0
+            if winplayer in self.player_rankings.keys():
+                winrank = float(self.player_rankings[winplayer])
+            if losplayer in self.player_rankings.keys():
+                losrank = float(self.player_rankings[losplayer])
+            return winrank, losrank
+            
+        if type(char_set) != set:
+            print("Input char_set is of wrong type.")
+        data_matrix = []
+        for single_game in self.games_archive:
+            chars = [single_game['char1'], single_game['char2']]
+            if set([chars[0], chars[1]]) != char_set:
+                continue
+            
+            wini = (int(single_game['game_outcome']) + 1) % 2
+            losei = (wini + 1) % 2
+            players = [single_game['player1'], single_game['player2']]
+            winningplayer = players[wini]
+            losingplayer = players[losei]
+            winrank, losrank = get_rankings(winningplayer, losingplayer)
+            winchar = chars[wini]
+            losechar = chars[losei]
+            # if winningplayerrank < losingplayerrank + self.ranking_threshold:
+            line = [single_game['tourney_name'],
+                      single_game['tourney_year'],
+                      single_game['bracket_level'],
+                      winningplayer, losingplayer,
+                      winchar, losechar,
+                      winrank, losrank]
+            data_matrix.append(line)
+            print("{: <12} {: <5} {: <5} {: <18} {: <18} {: <8} {: <8} {:4.3f} {:4.3f}".format(single_game['tourney_name'],
+                      single_game['tourney_year'],
+                      single_game['bracket_level'],
+                      winningplayer, losingplayer,
+                      winchar, losechar,
+                      winrank, losrank))
+                  
+        return data_matrix
