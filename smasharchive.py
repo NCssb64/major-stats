@@ -493,6 +493,13 @@ class smashdb:
         if type(char_set) != set:
             print("Input char_set is of wrong type.")
         data_matrix = []
+        print("{: <12} {: <5} {: <5} {: <18} {: <18} {: <8} {: <8} {: >4} {: >4}".format('Tournament',
+                      'Year',
+                      'Round',
+                      'Winner', 'Loser',
+                      'Winner', 'Loser',
+                      'W-rating', 'L-rating'))
+            
         for single_game in self.games_archive:
             chars = [single_game['char1'], single_game['char2']]
             if set([chars[0], chars[1]]) != char_set:
@@ -514,7 +521,7 @@ class smashdb:
                       winchar, losechar,
                       winrank, losrank]
             data_matrix.append(line)
-            print("{: <12} {: <5} {: <5} {: <18} {: <18} {: <8} {: <8} {:4.3f} {:4.3f}".format(single_game['tourney_name'],
+            print("{: <12} {: <5} {: <5} {: <18} {: <18} {: <8} {: <8} {: 8.3f} {: 8.3f}".format(single_game['tourney_name'],
                       single_game['tourney_year'],
                       single_game['bracket_level'],
                       winningplayer, losingplayer,
