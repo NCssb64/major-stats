@@ -182,10 +182,12 @@ class smashdb:
             print('| ' + '{: <{sp}}'.format(key,sp=namesp) + '|' + '{: >{sp}}'.format(tourn_dict['attendance'],sp=playsp) + ' |' + '{: >{sp}}'.format(str(tourn_dict['games']),sp=datasp) + ' |' + '{: >{sp}}'.format(tourn_dict['region'],sp=regsp) + ' |' + '{: >{sp}}'.format(tourn_dict['version'],sp=versp) + ' |')
 
 
+        """
         if bool(self.skip_these_players):
             print("\nSkipping these players:")
             for key in self.skip_these_players:
                     print(' * ' + key)
+        """
                 
         lim1,lim2 = self.level_limits
         print("\n* Includes " + self.bracket_levels[lim1] + " games through " + self.bracket_levels[lim2])
