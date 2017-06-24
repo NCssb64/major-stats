@@ -1,1510 +1,1584 @@
-2016,genesis 3,banze,zero,pika,falcon,2,pools,pools,1,3
-2016,genesis 3,banze,zero,pika,falcon,1,pools,pools,2,3
-2016,genesis 3,banze,zero,pika,falcon,1,pools,pools,3,3
-2016,genesis 3,fireblaster,ld,yoshi,fox,2,bracket,top16,1,3
-2016,genesis 3,fireblaster,ld,yoshi,fox,2,bracket,top16,2,3
-2016,genesis 3,tacos,superboomfan,yoshi,falcon,1,bracket,top16,1,3
-2016,genesis 3,tacos,superboomfan,falcon,kirby,2,bracket,top16,2,3
-2016,genesis 3,tacos,superboomfan,pika,kirby,2,bracket,top16,3,3
-2016,genesis 3,wangera,isai,puff,mario,2,bracket,top16,1,3
-2016,genesis 3,wangera,isai,puff,mario,1,bracket,top16,2,3
-2016,genesis 3,wangera,isai,puff,mario,1,bracket,top16,3,3
-2016,genesis 3,wario,wizzrobe,pika,yoshi,1,bracket,top16,1,3
-2016,genesis 3,wario,wizzrobe,pika,yoshi,1,bracket,top16,2,3
-2016,genesis 3,isai,stranded,mario,yoshi,1,bracket,top16,1,3
-2016,genesis 3,isai,stranded,mario,yoshi,1,bracket,top16,2,3
-2016,genesis 3,fireblaster,isai,yoshi,mario,2,pools,pools,1,3
-2016,genesis 3,fireblaster,isai,yoshi,mario,2,pools,pools,2,3
-2016,genesis 3,janitor,wario,falcon,pika,2,pools,pools,1,3
-2016,genesis 3,janitor,wario,falcon,pika,2,pools,pools,2,3
-2016,genesis 3,wangera,mokkori,puff,kirby,1,pools,pools,1,3
-2016,genesis 3,wangera,mokkori,puff,kirby,1,pools,pools,2,3
-2016,genesis 3,kort,daniel,link,falcon,1,pools,pools,1,3
-2016,genesis 3,kort,daniel,link,falcon,1,pools,pools,2,3
-2016,genesis 3,kort,stranded,link,falcon,2,pools,pools,1,3
-2016,genesis 3,kort,stranded,link,falcon,2,pools,pools,2,3
-2016,genesis 3,mariguas,stranded,falcon,falcon,1,pools,pools,1,3
-2016,genesis 3,mariguas,stranded,falcon,falcon,1,pools,pools,2,3
-2016,genesis 3,superboomfan,banze,falcon,pika,1,pools,pools,1,3
-2016,genesis 3,superboomfan,banze,falcon,pika,1,pools,pools,2,3
-2016,genesis 3,superboomfan,wario,falcon,pika,1,bracket,gf,1,5
-2016,genesis 3,superboomfan,wario,falcon,pika,1,bracket,gf,2,5
-2016,genesis 3,superboomfan,wario,falcon,pika,1,bracket,gf,3,5
-2016,genesis 3,superboomfan,wario,falcon,pika,2,bracket,gf2,1,5
-2016,genesis 3,superboomfan,wario,falcon,pika,2,bracket,gf2,2,5
-2016,genesis 3,superboomfan,wario,falcon,pika,2,bracket,gf2,3,5
-2016,genesis 3,isai,mariguas,fox,pika,1,bracket,top8,1,5
-2016,genesis 3,isai,mariguas,fox,pika,1,bracket,top8,2,5
-2016,genesis 3,isai,mariguas,fox,pika,2,bracket,top8,3,5
-2016,genesis 3,isai,mariguas,fox,pika,2,bracket,top8,4,5
-2016,genesis 3,isai,mariguas,fox,pika,1,bracket,top8,5,5
-2016,genesis 3,isai,wangera,fox,puff,2,bracket,top8,1,5
-2016,genesis 3,isai,wangera,fox,puff,2,bracket,top8,2,5
-2016,genesis 3,isai,wangera,fox,puff,1,bracket,top8,3,5
-2016,genesis 3,isai,wangera,pika,puff,2,bracket,top8,4,5
-2016,genesis 3,superboomfan,wangera,pika,puff,2,bracket,lf,1,5
-2016,genesis 3,superboomfan,wangera,pika,puff,1,bracket,lf,2,5
-2016,genesis 3,superboomfan,wangera,pika,puff,1,bracket,lf,3,5
-2016,genesis 3,superboomfan,wangera,pika,puff,1,bracket,lf,4,5
-2016,genesis 3,kerokeroppi,wizzrobe,pika,yoshi,1,bracket,top8,1,5
-2016,genesis 3,kerokeroppi,wizzrobe,pika,yoshi,1,bracket,top8,2,5
-2016,genesis 3,kerokeroppi,wizzrobe,pika,yoshi,1,bracket,top8,3,5
-2016,genesis 3,kerokeroppi,wizzrobe,pika,yoshi,2,bracket,top8,4,5
-2016,genesis 3,isai,tacos,fox,yoshi,1,bracket,top8,1,5
-2016,genesis 3,isai,tacos,fox,yoshi,1,bracket,top8,2,5
-2016,genesis 3,isai,tacos,fox,yoshi,1,bracket,top8,3,5
-2016,genesis 3,wario,mariguas,pika,falcon,1,bracket,top8,1,5
-2016,genesis 3,wario,mariguas,pika,pika,1,bracket,top8,2,5
-2016,genesis 3,wario,mariguas,pika,pika,1,bracket,top8,3,5
-2016,genesis 3,kerokeroppi,wangera,pika,puff,2,bracket,top8,1,5
-2016,genesis 3,kerokeroppi,wangera,pika,puff,2,bracket,top8,2,5
-2016,genesis 3,kerokeroppi,wangera,pika,puff,2,bracket,top8,3,5
-2016,genesis 3,wario,superboomfan,pika,falcon,1,bracket,wf,1,5
-2016,genesis 3,wario,superboomfan,pika,falcon,1,bracket,wf,2,5
-2016,genesis 3,wario,superboomfan,pika,falcon,1,bracket,wf,3,5
-2016,genesis 3,wario,superboomfan,pika,falcon,2,bracket,wf,4,5
-2016,genesis 3,studstill,heropie,kirby,pika,2,pools,pools,1,3
-2016,genesis 3,studstill,heropie,kirby,pika,2,pools,pools,2,3
-2016,genesis 3,alacarte,aubfox,falcon,fox,1,pools,pools,1,3
-2016,genesis 3,alacarte,aubfox,fox,fox,2,pools,pools,2,3
-2016,genesis 3,alacarte,aubfox,pika,fox,1,pools,pools,3,3
-2016,genesis 3,hungrybox,jpeghero,kirby,kirby,1,pools,pools,1,3
-2016,genesis 3,hungrybox,jpeghero,kirby,kirby,1,pools,pools,2,3
-2016,genesis 3,mrryanness,sotoh,ness,falcon,2,pools,pools,1,3
-2016,genesis 3,mrryanness,sotoh,ness,fox,2,pools,pools,2,3
-2016,genesis 3,xor,ern,fox,puff,1,pools,pools,1,3
-2016,genesis 3,xor,ern,fox,puff,1,pools,pools,2,3
-2016,genesis 3,drewgong,xor,fox,fox,2,pools,pools,1,3
-2016,genesis 3,drewgong,xor,falcon,fox,2,pools,pools,2,3
-2016,genesis 3,apparition,isai,dk,dk,2,pools,pools,1,3
-2016,genesis 3,apparition,isai,luigi,dk,2,pools,pools,2,3
-2016,genesis 3,hungrybox,shears,kirby,pika,2,pools,pools,1,3
-2016,genesis 3,hungrybox,shears,kirby,luigi,2,pools,pools,2,3
-2016,genesis 3,xor,pete,fox,yoshi,2,pools,pools,1,3
-2016,genesis 3,xor,pete,kirby,yoshi,2,pools,pools,2,3
-2016,genesis 3,krypto,ern,pika,puff,2,pools,pools,1,3
-2016,genesis 3,krypto,ern,pika,puff,2,pools,pools,2,3
-2016,genesis 3,jayr,kerokeroppi,falcon,pika,2,pools,pools,1,3
-2016,genesis 3,jayr,kerokeroppi,falcon,pika,2,pools,pools,2,3
-2016,genesis 3,ld,freean,fox,falcon,1,pools,pools,1,3
-2016,genesis 3,ld,freean,fox,falcon,1,pools,pools,2,3
-2016,genesis 3,preston,stranded,kirby,pika,2,pools,pools,1,3
-2016,genesis 3,preston,stranded,kirby,fox,2,pools,pools,2,3
-2016,genesis 3,nothing,fireblaster,falcon,yoshi,2,pools,pools,1,3
-2016,genesis 3,nothing,fireblaster,falcon,yoshi,2,pools,pools,2,3
-2016,genesis 3,shears,captainl,pika,fox,1,pools,pools,1,3
-2016,genesis 3,shears,captainl,pika,fox,1,pools,pools,2,3
-2016,genesis 3,hungrybox,starchild,kirby,puff,2,pools,pools,1,3
-2016,genesis 3,hungrybox,starchild,kirby,puff,2,pools,pools,2,3
-2016,genesis 3,lordnarwhal,ctg,falcon,puff,1,pools,pools,1,3
-2016,genesis 3,lordnarwhal,ctg,falcon,puff,1,pools,pools,2,3
-2016,genesis 3,captainl,autobaun,fox,kirby,1,pools,pools,1,3
-2016,genesis 3,captainl,autobaun,fox,kirby,1,pools,pools,2,3
-2016,genesis 3,pete,ern,yoshi,puff,1,pools,pools,1,3
-2016,genesis 3,pete,ern,yoshi,puff,1,pools,pools,2,3
-2016,genesis 3,rith,bard,pika,kirby,1,pools,pools,1,3
-2016,genesis 3,rith,bard,pika,kirby,1,pools,pools,2,3
-2016,genesis 3,masterhandjob,yunque,pika,puff,2,pools,pools,1,3
-2016,genesis 3,masterhandjob,yunque,pika,puff,1,pools,pools,2,3
-2016,genesis 3,masterhandjob,yunque,pika,puff,1,pools,pools,3,3
-2016,genesis 3,karajan,tonester,fox,pika,1,pools,pools,1,3
-2016,genesis 3,karajan,tonester,dk,kirby,1,pools,pools,2,3
-2016,genesis 3,maliki,imdabes,falcon,pika,1,pools,pools,1,3
-2016,genesis 3,maliki,imdabes,falcon,pika,1,pools,pools,2,3
-2016,genesis 3,elel,jaimehr,fox,falcon,2,pools,pools,1,3
-2016,genesis 3,elel,jaimehr,fox,falcon,2,pools,pools,2,3
-2016,genesis 3,eggmode,zero,pika,falcon,2,pools,pools,1,3
-2016,genesis 3,eggmode,zero,pika,falcon,2,pools,pools,2,3
-2016,genesis 3,dubs,superboomfan,fox,falcon,2,pools,pools,1,3
-2016,genesis 3,dubs,superboomfan,fox,falcon,2,pools,pools,2,3
-2016,genesis 3,weedwhack,ybombb,yoshi,puff,2,pools,pools,1,3
-2016,genesis 3,weedwhack,ybombb,yoshi,yoshi,2,pools,pools,2,3
-2016,genesis 3,maliki,kimimaru,pika,mario,2,pools,pools,1,3
-2016,genesis 3,maliki,kimimaru,pika,mario,2,pools,pools,2,3
-2016,genesis 3,daniel,nattybro,falcon,kirby,2,pools,pools,1,3
-2016,genesis 3,daniel,nattybro,samus,kirby,1,pools,pools,2,3
-2016,genesis 3,daniel,nattybro,pika,pika,1,pools,pools,3,3
-2016,genesis 3,zuko,sotoh,pika,falcon,2,pools,pools,1,3
-2016,genesis 3,zuko,sotoh,pika,fox,2,pools,pools,2,3
-2016,genesis 3,heropie,revan,pika,kirby,2,pools,pools,1,3
-2016,genesis 3,heropie,revan,fox,kirby,2,pools,pools,2,3
-2016,genesis 3,barksanchez,banze,pika,pika,2,pools,pools,1,3
-2016,genesis 3,barksanchez,banze,pika,pika,2,pools,pools,2,3
-2016,genesis 3,lordnarwhal,wangera,falcon,puff,2,pools,pools,1,3
-2016,genesis 3,lordnarwhal,wangera,falcon,puff,2,pools,pools,2,3
-2016,genesis 3,fireblaster,ybombb,yoshi,puff,1,pools,pools,1,3
-2016,genesis 3,fireblaster,ybombb,yoshi,puff,1,pools,pools,2,3
-2016,genesis 3,fireblaster,isai,yoshi,mario,2,pools,pools,1,3
-2016,genesis 3,fireblaster,isai,yoshi,mario,2,pools,pools,2,3
-2016,genesis 3,dext3r,wangera,pika,puff,2,pools,pools,1,3
-2016,genesis 3,dext3r,wangera,pika,puff,2,pools,pools,2,3
-2016,genesis 3,jayr,barksanchez,falcon,pika,2,pools,pools,1,3
-2016,genesis 3,jayr,barksanchez,falcon,kirby,1,pools,pools,2,3
-2016,genesis 3,jayr,barksanchez,falcon,pika,2,pools,pools,3,3
-2016,genesis 3,robert,kort,pika,pika,2,pools,pools,1,3
-2016,genesis 3,robert,kort,pika,pika,2,pools,pools,2,3
-2016,genesis 3,heropie,rith,pika,falcon,2,pools,pools,1,3
-2016,genesis 3,heropie,rith,pika,pika,2,pools,pools,2,3
-2016,genesis 3,shears,lordnarwhal,pika,falcon,2,pools,pools,1,3
-2016,genesis 3,shears,lordnarwhal,pika,falcon,1,pools,pools,2,3
-2016,genesis 3,shears,lordnarwhal,pika,falcon,2,pools,pools,3,3
-2016,genesis 3,barksanchez,shalaka,pika,pika,2,pools,pools,1,3
-2016,genesis 3,barksanchez,shalaka,pika,pika,1,pools,pools,2,3
-2016,genesis 3,barksanchez,shalaka,pika,pika,2,pools,pools,3,3
-2016,genesis 3,kort,thez,link,pika,2,pools,pools,1,3
-2016,genesis 3,kort,thez,link,pika,2,pools,pools,2,3
-2016,genesis 3,thez,kerokeroppi,pika,pika,2,bracket,top32,1,3
-2016,genesis 3,thez,kerokeroppi,pika,pika,1,bracket,top32,2,3
-2016,genesis 3,thez,kerokeroppi,pika,pika,2,bracket,top32,3,3
-2016,genesis 3,mariguas,kerokeroppi,pika,pika,1,bracket,top16,1,3
-2016,genesis 3,mariguas,kerokeroppi,pika,falcon,1,bracket,top16,2,3
-2016,genesis 3,tacos,thez,falcon,pika,1,bracket,top16,1,3
-2016,genesis 3,tacos,thez,yoshi,pika,1,bracket,top16,2,3
-2016,genesis 3,kimimaru,revan,mario,kirby,2,pools,pools,1,3
-2016,genesis 3,kimimaru,revan,mario,kirby,2,pools,pools,2,3
-2016,genesis 3,fireblaster,lordnarwhal,yoshi,falcon,1,pools,pools,1,3
-2016,genesis 3,fireblaster,lordnarwhal,mario,kirby,1,pools,pools,2,3
-2016,genesis 3,thez,revan,pika,kirby,1,bracket,top16,1,3
-2016,genesis 3,thez,revan,pika,kirby,1,bracket,top16,2,3
-2016,genesis 3,wizzrobe,dext3r,yoshi,pika,1,bracket,top16,1,3
-2016,genesis 3,wizzrobe,dext3r,yoshi,pika,1,bracket,top16,2,3
-2016,genesis 3,ld,kerokeroppi,fox,pika,2,bracket,top16,1,3
-2016,genesis 3,ld,kerokeroppi,fox,pika,2,bracket,top16,2,3
-2016,genesis 3,kyletree,stranded,pika,falcon,2,bracket,top32,1,3
-2016,genesis 3,kyletree,stranded,pika,falcon,2,bracket,top32,2,3
-2016,genesis 3,heropie,stranded,fox,falcon,2,bracket,top16,1,3
-2016,genesis 3,heropie,stranded,fox,falcon,2,bracket,top16,2,3
-2016,pound,shears,precookedbread,pika,puff,1,pools,pools,1,3
-2016,pound,shears,precookedbread,yoshi,ness,1,pools,pools,2,3
-2016,pound,yobolight,klumsy,yoshi,falcon,2,pools,pools,1,3
-2016,pound,yobolight,klumsy,yoshi,falcon,1,pools,pools,2,3
-2016,pound,yobolight,klumsy,yoshi,falcon,1,pools,pools,3,3
-2016,pound,jimmyjoe,shears,puff,pika,2,pools,pools,1,3
-2016,pound,jimmyjoe,shears,puff,pika,2,pools,pools,2,3
-2016,pound,knitephox,clubbadubba,falcon,pika,1,pools,pools,1,3
-2016,pound,knitephox,clubbadubba,falcon,pika,2,pools,pools,2,3
-2016,pound,knitephox,clubbadubba,falcon,pika,2,pools,pools,3,3
-2016,pound,yobolight,wizzrobe,ness,yoshi,2,pools,pools,1,3
-2016,pound,yobolight,wizzrobe,ness,yoshi,2,pools,pools,2,3
-2016,pound,q,revan,samus,kirby,2,pools,pools,1,3
-2016,pound,q,revan,falcon,kirby,2,pools,pools,2,3
-2016,pound,umbra,nothing,falcon,falcon,2,pools,pools,1,3
-2016,pound,umbra,nothing,fox,falcon,1,pools,pools,2,3
-2016,pound,umbra,nothing,fox,falcon,2,pools,pools,3,3
-2016,pound,q,dogsjohnson,falcon,falcon,1,pools,pools,1,3
-2016,pound,q,dogsjohnson,falcon,falcon,1,pools,pools,2,3
-2016,pound,dfx,kristoff,falcon,ness,1,pools,pools,1,3
-2016,pound,dfx,kristoff,falcon,ness,1,pools,pools,2,3
-2016,pound,holosly,iceking,falcon,pika,2,pools,pools,1,3
-2016,pound,holosly,iceking,falcon,falcon,2,pools,pools,2,3
-2016,pound,tank,iceking,yoshi,pika,1,pools,pools,1,3
-2016,pound,tank,iceking,yoshi,pika,1,pools,pools,2,3
-2016,pound,lldl,dfx,fox,fox,2,pools,pools,1,3
-2016,pound,lldl,dfx,fox,falcon,1,pools,pools,2,3
-2016,pound,lldl,dfx,fox,pika,2,pools,pools,3,3
-2016,pound,thekuzinator,fckvwls,pika,falcon,2,pools,pools,1,3
-2016,pound,thekuzinator,fckvwls,yoshi,falcon,1,pools,pools,2,3
-2016,pound,thekuzinator,fckvwls,yoshi,puff,1,pools,pools,3,3
-2016,pound,korobeniki,comboblaze,yoshi,falcon,2,pools,pools,1,3
-2016,pound,korobeniki,comboblaze,yoshi,falcon,1,pools,pools,2,3
-2016,pound,korobeniki,comboblaze,yoshi,falcon,2,pools,pools,3,3
-2016,pound,tacos,dfx,yoshi,falcon,1,pools,pools,1,3
-2016,pound,tacos,dfx,falcon,falcon,1,pools,pools,2,3
-2016,pound,amida,fireblaster,kirby,yoshi,2,pools,pools,1,3
-2016,pound,amida,fireblaster,kirby,yoshi,2,pools,pools,2,3
-2016,pound,superboomfan,mrsir,falcon,samus,1,pools,pools,1,3
-2016,pound,superboomfan,mrsir,pika,samus,1,pools,pools,2,3
-2016,pound,daniel,firo,falcon,link,2,pools,pools,1,3
-2016,pound,daniel,firo,falcon,link,1,pools,pools,2,3
-2016,pound,daniel,firo,falcon,ness,2,pools,pools,3,3
-2016,pound,theprotagonist,tank,fox,fox,2,pools,pools,1,3
-2016,pound,theprotagonist,tank,fox,fox,2,pools,pools,2,3
-2016,pound,theprotagonist,dragonlota,fox,kirby,1,pools,pools,1,3
-2016,pound,theprotagonist,dragonlota,fox,kirby,1,pools,pools,2,3
-2016,pound,jamjar,daniel,kirby,pika,2,bracket,top32,1,3
-2016,pound,jamjar,daniel,kirby,pika,2,bracket,top32,2,3
-2016,pound,darkhorse,kerokeroppi,puff,kirby,2,bracket,top32,1,3
-2016,pound,darkhorse,kerokeroppi,puff,kirby,2,bracket,top32,2,3
-2016,pound,lordnarwhal,revan,falcon,kirby,2,bracket,top32,1,3
-2016,pound,lordnarwhal,revan,kirby,kirby,2,bracket,top32,2,3
-2016,pound,tacos,tank,yoshi,falcon,1,bracket,top32,1,3
-2016,pound,tacos,tank,yoshi,fox,1,bracket,top32,2,3
-2016,pound,ld,comboblaze,fox,falcon,1,bracket,top32,1,3
-2016,pound,ld,comboblaze,fox,falcon,1,bracket,top32,2,3
-2016,pound,thekuzinator,superboomfan,yoshi,falcon,2,bracket,top32,1,3
-2016,pound,thekuzinator,superboomfan,yoshi,falcon,2,bracket,top32,2,3
-2016,pound,firo,fireblaster,ness,mario,2,bracket,top32,1,3
-2016,pound,firo,fireblaster,ness,mario,1,bracket,top32,2,3
-2016,pound,firo,fireblaster,ness,yoshi,1,bracket,top32,3,3
-2016,pound,clubbadubba,barksanchez,pika,pika,2,bracket,top32,1,3
-2016,pound,clubbadubba,barksanchez,pika,pika,1,bracket,top32,2,3
-2016,pound,clubbadubba,barksanchez,pika,pika,2,bracket,top32,3,3
-2016,pound,kerokeroppi,firo,pika,ness,1,bracket,top32,1,5
-2016,pound,kerokeroppi,firo,pika,ness,1,bracket,top32,2,5
-2016,pound,kerokeroppi,firo,pika,link,2,bracket,top32,3,5
-2016,pound,kerokeroppi,firo,falcon,link,1,bracket,top32,4,5
-2016,pound,superboomfan,barksanchez,falcon,pika,1,bracket,top16,1,5
-2016,pound,superboomfan,barksanchez,falcon,pika,1,bracket,top16,2,5
-2016,pound,superboomfan,barksanchez,falcon,pika,1,bracket,top16,3,5
-2016,pound,tacos,revan,pika,kirby,1,bracket,top16,1,5
-2016,pound,tacos,revan,pika,kirby,1,bracket,top16,2,5
-2016,pound,tacos,revan,pika,kirby,2,bracket,top16,3,5
-2016,pound,tacos,revan,pika,kirby,1,bracket,top16,4,5
-2016,pound,comboblaze,nothing,falcon,falcon,1,bracket,top32,1,3
-2016,pound,comboblaze,nothing,falcon,falcon,1,bracket,top32,2,3
-2016,pound,darkhorse,poohbearninja,falcon,falcon,1,bracket,top32,1,3
-2016,pound,darkhorse,poohbearninja,falcon,falcon,1,bracket,top32,2,3
-2016,pound,lordnarwhal,mrsir,falcon,samus,1,bracket,top32,1,3
-2016,pound,lordnarwhal,mrsir,falcon,samus,1,bracket,top32,2,3
-2016,pound,jimmyjoe,clubbadubba,pika,pika,2,bracket,top32,1,3
-2016,pound,jimmyjoe,clubbadubba,kirby,pika,2,bracket,top32,2,3
-2016,pound,lordnarwhal,daniel,falcon,falcon,1,bracket,top16,1,3
-2016,pound,lordnarwhal,daniel,falcon,falcon,2,bracket,top16,2,3
-2016,pound,lordnarwhal,daniel,kirby,falcon,1,bracket,top16,3,3
-2016,pound,thekuzinator,clubbadubba,yoshi,pika,2,bracket,top16,1,3
-2016,pound,thekuzinator,clubbadubba,kirby,falcon,2,bracket,top16,2,3
-2016,pound,shears,comboblaze,pika,falcon,1,bracket,top16,1,3
-2016,pound,shears,comboblaze,pika,falcon,1,bracket,top16,2,3
-2016,pound,lordnarwhal,ld,falcon,fox,2,bracket,top16,1,5
-2016,pound,lordnarwhal,ld,falcon,fox,2,bracket,top16,2,5
-2016,pound,lordnarwhal,ld,falcon,fox,2,bracket,top16,3,5
-2016,pound,revan,shears,kirby,pika,1,bracket,top16,1,5
-2016,pound,revan,shears,kirby,pika,1,bracket,top16,2,5
-2016,pound,revan,shears,kirby,pika,1,bracket,top16,3,5
-2016,pound,fireblaster,barksanchez,yoshi,pika,2,bracket,top16,1,5
-2016,pound,fireblaster,barksanchez,yoshi,pika,1,bracket,top16,2,5
-2016,pound,fireblaster,barksanchez,yoshi,pika,2,bracket,top16,3,5
-2016,pound,fireblaster,barksanchez,yoshi,pika,2,bracket,top16,4,5
-2016,pound,clubbadubba,firo,pika,falcon,2,bracket,top16,1,5
-2016,pound,clubbadubba,firo,falcon,falcon,1,bracket,top16,2,5
-2016,pound,clubbadubba,firo,falcon,ness,2,bracket,top16,3,5
-2016,pound,clubbadubba,firo,pika,ness,2,bracket,top16,4,5
-2016,pound,revan,firo,kirby,link,1,bracket,top8,1,5
-2016,pound,revan,firo,kirby,link,1,bracket,top8,2,5
-2016,pound,revan,firo,kirby,link,2,bracket,top8,3,5
-2016,pound,revan,firo,kirby,link,1,bracket,top8,4,5
-2016,pound,ld,barksanchez,fox,pika,2,bracket,top8,1,5
-2016,pound,ld,barksanchez,fox,pika,2,bracket,top8,2,5
-2016,pound,ld,barksanchez,fox,pika,1,bracket,top8,3,5
-2016,pound,ld,barksanchez,fox,pika,2,bracket,top8,4,5
-2016,pound,wizzrobe,superboomfan,yoshi,pika,1,bracket,top8,1,5
-2016,pound,wizzrobe,superboomfan,yoshi,pika,2,bracket,top8,2,5
-2016,pound,wizzrobe,superboomfan,yoshi,pika,1,bracket,top8,3,5
-2016,pound,wizzrobe,superboomfan,yoshi,kirby,2,bracket,top8,4,5
-2016,pound,wizzrobe,superboomfan,yoshi,kirby,2,bracket,top8,5,5
-2016,pound,tacos,kerokeroppi,falcon,pika,1,bracket,top8,1,5
-2016,pound,tacos,kerokeroppi,yoshi,pika,2,bracket,top8,2,5
-2016,pound,tacos,kerokeroppi,yoshi,pika,1,bracket,top8,3,5
-2016,pound,tacos,kerokeroppi,dk,pika,2,bracket,top8,4,5
-2016,pound,tacos,kerokeroppi,falcon,pika,1,bracket,top8,5,5
-2016,pound,revan,kerokeroppi,kirby,pika,2,bracket,top8,1,5
-2016,pound,revan,kerokeroppi,kirby,pika,2,bracket,top8,2,5
-2016,pound,revan,kerokeroppi,kirby,pika,2,bracket,top8,3,5
-2016,pound,tacos,superboomfan,yoshi,kirby,2,bracket,wf,1,5
-2016,pound,tacos,superboomfan,fox,kirby,2,bracket,wf,2,5
-2016,pound,tacos,superboomfan,pika,kirby,2,bracket,wf,3,5
-2016,pound,tacos,kerokeroppi,falcon,kirby,1,bracket,lf,1,5
-2016,pound,tacos,kerokeroppi,pika,pika,1,bracket,lf,2,5
-2016,pound,tacos,kerokeroppi,falcon,kirby,2,bracket,lf,3,5
-2016,pound,tacos,kerokeroppi,pika,kirby,1,bracket,lf,4,5
-2016,pound,superboomfan,tacos,kirby,falcon,1,bracket,gf,1,5
-2016,pound,superboomfan,tacos,kirby,pika,1,bracket,gf,2,5
-2016,pound,superboomfan,tacos,dk,dk,2,bracket,gf,3,5
-2016,pound,superboomfan,tacos,dk,dk,1,bracket,gf,4,5
-2016,goml,derek,fireblaster,pika,yoshi,2,bracket,top16,1,3
-2016,goml,derek,fireblaster,pika,yoshi,1,bracket,top16,2,3
-2016,goml,derek,fireblaster,pika,yoshi,1,bracket,top16,3,3
-2016,goml,revan,thez,kirby,pika,2,bracket,top16,1,3
-2016,goml,revan,thez,kirby,pika,1,bracket,top16,2,3
-2016,goml,revan,thez,kirby,pika,2,bracket,top16,3,3
-2016,goml,ivor,shake,fox,fox,1,pools,pools,1,3
-2016,goml,ivor,shake,fox,fox,1,pools,pools,2,3
-2016,goml,ivor,shake,fox,link,2,pools,pools,3,3
-2016,goml,thez,superboomfan,pika,pika,2,bracket,gf,1,5
-2016,goml,thez,superboomfan,pika,pika,2,bracket,gf,2,5
-2016,goml,thez,superboomfan,fox,pika,2,bracket,gf,3,5
-2016,goml,thez,kerokeroppi,pika,pika,1,bracket,lf,1,5
-2016,goml,thez,kerokeroppi,pika,pika,1,bracket,lf,2,5
-2016,goml,thez,kerokeroppi,pika,pika,1,bracket,lf,3,5
-2016,goml,superboomfan,kerokeroppi,kirby,pika,1,bracket,wf,1,5
-2016,goml,superboomfan,kerokeroppi,kirby,pika,1,bracket,wf,2,5
-2016,goml,superboomfan,kerokeroppi,kirby,pika,2,bracket,wf,3,5
-2016,goml,superboomfan,kerokeroppi,pika,pika,1,bracket,wf,4,5
-2016,goml,wizzrobe,revan,yoshi,kirby,1,bracket,top8,1,5
-2016,goml,wizzrobe,revan,yoshi,kirby,2,bracket,top8,2,5
-2016,goml,wizzrobe,revan,yoshi,kirby,2,bracket,top8,3,5
-2016,goml,wizzrobe,revan,yoshi,kirby,2,bracket,top8,4,5
-2016,goml,derek,thez,pika,yoshi,1,bracket,top8,1,5
-2016,goml,derek,thez,pika,falcon,1,bracket,top8,2,5
-2016,goml,derek,thez,pika,pika,2,bracket,top8,3,5
-2016,goml,derek,thez,pika,pika,2,bracket,top8,4,5
-2016,goml,derek,thez,pika,pika,2,bracket,top8,5,5
-2016,goml,ybombb,revan,puff,kirby,2,bracket,top8,1,5
-2016,goml,ybombb,revan,puff,kirby,2,bracket,top8,2,5
-2016,goml,ybombb,revan,falcon,kirby,2,bracket,top8,3,5
-2016,goml,derek,barksanchez,pika,pika,2,bracket,top8,1,5
-2016,goml,derek,barksanchez,pika,pika,1,bracket,top8,2,5
-2016,goml,derek,barksanchez,pika,pika,1,bracket,top8,3,5
-2016,goml,derek,barksanchez,pika,pika,1,bracket,top8,4,5
-2016,goml,wizzrobe,kerokeroppi,yoshi,kirby,1,bracket,top8,1,5
-2016,goml,wizzrobe,kerokeroppi,yoshi,pika,1,bracket,top8,2,5
-2016,goml,wizzrobe,kerokeroppi,yoshi,pika,2,bracket,top8,3,5
-2016,goml,wizzrobe,kerokeroppi,yoshi,pika,2,bracket,top8,4,5
-2016,goml,wizzrobe,kerokeroppi,yoshi,pika,2,bracket,top8,5,5
-2016,goml,superboomfan,thez,kirby,pika,1,bracket,top8,1,5
-2016,goml,superboomfan,thez,kirby,pika,1,bracket,top8,2,5
-2016,goml,superboomfan,thez,kirby,pika,1,bracket,top8,3,5
-2016,goml,barksanchez,sextc,pika,falcon,1,bracket,top16,1,3
-2016,goml,barksanchez,sextc,pika,falcon,1,bracket,top16,2,3
-2016,goml,superboomfan,ybombb,falcon,puff,1,bracket,top16,1,3
-2016,goml,superboomfan,ybombb,falcon,falcon,1,bracket,top16,2,3
-2016,goml,sextc,jam,falcon,pika,1,bracket,top32,1,3
-2016,goml,sextc,jam,falcon,pika,1,bracket,top32,2,3
-2016,goml,nintendude,thez,fox,fox,2,bracket,top32,1,3
-2016,goml,nintendude,thez,fox,fox,2,bracket,top32,2,3
-2016,goml,shears,derek,pika,pika,2,bracket,top32,1,3
-2016,goml,shears,derek,yoshi,pika,1,bracket,top32,2,3
-2016,goml,fireblaster,kerokeroppi,yoshi,kirby,2,bracket,top16,1,3
-2016,goml,fireblaster,kerokeroppi,yoshi,pika,2,bracket,top16,2,3
-2016,goml,revan,shears,kirby,pika,1,bracket,top32,1,3
-2016,goml,revan,shears,kirby,pika,1,bracket,top32,2,3
-2016,goml,janco,superboomfan,pika,falcon,2,bracket,top32,1,3
-2016,goml,janco,superboomfan,pika,falcon,2,bracket,top32,2,3
-2016,goml,daniels,keagsbsmashin,pika,pika,1,pools,pools,1,3
-2016,goml,daniels,keagsbsmashin,pika,kirby,1,pools,pools,2,3
-2016,goml,khakis,marlwolf,puff,falcon,2,pools,pools,1,3
-2016,goml,khakis,marlwolf,puff,falcon,2,pools,pools,2,3
-2016,goml,ybombb,daniels,puff,fox,1,pools,pools,1,3
-2016,goml,ybombb,daniels,falcon,fox,1,pools,pools,2,3
-2016,goml,fckvwls,derek,falcon,pika,2,pools,pools,1,3
-2016,goml,fckvwls,derek,falcon,pika,1,pools,pools,2,3
-2016,goml,fckvwls,derek,falcon,pika,2,pools,pools,3,3
-2016,goml,marlwolf,jam,falcon,pika,2,pools,pools,1,3
-2016,goml,marlwolf,jam,falcon,pika,2,pools,pools,2,3
-2016,goml,nesskhalifa,kerokeroppi,ness,falcon,2,pools,pools,1,3
-2016,goml,nesskhalifa,kerokeroppi,ness,falcon,2,pools,pools,2,3
-2016,goml,hotspank,daniels,pika,pika,2,pools,pools,1,3
-2016,goml,hotspank,daniels,pika,fox,1,pools,pools,2,3
-2016,goml,hotspank,daniels,pika,pika,2,pools,pools,3,3
-2016,goml,ybombb,khakis,puff,puff,1,pools,pools,1,3
-2016,goml,ybombb,khakis,yoshi,puff,1,pools,pools,2,3
-2016,goml,wincancel,nesskhalifa,link,falcon,2,pools,pools,1,3
-2016,goml,wincancel,nesskhalifa,link,falcon,2,pools,pools,2,3
-2016,goml,thebigd,salt,kirby,pika,2,pools,pools,1,3
-2016,goml,thebigd,salt,kirby,pika,2,pools,pools,2,3
-2016,goml,h20,white,fox,pika,2,pools,pools,1,3
-2016,goml,h20,white,fox,pika,2,pools,pools,2,3
-2016,goml,fireblaster,thebigd,yoshi,kirby,2,pools,pools,1,3
-2016,goml,fireblaster,thebigd,yoshi,kirby,1,pools,pools,2,3
-2016,goml,fireblaster,thebigd,yoshi,kirby,1,pools,pools,3,3
-2016,goml,snorlax,janco,dk,pika,2,pools,pools,1,3
-2016,goml,snorlax,janco,dk,pika,2,pools,pools,2,3
-2016,goml,superboomfan,socrates,falcon,puff,1,pools,pools,1,3
-2016,goml,superboomfan,socrates,falcon,ness,1,pools,pools,2,3
-2016,goml,cwicbeam,captainfabulous,yoshi,falcon,2,pools,pools,1,3
-2016,goml,cwicbeam,captainfabulous,yoshi,falcon,2,pools,pools,2,3
-2016,goml,barksanchez,bon,pika,kirby,1,pools,pools,1,3
-2016,goml,barksanchez,bon,falcon,kirby,2,pools,pools,2,3
-2016,goml,barksanchez,bon,pika,kirby,1,pools,pools,3,3
-2016,goml,mrsir,shake,samus,link,1,pools,pools,1,3
-2016,goml,mrsir,shake,samus,link,1,pools,pools,2,3
-2016,goml,mrsir,nintendude,samus,fox,2,pools,pools,1,3
-2016,goml,mrsir,nintendude,samus,fox,2,pools,pools,2,3
-2016,goml,captainfabulous,blink,falcon,pika,2,pools,pools,1,3
-2016,goml,captainfabulous,blink,falcon,kirby,1,pools,pools,2,3
-2016,goml,captainfabulous,blink,falcon,pika,2,pools,pools,3,3
-2016,snosa2,sonicfuzz,mariguas,pika,pika,2,pools,pools,1,3
-2016,snosa2,sonicfuzz,mariguas,pika,pika,2,pools,pools,2,3
-2016,snosa2,d35,barksanchez,pika,pika,2,pools,pools,1,3
-2016,snosa2,d35,barksanchez,pika,pika,2,pools,pools,2,3
-2016,snosa2,tot,mariguas,fox,pika,2,pools,pools,1,3
-2016,snosa2,tot,mariguas,pika,pika,2,pools,pools,2,3
-2016,snosa2,darkhorse,madrush,puff,falcon,2,pools,pools,1,3
-2016,snosa2,darkhorse,madrush,falcon,falcon,1,pools,pools,2,3
-2016,snosa2,darkhorse,madrush,puff,falcon,1,pools,pools,3,3
-2016,snosa2,tacos,freddy,pika,falcon,1,pools,pools,1,3
-2016,snosa2,tacos,freddy,yoshi,link,1,pools,pools,2,3
-2016,snosa2,wookiee,karajan,pika,fox,1,pools,pools,1,3
-2016,snosa2,wookiee,karajan,pika,kirby,1,pools,pools,2,3
-2016,snosa2,tacos,shihman,falcon,falcon,1,pools,pools,1,3
-2016,snosa2,tacos,shihman,yoshi,falcon,1,pools,pools,2,3
-2016,snosa2,freean,sotoh,falcon,pika,1,bracket,top32,1,3
-2016,snosa2,freean,sotoh,falcon,kirby,2,bracket,top32,2,3
-2016,snosa2,freean,sotoh,luigi,kirby,2,bracket,top32,3,3
-2016,snosa2,onski,near,kirby,fox,2,bracket,top32,1,3
-2016,snosa2,onski,near,kirby,luigi,2,bracket,top32,2,3
-2016,snosa2,karajan,superboomfan,fox,falcon,2,bracket,top32,1,3
-2016,snosa2,karajan,superboomfan,pika,falcon,2,bracket,top32,2,3
-2016,snosa2,isai,wookiee,link,pika,1,bracket,top32,1,3
-2016,snosa2,isai,wookiee,link,pika,1,bracket,top32,2,3
-2016,snosa2,jaimehr,kimimaru,falcon,mario,1,bracket,top32,1,3
-2016,snosa2,jaimehr,kimimaru,falcon,mario,1,bracket,top32,2,3
-2016,snosa2,janitor,tacos,falcon,yoshi,1,bracket,top32,1,3
-2016,snosa2,janitor,tacos,falcon,yoshi,2,bracket,top32,2,3
-2016,snosa2,janitor,tacos,yoshi,yoshi,2,bracket,top32,3,3
-2016,snosa2,barksanchez,heropie,pika,pika,1,bracket,top32,1,3
-2016,snosa2,barksanchez,heropie,pika,falcon,2,bracket,top32,2,3
-2016,snosa2,barksanchez,heropie,pika,falcon,1,bracket,top32,3,3
-2016,snosa2,mariguas,sotoh,pika,kirby,1,bracket,top32,1,3
-2016,snosa2,mariguas,sotoh,pika,falcon,1,bracket,top32,2,3
-2016,snosa2,shears,kimimaru,pika,mario,2,bracket,top16,1,3
-2016,snosa2,shears,kimimaru,pika,mario,2,bracket,top16,2,3
-2016,snosa2,shears,kimimaru,pika,mario,2,bracket,top16,3,3
-2016,snosa2,d35,near,pika,puff,1,bracket,top16,1,3
-2016,snosa2,d35,near,pika,falcon,2,bracket,top16,2,3
-2016,snosa2,d35,near,pika,mario,2,bracket,top16,3,3
-2016,snosa2,dext3r,mariguas,pika,pika,2,bracket,top16,1,5
-2016,snosa2,dext3r,mariguas,pika,pika,2,bracket,top16,2,5
-2016,snosa2,dext3r,mariguas,pika,pika,2,bracket,top16,3,5
-2016,snosa2,jaimehr,isai,falcon,samus,2,bracket,top16,1,5
-2016,snosa2,jaimehr,isai,falcon,samus,2,bracket,top16,2,5
-2016,snosa2,jaimehr,isai,falcon,samus,1,bracket,top16,3,5
-2016,snosa2,jaimehr,isai,falcon,samus,2,bracket,top16,4,5
-2016,snosa2,tacos,kerokeroppi,falcon,kirby,2,bracket,top16,1,5
-2016,snosa2,tacos,kerokeroppi,yoshi,falcon,1,bracket,top16,2,5
-2016,snosa2,tacos,kerokeroppi,pika,pika,1,bracket,top16,3,5
-2016,snosa2,tacos,kerokeroppi,pika,pika,2,bracket,top16,4,5
-2016,snosa2,tacos,kerokeroppi,yoshi,falcon,1,bracket,top16,5,5
-2016,snosa2,barksanchez,superboomfan,pika,pika,2,bracket,top16,1,5
-2016,snosa2,barksanchez,superboomfan,pika,pika,2,bracket,top16,2,5
-2016,snosa2,barksanchez,superboomfan,pika,pika,2,bracket,top16,3,5
-2016,snosa2,barksanchez,kimimaru,pika,mario,1,bracket,top16,1,5
-2016,snosa2,barksanchez,kimimaru,pika,mario,1,bracket,top16,2,5
-2016,snosa2,barksanchez,kimimaru,pika,mario,1,bracket,top16,3,5
-2016,snosa2,tacos,superboomfan,falcon,kirby,2,bracket,top8,1,5
-2016,snosa2,tacos,superboomfan,pika,kirby,2,bracket,top8,2,5
-2016,snosa2,tacos,superboomfan,pika,kirby,2,bracket,top8,3,5
-2016,snosa2,mariguas,isai,pika,samus,1,bracket,top8,1,5
-2016,snosa2,mariguas,isai,pika,yoshi,2,bracket,top8,2,5
-2016,snosa2,mariguas,isai,pika,yoshi,2,bracket,top8,3,5
-2016,snosa2,mariguas,isai,pika,yoshi,2,bracket,top8,4,5
-2016,snosa2,kerokeroppi,barksanchez,pika,pika,1,bracket,top8,1,5
-2016,snosa2,kerokeroppi,barksanchez,pika,pika,1,bracket,top8,2,5
-2016,snosa2,kerokeroppi,barksanchez,pika,pika,1,bracket,top8,3,5
-2016,snosa2,jaimehr,dext3r,falcon,pika,2,bracket,top8,1,5
-2016,snosa2,jaimehr,dext3r,falcon,pika,1,bracket,top8,2,5
-2016,snosa2,jaimehr,dext3r,falcon,pika,2,bracket,top8,3,5
-2016,snosa2,jaimehr,dext3r,falcon,pika,2,bracket,top8,4,5
-2016,snosa2,tacos,dext3r,yoshi,pika,1,bracket,top8,1,5
-2016,snosa2,tacos,dext3r,yoshi,pika,1,bracket,top8,2,5
-2016,snosa2,tacos,dext3r,yoshi,pika,1,bracket,top8,3,5
-2016,snosa2,kerokeroppi,mariguas,pika,pika,2,bracket,top8,1,5
-2016,snosa2,kerokeroppi,mariguas,falcon,pika,2,bracket,top8,2,5
-2016,snosa2,kerokeroppi,mariguas,pika,pika,2,bracket,top8,3,5
-2016,snosa2,superboomfan,isai,pika,yoshi,1,bracket,wf,1,5
-2016,snosa2,superboomfan,isai,pika,yoshi,1,bracket,wf,2,5
-2016,snosa2,superboomfan,isai,pika,puff,1,bracket,wf,3,5
-2016,snosa2,tacos,mariguas,yoshi,pika,2,bracket,top8,1,5
-2016,snosa2,tacos,mariguas,yoshi,pika,2,bracket,top8,2,5
-2016,snosa2,tacos,mariguas,yoshi,pika,1,bracket,top8,3,5
-2016,snosa2,tacos,mariguas,yoshi,pika,1,bracket,top8,4,5
-2016,snosa2,tacos,mariguas,yoshi,kirby,1,bracket,top8,5,5
-2016,snosa2,tacos,isai,yoshi,link,2,bracket,lf,1,5
-2016,snosa2,tacos,isai,yoshi,link,1,bracket,lf,2,5
-2016,snosa2,tacos,isai,yoshi,mario,1,bracket,lf,3,5
-2016,snosa2,tacos,isai,yoshi,puff,2,bracket,lf,4,5
-2016,snosa2,tacos,isai,yoshi,dk,1,bracket,lf,5,5
-2016,snosa2,tacos,superboomfan,falcon,kirby,2,bracket,gf,1,5
-2016,snosa2,tacos,superboomfan,puff,kirby,2,bracket,gf,2,5
-2016,snosa2,tacos,superboomfan,dk,kirby,2,bracket,gf,3,5
-2017,beast7,ctg,fruity,puff,mario,1,bracket,top8,1,5
-2017,beast7,ctg,fruity,puff,mario,1,bracket,top8,2,5
-2017,beast7,ctg,fruity,puff,mario,1,bracket,top8,3,5
-2017,beast7,nintendude,jam,fox,pika,2,bracket,top8,1,5
-2017,beast7,nintendude,jam,fox,pika,2,bracket,top8,2,5
-2017,beast7,nintendude,jam,mario,pika,2,bracket,top8,3,5
-2017,beast7,shears,jam,yoshi,pika,1,bracket,top8,1,5
-2017,beast7,shears,jam,yoshi,pika,2,bracket,top8,2,5
-2017,beast7,shears,jam,yoshi,pika,1,bracket,top8,3,5
-2017,beast7,shears,jam,yoshi,pika,2,bracket,top8,4,5
-2017,beast7,shears,jam,yoshi,pika,1,bracket,top8,5,5
-2017,beast7,ctg,isai,puff,kirby,2,bracket,wq,1,3
-2017,beast7,ctg,isai,puff,kirby,2,bracket,wq,2,3
-2017,beast7,shears,fruity,pika,mario,1,bracket,wq,1,3
-2017,beast7,shears,fruity,pika,mario,1,bracket,wq,2,3
-2017,beast7,shears,isai,yoshi,pika,2,bracket,ws,1,5
-2017,beast7,shears,isai,pika,pika,2,bracket,ws,2,5
-2017,beast7,shears,isai,luigi,pika,2,bracket,ws,3,5
-2017,beast7,revan,barksanchez,kirby,pika,2,bracket,ws,1,5
-2017,beast7,revan,barksanchez,kirby,pika,2,bracket,ws,2,5
-2017,beast7,revan,barksanchez,kirby,pika,1,bracket,ws,3,5
-2017,beast7,revan,barksanchez,kirby,pika,1,bracket,ws,4,5
-2017,beast7,revan,barksanchez,kirby,pika,1,bracket,ws,5,5
-2017,beast7,barksanchez,isai,pika,pika,2,bracket,lf,1,5
-2017,beast7,barksanchez,isai,pika,pika,2,bracket,lf,2,5
-2017,beast7,barksanchez,isai,pika,pika,2,bracket,lf,3,5
-2017,beast7,revan,isai,kirby,link,1,bracket,wf,1,5
-2017,beast7,revan,isai,kirby,link,2,bracket,wf,2,5
-2017,beast7,revan,isai,kirby,link,1,bracket,wf,3,5
-2017,beast7,revan,isai,kirby,link,2,bracket,wf,4,5
-2017,beast7,revan,isai,kirby,link,1,bracket,wf,5,5
-2017,beast7,shears,barksanchez,luigi,mario,1,bracket,ls,1,5
-2017,beast7,shears,barksanchez,luigi,mario,2,bracket,ls,2,5
-2017,beast7,shears,barksanchez,luigi,mario,2,bracket,ls,3,5
-2017,beast7,shears,barksanchez,luigi,mario,2,bracket,ls,4,5
-2017,beast7,revan,isai,kirby,link,2,bracket,gf,1,5
-2017,beast7,revan,isai,kirby,link,2,bracket,gf,2,5
-2017,beast7,revan,isai,kirby,link,2,bracket,gf,3,5
-2017,beast7,revan,isai,kirby,link,2,bracket,gf2,1,5
-2017,beast7,revan,isai,kirby,link,1,bracket,gf2,2,5
-2017,beast7,revan,isai,kirby,link,2,bracket,gf2,3,5
-2017,beast7,revan,isai,kirby,link,2,bracket,gf2,4,5
-2017,beast7,ctg,barksanchez,puff,pika,2,bracket,top8,1,5
-2017,beast7,ctg,barksanchez,puff,pika,2,bracket,top8,2,5
-2017,beast7,ctg,barksanchez,puff,falcon,2,bracket,top8,3,5
-2016,ssc,korobeniki,gravyfingers,yoshi,pika,2,pools,pools,1,3
-2016,ssc,korobeniki,gravyfingers,yoshi,pika,2,pools,pools,2,3
-2016,ssc,umbra,nothing,falcon,falcon,2,pools,pools,1,3
-2016,ssc,umbra,nothing,falcon,falcon,2,pools,pools,2,3
-2016,ssc,gravyfingers,umbra,pika,falcon,1,pools,pools,1,3
-2016,ssc,gravyfingers,umbra,pika,falcon,1,pools,pools,2,3
-2016,ssc,gravyfingers,ld,pika,fox,2,pools,pools,1,3
-2016,ssc,gravyfingers,ld,pika,fox,2,pools,pools,2,3
-2016,ssc,theprotagonist,razz,fox,falcon,1,pools,pools,1,3
-2016,ssc,theprotagonist,razz,fox,falcon,1,pools,pools,2,3
-2016,ssc,justin,marbles,falcon,pika,2,pools,pools,1,3
-2016,ssc,justin,marbles,falcon,pika,2,pools,pools,2,3
-2016,ssc,justin,pewpewu,pika,fox,1,pools,pools,1,3
-2016,ssc,justin,pewpewu,pika,fox,1,pools,pools,2,3
-2016,ssc,wookiee,zero,kirby,falcon,2,pools,pools,1,3
-2016,ssc,wookiee,zero,kirby,falcon,2,pools,pools,2,3
-2016,ssc,theprotagonist,alvin,fox,dk,2,pools,pools,1,3
-2016,ssc,theprotagonist,alvin,fox,dk,2,pools,pools,2,3
-2016,ssc,mustardtiger,alvin,kirby,pika,2,pools,pools,1,3
-2016,ssc,mustardtiger,alvin,kirby,pika,2,pools,pools,2,3
-2016,ssc,ctg,senorhen10r,puff,pika,1,pools,pools,1,3
-2016,ssc,ctg,senorhen10r,puff,pika,1,pools,pools,2,3
-2016,ssc,kerokeroppi,pewpewu,fox,fox,1,pools,pools,1,3
-2016,ssc,kerokeroppi,pewpewu,fox,fox,2,pools,pools,2,3
-2016,ssc,kerokeroppi,pewpewu,fox,fox,1,pools,pools,3,3
-2016,ssc,capsui,prince,fox,yoshi,2,pools,pools,1,3
-2016,ssc,capsui,prince,fox,yoshi,2,pools,pools,2,3
-2016,ssc,evab,alvin,kirby,pika,2,pools,pools,1,3
-2016,ssc,evab,alvin,kirby,samus,2,pools,pools,2,3
-2016,ssc,greeno,preston,puff,kirby,2,pools,pools,1,3
-2016,ssc,greeno,preston,puff,kirby,2,pools,pools,2,3
-2016,ssc,captainfabulous,gumbolaya,falcon,ness,1,pools,pools,1,3
-2016,ssc,captainfabulous,gumbolaya,dk,ness,1,pools,pools,2,3
-2016,ssc,miniohh,comboblaze,kirby,falcon,2,pools,pools,1,3
-2016,ssc,miniohh,comboblaze,kirby,falcon,2,pools,pools,2,3
-2016,ssc,cobr,nintendude,falcon,fox,1,pools,pools,1,3
-2016,ssc,cobr,nintendude,falcon,fox,1,pools,pools,2,3
-2016,ssc,robert,sheermadness,pika,yoshi,1,pools,pools,1,3
-2016,ssc,robert,sheermadness,pika,yoshi,1,pools,pools,2,3
-2016,ssc,wangera,g0d,puff,pika,1,pools,pools,1,3
-2016,ssc,wangera,g0d,puff,falcon,1,pools,pools,2,3
-2016,ssc,kurabba,dfx,yoshi,falcon,1,pools,pools,1,3
-2016,ssc,kurabba,dfx,yoshi,fox,1,pools,pools,2,3
-2016,ssc,nacl,shears,kirby,pika,1,pools,pools,1,3
-2016,ssc,nacl,shears,kirby,pika,1,pools,pools,2,3
-2016,ssc,iceking,stevieg,pika,fox,2,pools,pools,1,3
-2016,ssc,iceking,stevieg,pika,fox,2,pools,pools,2,3
-2016,ssc,blisstex,miniohh,pika,kirby,2,pools,pools,1,3
-2016,ssc,blisstex,miniohh,pika,kirby,1,pools,pools,2,3
-2016,ssc,blisstex,miniohh,pika,kirby,2,pools,pools,3,3
-2016,ssc,gamer4life,lorenzo,kirby,dk,2,pools,pools,1,3
-2016,ssc,gamer4life,lorenzo,kirby,dk,2,pools,pools,2,3
-2016,ssc,bowl,lorenzo,pika,dk,1,pools,pools,1,3
-2016,ssc,bowl,lorenzo,pika,dk,1,pools,pools,2,3
-2016,ssc,fckvwls,grahamaglam,dk,link,2,pools,pools,1,3
-2016,ssc,fckvwls,grahamaglam,falcon,link,2,pools,pools,2,3
-2016,ssc,comboblaze,grahamaglam,falcon,link,1,pools,pools,1,3
-2016,ssc,comboblaze,grahamaglam,dk,mario,1,pools,pools,2,3
-2016,ssc,lorenzo,squanch,dk,pika,1,pools,pools,1,3
-2016,ssc,lorenzo,squanch,dk,pika,1,pools,pools,2,3
-2016,ssc,superboomfan,stevieg,falcon,fox,1,pools,pools,1,3
-2016,ssc,superboomfan,stevieg,falcon,fox,1,pools,pools,2,3
-2016,ssc,superboomfan,bowl,dk,dk,1,pools,pools,1,3
-2016,ssc,superboomfan,bowl,dk,dk,1,pools,pools,2,3
-2016,ssc,stevieg,lorenzo,fox,dk,2,pools,pools,1,3
-2016,ssc,stevieg,lorenzo,fox,dk,2,pools,pools,2,3
-2016,ssc,grahamaglam,lorenzo,link,dk,2,pools,pools,1,3
-2016,ssc,grahamaglam,lorenzo,mario,dk,2,pools,pools,2,3
-2016,ssc,tyhiggz,professorwizard,yoshi,kirby,2,pools,pools,1,3
-2016,ssc,tyhiggz,professorwizard,yoshi,kirby,1,pools,pools,2,3
-2016,ssc,tyhiggz,professorwizard,yoshi,kirby,1,pools,pools,3,3
-2016,ssc,jimmyjoe,studstill,pika,kirby,1,pools,pools,1,3
-2016,ssc,jimmyjoe,studstill,pika,kirby,1,pools,pools,2,3
-2016,ssc,jaimehr,masquerade,falcon,mario,1,pools,pools,1,3
-2016,ssc,jaimehr,masquerade,falcon,mario,1,pools,pools,2,3
-2016,ssc,jaimehr,nothing,falcon,falcon,1,pools,pools,1,3
-2016,ssc,jaimehr,nothing,falcon,falcon,1,pools,pools,2,3
-2016,ssc,zhu,ld,fox,fox,2,pools,pools,1,3
-2016,ssc,zhu,ld,fox,fox,2,pools,pools,2,3
-2016,ssc,professorwizard,zhu,kirby,fox,1,pools,pools,1,3
-2016,ssc,professorwizard,zhu,kirby,fox,1,pools,pools,2,3
-2016,ssc,professorwizard,koro,kirby,yoshi,2,pools,pools,1,3
-2016,ssc,professorwizard,koro,kirby,yoshi,1,pools,pools,2,3
-2016,ssc,professorwizard,koro,kirby,yoshi,1,pools,pools,3,3
-2016,ssc,professorwizard,nothing,kirby,falcon,2,pools,pools,1,3
-2016,ssc,professorwizard,nothing,kirby,falcon,2,pools,pools,2,3
-2016,ssc,alvin,lordnarwhal,falcon,mario,1,bracket,top64,1,3
-2016,ssc,alvin,lordnarwhal,falcon,mario,1,bracket,top64,2,3
-2016,ssc,banze,stranded,pika,pika,2,bracket,top64,1,3
-2016,ssc,banze,stranded,kirby,pika,2,bracket,top64,2,3
-2016,ssc,wangera,stranded,puff,pika,1,bracket,top64,1,3
-2016,ssc,wangera,stranded,puff,pika,1,bracket,top64,2,3
-2016,ssc,dext3r,isai,pika,pika,2,bracket,top64,1,3
-2016,ssc,dext3r,isai,pika,pika,2,bracket,top64,2,3
-2016,ssc,firo,wizzrobe,link,yoshi,2,bracket,top64,1,3
-2016,ssc,firo,wizzrobe,ness,yoshi,2,bracket,top64,2,3
-2016,ssc,prince,wizzrobe,yoshi,yoshi,2,bracket,top64,1,3
-2016,ssc,prince,wizzrobe,yoshi,yoshi,2,bracket,top64,2,3
-2016,ssc,mariguas,superboomfan,pika,pika,2,bracket,top16,1,5
-2016,ssc,mariguas,superboomfan,pika,pika,1,bracket,top16,2,5
-2016,ssc,mariguas,superboomfan,pika,falcon,2,bracket,top16,3,5
-2016,ssc,mariguas,superboomfan,pika,falcon,1,bracket,top16,4,5
-2016,ssc,mariguas,superboomfan,pika,falcon,2,bracket,top16,5,5
-2016,ssc,thez,wangera,pika,puff,1,bracket,top16,1,5
-2016,ssc,thez,wangera,pika,puff,2,bracket,top16,2,5
-2016,ssc,thez,wangera,pika,puff,2,bracket,top16,3,5
-2016,ssc,thez,wangera,pika,puff,1,bracket,top16,4,5
-2016,ssc,thez,wangera,pika,puff,1,bracket,top16,5,5
-2016,ssc,ld,superboomfan,fox,pika,2,bracket,top32,1,3
-2016,ssc,ld,superboomfan,fox,pika,2,bracket,top32,2,3
-2016,ssc,isai,revan,pika,kirby,1,bracket,top16,1,5
-2016,ssc,isai,revan,pika,kirby,1,bracket,top16,2,5
-2016,ssc,isai,revan,pika,kirby,1,bracket,top16,3,5
-2016,ssc,mariguas,kerokeroppi,pika,pika,1,bracket,top32,1,3
-2016,ssc,mariguas,kerokeroppi,pika,pika,1,bracket,top32,2,3
-2016,ssc,kurabba,alvin,yoshi,pika,1,bracket,top32,1,3
-2016,ssc,kurabba,alvin,yoshi,pika,1,bracket,top32,2,3
-2016,ssc,bonobono,revan,yoshi,kirby,2,bracket,top32,1,3
-2016,ssc,bonobono,revan,yoshi,kirby,2,bracket,top32,2,3
-2016,ssc,kort,kerokeroppi,link,pika,2,bracket,top64,1,3
-2016,ssc,kort,kerokeroppi,link,pika,2,bracket,top64,2,3
-2016,ssc,thez,tacos,kirby,yoshi,1,bracket,top32,1,3
-2016,ssc,thez,tacos,pika,yoshi,1,bracket,top32,2,3
-2016,ssc,prince,zero,yoshi,falcon,2,bracket,top64,1,3
-2016,ssc,prince,zero,yoshi,falcon,1,bracket,top64,2,3
-2016,ssc,prince,zero,yoshi,falcon,1,bracket,top64,3,3
-2016,ssc,alvin,prince,falcon,yoshi,1,bracket,top16,1,5
-2016,ssc,alvin,prince,falcon,yoshi,2,bracket,top16,2,5
-2016,ssc,alvin,prince,falcon,yoshi,2,bracket,top16,3,5
-2016,ssc,alvin,prince,pika,yoshi,1,bracket,top16,4,5
-2016,ssc,alvin,prince,pika,yoshi,2,bracket,top16,5,5
-2016,ssc,dext3r,wangera,pika,puff,1,bracket,top16,1,5
-2016,ssc,dext3r,wangera,pika,puff,2,bracket,top16,2,5
-2016,ssc,dext3r,wangera,pika,puff,1,bracket,top16,3,5
-2016,ssc,dext3r,wangera,pika,puff,2,bracket,top16,4,5
-2016,ssc,dext3r,wangera,pika,puff,2,bracket,top16,5,5
-2016,ssc,firo,nothing,ness,falcon,2,bracket,top64,1,3
-2016,ssc,firo,nothing,ness,falcon,1,bracket,top64,2,3
-2016,ssc,firo,nothing,ness,falcon,1,bracket,top64,3,3
-2016,ssc,ld,banze,fox,pika,1,bracket,top32,1,3
-2016,ssc,ld,banze,fox,pika,1,bracket,top32,2,3
-2016,ssc,kort,tacos,link,yoshi,2,bracket,top32,1,3
-2016,ssc,kort,tacos,falcon,yoshi,1,bracket,top32,2,3
-2016,ssc,kort,tacos,pika,falcon,1,bracket,top32,3,3
-2016,ssc,alvin,fireblaster,falcon,yoshi,1,bracket,top32,1,3
-2016,ssc,alvin,fireblaster,pika,yoshi,2,bracket,top32,2,3
-2016,ssc,alvin,fireblaster,falcon,yoshi,2,bracket,top32,3,3
-2016,ssc,bonobono,zero,yoshi,falcon,2,bracket,top32,1,3
-2016,ssc,bonobono,zero,yoshi,falcon,1,bracket,top32,2,3
-2016,ssc,bonobono,zero,yoshi,falcon,2,bracket,top32,3,3
-2016,ssc,dext3r,zero,pika,falcon,1,bracket,top16,1,5
-2016,ssc,dext3r,zero,pika,falcon,1,bracket,top16,2,5
-2016,ssc,dext3r,zero,pika,falcon,1,bracket,top16,3,5
-2016,ssc,ld,kerokeroppi,fox,pika,2,bracket,top16,1,5
-2016,ssc,ld,kerokeroppi,fox,pika,2,bracket,top16,2,5
-2016,ssc,ld,kerokeroppi,fox,pika,2,bracket,top16,3,5
-2016,ssc,kort,stranded,link,falcon,2,bracket,top16,1,5
-2016,ssc,kort,stranded,link,falcon,2,bracket,top16,2,5
-2016,ssc,kort,stranded,link,falcon,2,bracket,top16,3,5
-2016,ssc,mariguas,prince,pika,yoshi,2,bracket,top16,1,5
-2016,ssc,mariguas,prince,pika,yoshi,1,bracket,top16,2,5
-2016,ssc,mariguas,prince,pika,yoshi,1,bracket,top16,3,5
-2016,ssc,mariguas,prince,pika,yoshi,2,bracket,top16,4,5
-2016,ssc,mariguas,prince,pika,yoshi,1,bracket,top16,5,5
-2016,ssc,kurabba,kerokeroppi,yoshi,pika,2,bracket,top16,1,5
-2016,ssc,kurabba,kerokeroppi,yoshi,pika,2,bracket,top16,2,5
-2016,ssc,kurabba,kerokeroppi,yoshi,pika,1,bracket,top16,3,5
-2016,ssc,kurabba,kerokeroppi,yoshi,falcon,1,bracket,top16,4,5
-2016,ssc,kurabba,kerokeroppi,yoshi,pika,2,bracket,top16,5,5
-2016,ssc,revan,stranded,kirby,pika,1,bracket,top16,1,5
-2016,ssc,revan,stranded,kirby,pika,2,bracket,top16,2,5
-2016,ssc,revan,stranded,kirby,pika,1,bracket,top16,3,5
-2016,ssc,revan,stranded,kirby,pika,1,bracket,top16,4,5
-2016,ssc,mariguas,revan,pika,kirby,1,bracket,top8,1,5
-2016,ssc,mariguas,revan,pika,kirby,1,bracket,top8,2,5
-2016,ssc,mariguas,revan,pika,kirby,1,bracket,top8,3,5
-2016,ssc,wangera,kurabba,puff,yoshi,1,bracket,top8,1,5
-2016,ssc,wangera,kurabba,puff,yoshi,1,bracket,top8,2,5
-2016,ssc,wangera,kurabba,puff,yoshi,1,bracket,top8,3,5
-2016,ssc,superboomfan,isai,falcon,pika,2,bracket,top8,1,5
-2016,ssc,superboomfan,isai,dk,dk,2,bracket,top8,2,5
-2016,ssc,superboomfan,isai,yoshi,dk,1,bracket,top8,3,5
-2016,ssc,superboomfan,isai,yoshi,link,1,bracket,top8,4,5
-2016,ssc,superboomfan,isai,yoshi,mario,1,bracket,top8,5,5
-2016,ssc,wizzrobe,thez,yoshi,pika,1,bracket,top8,1,5
-2016,ssc,wizzrobe,thez,yoshi,pika,2,bracket,top8,2,5
-2016,ssc,wizzrobe,thez,yoshi,pika,1,bracket,top8,3,5
-2016,ssc,wizzrobe,thez,yoshi,kirby,1,bracket,top8,4,5
-2016,ssc,wangera,isai,puff,pika,2,bracket,top8,1,5
-2016,ssc,wangera,isai,puff,pika,2,bracket,top8,2,5
-2016,ssc,wangera,isai,puff,pika,1,bracket,top8,3,5
-2016,ssc,wangera,isai,puff,pika,2,bracket,top8,4,5
-2016,ssc,thez,mariguas,pika,pika,2,bracket,top8,1,5
-2016,ssc,thez,mariguas,pika,pika,2,bracket,top8,2,5
-2016,ssc,thez,mariguas,yoshi,pika,2,bracket,top8,3,5
-2016,ssc,superboomfan,wizzrobe,kirby,yoshi,1,bracket,wf,1,5
-2016,ssc,superboomfan,wizzrobe,kirby,pika,1,bracket,wf,2,5
-2016,ssc,superboomfan,wizzrobe,kirby,yoshi,1,bracket,wf,3,5
-2016,ssc,isai,mariguas,fox,pika,1,bracket,top8,1,5
-2016,ssc,isai,mariguas,fox,pika,2,bracket,top8,2,5
-2016,ssc,isai,mariguas,pika,pika,1,bracket,top8,3,5
-2016,ssc,isai,mariguas,pika,pika,1,bracket,top8,4,5
-2016,ssc,isai,wizzrobe,luigi,yoshi,1,bracket,lf,1,5
-2016,ssc,isai,wizzrobe,ness,yoshi,2,bracket,lf,2,5
-2016,ssc,isai,wizzrobe,yoshi,yoshi,2,bracket,lf,3,5
-2016,ssc,isai,wizzrobe,pika,yoshi,1,bracket,lf,4,5
-2016,ssc,isai,wizzrobe,luigi,yoshi,2,bracket,lf,5,5
-2016,ssc,superboomfan,wizzrobe,kirby,yoshi,2,bracket,gf,1,5
-2016,ssc,superboomfan,wizzrobe,kirby,yoshi,1,bracket,gf,2,5
-2016,ssc,superboomfan,wizzrobe,kirby,yoshi,1,bracket,gf,3,5
-2016,ssc,superboomfan,wizzrobe,kirby,yoshi,1,bracket,gf,4,5
-2017,genesis 4,letsgo,janitor,falcon,yoshi,2,pools,pools,1,3
-2017,genesis 4,letsgo,janitor,falcon,yoshi,2,pools,pools,2,3
-2017,genesis 4,blues,hydra,falcon,mario,2,pools,pools,1,3
-2017,genesis 4,blues,hydra,falcon,mario,2,pools,pools,2,3
-2017,genesis 4,duffman,tbeau,falcon,falcon,1,pools,pools,1,3
-2017,genesis 4,duffman,tbeau,falcon,falcon,1,pools,pools,2,3
-2017,genesis 4,villagemascot,inukem,fox,pika,2,pools,pools,1,3
-2017,genesis 4,villagemascot,inukem,fox,pika,2,pools,pools,2,3
-2017,genesis 4,blondkid,maz,falcon,pika,2,pools,pools,1,3
-2017,genesis 4,blondkid,maz,falcon,pika,2,pools,pools,2,3
-2017,genesis 4,daniels,rizner,pika,kirby,2,pools,pools,1,3
-2017,genesis 4,daniels,rizner,pika,kirby,1,pools,pools,2,3
-2017,genesis 4,daniels,rizner,pika,kirby,1,pools,pools,3,3
-2017,genesis 4,jimmyjoe,nacl,pika,kirby,2,pools,pools,1,3
-2017,genesis 4,jimmyjoe,nacl,pika,kirby,2,pools,pools,2,3
-2017,genesis 4,reno,jimmyjoe,kirby,pika,2,pools,pools,1,3
-2017,genesis 4,reno,jimmyjoe,kirby,pika,2,pools,pools,2,3
-2017,genesis 4,ken,capos,falcon,puff,2,pools,pools,1,3
-2017,genesis 4,ken,capos,falcon,puff,1,pools,pools,2,3
-2017,genesis 4,ken,capos,falcon,puff,1,pools,pools,3,3
-2017,genesis 4,cobr,fry,falcon,pika,1,pools,pools,1,3
-2017,genesis 4,cobr,fry,falcon,pika,1,pools,pools,2,3
-2017,genesis 4,hungrybox,codytappen,kirby,pika,1,pools,pools,1,3
-2017,genesis 4,hungrybox,codytappen,kirby,pika,1,pools,pools,2,3
-2017,genesis 4,natty,taiko,falcon,falcon,2,pools,pools,1,3
-2017,genesis 4,natty,taiko,falcon,falcon,2,pools,pools,2,3
-2017,genesis 4,bottleopenerguy,taiko,falcon,falcon,2,pools,pools,1,3
-2017,genesis 4,bottleopenerguy,taiko,falcon,falcon,2,pools,pools,2,3
-2017,genesis 4,ringedge,drgrin,puff,kirby,2,pools,pools,1,3
-2017,genesis 4,ringedge,drgrin,puff,kirby,2,pools,pools,2,3
-2017,genesis 4,smurf,monkey,pika,puff,1,pools,pools,1,3
-2017,genesis 4,smurf,monkey,pika,puff,1,pools,pools,2,3
-2017,genesis 4,moustacher,freean,pika,luigi,2,pools,pools,1,3
-2017,genesis 4,moustacher,freean,pika,luigi,2,pools,pools,2,3
-2017,genesis 4,mariguas,janitor,pika,pika,1,bracket,top64,1,3
-2017,genesis 4,mariguas,janitor,pika,pika,1,bracket,top64,2,3
-2017,genesis 4,dext3r,barksanchez,pika,pika,1,bracket,top64,1,3
-2017,genesis 4,dext3r,barksanchez,pika,pika,1,bracket,top64,2,3
-2017,genesis 4,hansolo,jaimehr,fox,kirby,2,bracket,top64,1,3
-2017,genesis 4,hansolo,jaimehr,fox,kirby,2,bracket,top64,2,3
-2017,genesis 4,jaimehr,onski,samus,kirby,1,bracket,top64,1,3
-2017,genesis 4,jaimehr,onski,samus,kirby,1,bracket,top64,2,3
-2017,genesis 4,cobr,madrush,falcon,falcon,1,bracket,top64,1,3
-2017,genesis 4,cobr,madrush,falcon,falcon,1,bracket,top64,2,3
-2017,genesis 4,nintendude,cobr,fox,falcon,2,bracket,top32,1,3
-2017,genesis 4,nintendude,cobr,fox,falcon,2,bracket,top64,2,3
-2017,genesis 4,nickelbackstreetboy,dadsmagicalerasers,pika,yoshi,1,pools,pools,1,3
-2017,genesis 4,nickelbackstreetboy,dadsmagicalerasers,pika,yoshi,1,pools,pools,2,3
-2017,genesis 4,shears,stranded,yoshi,falcon,2,bracket,top64,1,3
-2017,genesis 4,shears,stranded,yoshi,falcon,2,bracket,top64,2,3
-2017,genesis 4,janitor,zero,yoshi,falcon,2,bracket,top64,1,3
-2017,genesis 4,janitor,zero,yoshi,falcon,2,bracket,top64,2,3
-2017,genesis 4,dtan,barksanchez,kirby,pika,2,bracket,top64,1,3
-2017,genesis 4,dtan,barksanchez,kirby,pika,2,bracket,top64,2,3
-2017,genesis 4,sotoh,alvin,pika,falcon,2,bracket,top64,1,3
-2017,genesis 4,sotoh,alvin,pika,pika,2,bracket,top64,2,3
-2017,genesis 4,theprotagonist,shears,fox,pika,1,bracket,top64,1,3
-2017,genesis 4,theprotagonist,shears,fox,pika,2,bracket,top64,2,3
-2017,genesis 4,theprotagonist,shears,fox,pika,2,bracket,top64,3,3
-2017,genesis 4,jaimehr,handsometom,pika,kirby,1,bracket,top64,1,3
-2017,genesis 4,jaimehr,handsometom,pika,kirby,1,bracket,top64,2,3
-2017,genesis 4,kysk,ctg,kirby,puff,1,bracket,top64,1,3
-2017,genesis 4,kysk,ctg,kirby,puff,1,bracket,top64,2,3
-2017,genesis 4,yukun,isai,falcon,puff,1,bracket,top32,1,5
-2017,genesis 4,yukun,isai,falcon,puff,1,bracket,top32,2,5
-2017,genesis 4,yukun,isai,falcon,mario,2,bracket,top32,3,5
-2017,genesis 4,yukun,isai,falcon,puff,1,bracket,top32,4,5
-2017,genesis 4,paco,yukun,pika,falcon,2,pools,pools,1,3
-2017,genesis 4,paco,yukun,pika,falcon,2,pools,pools,2,3
-2017,genesis 4,bon,kyletree,pika,pika,2,pools,pools,1,3
-2017,genesis 4,bon,kyletree,pika,pika,2,pools,pools,2,3
-2017,genesis 4,ctg,bard,puff,kirby,1,pools,pools,1,3
-2017,genesis 4,ctg,bard,puff,pika,1,pools,pools,2,3
-2017,genesis 4,k,zero,kirby,luigi,2,pools,pools,1,3
-2017,genesis 4,k,zero,kirby,falcon,2,pools,pools,2,3
-2017,genesis 4,duffman,jaimehr,link,link,2,pools,pools,1,3
-2017,genesis 4,duffman,jaimehr,falcon,samus,2,pools,pools,2,3
-2017,genesis 4,hydra,bon,mario,pika,1,pools,pools,1,3
-2017,genesis 4,hydra,bon,mario,pika,1,pools,pools,2,3
-2017,genesis 4,alvin,hungrybox,kirby,pika,2,pools,pools,1,3
-2017,genesis 4,alvin,hungrybox,kirby,dk,2,pools,pools,2,3
-2017,genesis 4,isai,brownomega,dk,falcon,1,pools,pools,1,3
-2017,genesis 4,isai,brownomega,puff,fox,1,pools,pools,2,3
-2017,genesis 4,ken,alvin,falcon,mario,2,pools,pools,1,3
-2017,genesis 4,ken,alvin,falcon,yoshi,2,pools,pools,2,3
-2017,genesis 4,spark,jame,fox,falcon,1,pools,pools,1,3
-2017,genesis 4,spark,jame,fox,falcon,1,pools,pools,2,3
-2017,genesis 4,sonicfuzz,ken,puff,falcon,2,pools,pools,1,3
-2017,genesis 4,sonicfuzz,ken,pika,falcon,2,pools,pools,2,3
-2017,genesis 4,moonshoes,drgrin,pika,kirby,2,pools,pools,1,3
-2017,genesis 4,moonshoes,drgrin,pika,kirby,1,pools,pools,2,3
-2017,genesis 4,moonshoes,drgrin,pika,kirby,2,pools,pools,3,3
-2017,genesis 4,kimimaru,daniels,mario,pika,1,pools,pools,1,3
-2017,genesis 4,kimimaru,daniels,mario,fox,2,pools,pools,2,3
-2017,genesis 4,dtan,blondekid,kirby,pika,1,pools,pools,1,3
-2017,genesis 4,dtan,blondekid,kirby,pika,1,pools,pools,2,3
-2017,genesis 4,taiko,dext3r,falcon,pika,2,pools,pools,1,3
-2017,genesis 4,taiko,dext3r,falcon,pika,2,pools,pools,2,3
-2017,genesis 4,sotoh,shihman,pika,falcon,2,pools,pools,1,3
-2017,genesis 4,sotoh,shihman,kirby,falcon,1,pools,pools,2,3
-2017,genesis 4,sotoh,shihman,kirby,luigi,1,pools,pools,3,3
-2017,genesis 4,drewgong,d35,fox,pika,2,pools,pools,1,3
-2017,genesis 4,drewgong,d35,fox,falcon,2,pools,pools,2,3
-2017,genesis 4,darkhorse,d35,puff,falcon,1,pools,pools,1,3
-2017,genesis 4,darkhorse,d35,puff,pika,1,pools,pools,2,3
-2017,genesis 4,tanuki,myrocknpancakes,falcon,falcon,2,pools,pools,1,3
-2017,genesis 4,tanuki,myrocknpancakes,pika,falcon,2,pools,pools,2,3
-2017,genesis 4,kysk,mariguas,kirby,pika,1,bracket,wq,1,5
-2017,genesis 4,kysk,mariguas,kirby,pika,1,bracket,wq,2,5
-2017,genesis 4,kysk,mariguas,kirby,pika,1,bracket,wq,3,5
-2017,genesis 4,kysk,stranded,kirby,pika,1,bracket,top64,1,3
-2017,genesis 4,kysk,stranded,kirby,pika,1,bracket,top64,2,3
-2017,genesis 4,alvin,kimimaru,pika,mario,1,bracket,top64,1,3
-2017,genesis 4,alvin,kimimaru,pika,mario,1,bracket,top64,2,3
-2017,genesis 4,taimai,kerokeroppi,fox,pika,2,bracket,wq,1,5
-2017,genesis 4,taimai,kerokeroppi,fox,pika,2,bracket,wq,2,5
-2017,genesis 4,taimai,kerokeroppi,fox,pika,2,bracket,wq,3,5
-2017,genesis 4,yukun,kerokeroppi,falcon,kirby,2,bracket,top64,1,3
-2017,genesis 4,yukun,kerokeroppi,pika,kirby,1,bracket,top64,2,3
-2017,genesis 4,yukun,kerokeroppi,pika,pika,2,bracket,top64,3,3
-2017,genesis 4,taimai,isai,fox,luigi,1,bracket,top64,1,3
-2017,genesis 4,taimai,isai,fox,luigi,1,bracket,top64,2,3
-2017,genesis 4,tacos,alvin,yoshi,pika,2,bracket,wq,1,5
-2017,genesis 4,tacos,alvin,yoshi,pika,1,bracket,wq,2,5
-2017,genesis 4,tacos,alvin,yoshi,pika,2,bracket,wq,3,5
-2017,genesis 4,tacos,alvin,yoshi,pika,2,bracket,wq,4,5
-2017,genesis 4,thez,tacos,kirby,kirby,2,bracket,top64,1,3
-2017,genesis 4,thez,tacos,pika,kirby,1,bracket,top64,2,3
-2017,genesis 4,thez,tacos,pika,pika,2,bracket,top64,3,3
-2017,genesis 4,taimai,jaimehr,fox,kirby,1,bracket,top64,1,3
-2017,genesis 4,taimai,jaimehr,fox,falcon,1,bracket,top64,2,3
-2017,genesis 4,thez,mariguas,kirby,pika,2,bracket,lq,1,5
-2017,genesis 4,thez,mariguas,pika,pika,1,bracket,lq,2,5
-2017,genesis 4,thez,mariguas,kirby,pika,1,bracket,lq,3,5
-2017,genesis 4,thez,mariguas,kirby,pika,2,bracket,lq,4,5
-2017,genesis 4,thez,mariguas,kirby,pika,2,bracket,lq,5,5
-2017,genesis 4,barksanchez,superboomfan,pika,pika,2,bracket,top32,1,3
-2017,genesis 4,barksanchez,superboomfan,pika,pika,2,bracket,top32,2,3
-2017,genesis 4,wizzrobe,kysk,yoshi,kirby,2,bracket,ws,1,5
-2017,genesis 4,wizzrobe,kysk,yoshi,kirby,2,bracket,ws,2,5
-2017,genesis 4,wizzrobe,kysk,yoshi,kirby,2,bracket,ws,3,5
-2017,genesis 4,superboomfan,yukun,kirby,falcon,1,bracket,lq,1,5
-2017,genesis 4,superboomfan,yukun,kirby,falcon,1,bracket,lq,2,5
-2017,genesis 4,superboomfan,yukun,kirby,falcon,1,bracket,lq,3,5
-2017,genesis 4,handsometom,zero,kirby,pika,1,bracket,top64,1,3
-2017,genesis 4,handsometom,zero,kirby,falcon,1,bracket,top64,2,3
-2017,genesis 4,alvin,kerokeroppi,pika,pika,1,bracket,ws,1,5
-2017,genesis 4,alvin,kerokeroppi,pika,pika,1,bracket,ws,2,5
-2017,genesis 4,alvin,kerokeroppi,pika,pika,1,bracket,ws,3,5
-2017,genesis 4,jaimehr,tacos,pika,kirby,2,bracket,lq,1,5
-2017,genesis 4,jaimehr,tacos,pika,kirby,2,bracket,lq,2,5
-2017,genesis 4,jaimehr,tacos,samus,kirby,2,bracket,lq,3,5
-2017,genesis 4,superboomfan,mariguas,pika,pika,1,bracket,ls,1,5
-2017,genesis 4,superboomfan,mariguas,pika,pika,1,bracket,ls,2,5
-2017,genesis 4,superboomfan,mariguas,pika,pika,1,bracket,ls,3,5
-2017,genesis 4,dext3r,taimai,pika,fox,1,bracket,lq,1,5
-2017,genesis 4,dext3r,taimai,pika,falcon,2,bracket,lq,2,5
-2017,genesis 4,dext3r,taimai,pika,falcon,2,bracket,lq,3,5
-2017,genesis 4,dext3r,taimai,pika,falcon,1,bracket,lq,4,5
-2017,genesis 4,dext3r,taimai,pika,falcon,1,bracket,lq,5,5
-2017,genesis 4,kerokeroppi,superboomfan,pika,pika,2,bracket,top8,1,5
-2017,genesis 4,kerokeroppi,superboomfan,pika,pika,2,bracket,top8,2,5
-2017,genesis 4,kerokeroppi,superboomfan,pika,pika,2,bracket,top8,3,5
-2017,genesis 4,wizzrobe,dext3r,yoshi,pika,1,bracket,top8,1,5
-2017,genesis 4,wizzrobe,dext3r,yoshi,pika,2,bracket,top8,2,5
-2017,genesis 4,wizzrobe,dext3r,yoshi,pika,2,bracket,top8,3,5
-2017,genesis 4,wizzrobe,dext3r,yoshi,pika,2,bracket,top8,4,5
-2017,genesis 4,alvin,kysk,pika,kirby,1,bracket,wf,1,5
-2017,genesis 4,alvin,kysk,pika,kirby,1,bracket,wf,2,5
-2017,genesis 4,alvin,kysk,pika,falcon,2,bracket,wf,3,5
-2017,genesis 4,alvin,kysk,pika,kirby,1,bracket,wf,4,5
-2017,genesis 4,dext3r,superboomfan,pika,pika,2,bracket,ls,1,5
-2017,genesis 4,dext3r,superboomfan,pika,pika,2,bracket,ls,2,5
-2017,genesis 4,dext3r,superboomfan,pika,pika,2,bracket,ls,3,5
-2017,genesis 4,kysk,superboomfan,kirby,pika,2,bracket,lf,1,5
-2017,genesis 4,kysk,superboomfan,kirby,pika,2,bracket,lf,2,5
-2017,genesis 4,kysk,superboomfan,falcon,pika,2,bracket,lf,3,5
-2017,genesis 4,alvin,superboomfan,pika,pika,2,bracket,gf,1,5
-2017,genesis 4,alvin,superboomfan,pika,pika,1,bracket,gf,2,5
-2017,genesis 4,alvin,superboomfan,pika,pika,2,bracket,gf,3,5
-2017,genesis 4,alvin,superboomfan,pika,pika,1,bracket,gf,4,5
-2017,genesis 4,alvin,superboomfan,pika,pika,1,bracket,gf,5,5
-2016,shine,nintendude,karajan,fox,fox,1,bracket,top8,1,5
-2016,shine,nintendude,karajan,fox,fox,1,bracket,top8,2,5
-2016,shine,nintendude,karajan,fox,dk,1,bracket,top8,3,5
-2016,shine,marbles,shears,pika,yoshi,1,bracket,top8,1,5
-2016,shine,marbles,shears,pika,yoshi,2,bracket,top8,2,5
-2016,shine,marbles,shears,ness,yoshi,1,bracket,top8,3,5
-2016,shine,marbles,shears,pika,yoshi,1,bracket,top8,4,5
-2016,shine,superboomfan,fireblaster,fox,yoshi,1,bracket,ws,1,5
-2016,shine,superboomfan,fireblaster,fox,yoshi,1,bracket,ws,1,5
-2016,shine,superboomfan,fireblaster,fox,yoshi,1,bracket,ws,1,5
-2016,shine,tacos,barksanchez,yoshi,pika,1,bracket,ws,1,5
-2016,shine,tacos,barksanchez,yoshi,pika,1,bracket,ws,2,5
-2016,shine,tacos,barksanchez,dk,pika,1,bracket,ws,3,5
-2016,shine,fireblaster,nintendude,yoshi,fox,1,bracket,top8,1,5
-2016,shine,fireblaster,nintendude,yoshi,fox,1,bracket,top8,2,5
-2016,shine,fireblaster,nintendude,yoshi,fox,1,bracket,top8,3,5
-2016,shine,barksanchez,marbles,pika,pika,1,bracket,top8,1,5
-2016,shine,barksanchez,marbles,pika,pika,1,bracket,top8,2,5
-2016,shine,barksanchez,marbles,pika,pika,1,bracket,top8,3,5
-2016,shine,superboomfan,tacos,kirby,falcon,1,bracket,wf,1,5
-2016,shine,superboomfan,tacos,kirby,pika,1,bracket,wf,2,5
-2016,shine,superboomfan,tacos,kirby,pika,1,bracket,wf,3,5
-2016,shine,fireblaster,barksanchez,yoshi,pika,1,bracket,ws,1,5
-2016,shine,fireblaster,barksanchez,yoshi,pika,2,bracket,ws,2,5
-2016,shine,fireblaster,barksanchez,yoshi,pika,2,bracket,ws,3,5
-2016,shine,fireblaster,barksanchez,yoshi,pika,2,bracket,ws,4,5
-2016,shine,barksanchez,tacos,pika,falcon,1,bracket,lf,1,5
-2016,shine,barksanchez,tacos,pika,yoshi,2,bracket,lf,2,5
-2016,shine,barksanchez,tacos,pika,yoshi,2,bracket,lf,3,5
-2016,shine,barksanchez,tacos,pika,yoshi,2,bracket,lf,4,5
-2016,shine,superboomfan,tacos,kirby,pika,1,bracket,gf,1,5
-2016,shine,superboomfan,tacos,dk,dk,1,bracket,gf,2,5
-2016,shine,superboomfan,tacos,link,link,1,bracket,gf,3,5
-2016,shine,mrsir,sunflower,samus,yoshi,1,pools,pools,1,3
-2016,shine,mrsir,sunflower,samus,yoshi,2,pools,pools,2,3
-2016,shine,mrsir,sunflower,samus,yoshi,1,pools,pools,3,3
-2016,shine,nintendude,tyhiggz,fox,yoshi,1,bracket,top32,1,5
-2016,shine,nintendude,tyhiggz,fox,yoshi,1,bracket,top32,2,5
-2016,shine,nintendude,tyhiggz,fox,yoshi,1,bracket,top32,3,5
-2016,shine,shears,madrush,yoshi,falcon,1,bracket,top32,1,5
-2016,shine,shears,madrush,yoshi,kirby,2,bracket,top32,2,5
-2016,shine,shears,madrush,yoshi,falcon,1,bracket,top32,3,5
-2016,shine,shears,madrush,pika,falcon,2,bracket,top32,4,5
-2016,shine,shears,madrush,yoshi,falcon,1,bracket,top32,5,5
-2016,shine,sandman,tonester,kirby,pika,2,pools,pools,1,3
-2016,shine,sandman,tonester,kirby,pika,2,pools,pools,2,3
-2016,shine,thetits,atothez,pika,fox,1,pools,pools,1,3
-2016,shine,thetits,atothez,pika,fox,2,pools,pools,2,3
-2016,shine,thetits,atothez,pika,fox,2,pools,pools,3,3
-2016,shine,karajan,barksanchez,fox,pika,2,bracket,top32,1,5
-2016,shine,karajan,barksanchez,kirby,pika,2,bracket,top32,2,5
-2016,shine,karajan,barksanchez,falcon,pika,2,bracket,top32,3,5
-2016,shine,apparition,tyhiggz,falcon,yoshi,1,pools,pools,1,3
-2016,shine,apparition,tyhiggz,falcon,yoshi,2,pools,pools,2,3
-2016,shine,apparition,tyhiggz,falcon,yoshi,2,pools,pools,3,3
-2016,shine,marbles,shihman,pika,falcon,1,bracket,top32,1,5
-2016,shine,marbles,shihman,pika,falcon,2,bracket,top32,2,5
-2016,shine,marbles,shihman,pika,falcon,1,bracket,top32,3,5
-2016,shine,marbles,shihman,pika,falcon,1,bracket,top32,4,5
-2016,shine,myninja,bear,mario,kirby,1,pools,pools,1,3
-2016,shine,myninja,bear,mario,yoshi,1,pools,pools,2,3
-2016,shine,fireblaster,henry935,yoshi,kirby,1,pools,pools,1,3
-2016,shine,fireblaster,henry935,yoshi,kirby,1,pools,pools,2,3
-2016,shine,razz,kevorkian,mario,mario,1,pools,pools,1,3
-2016,shine,razz,kevorkian,mario,mario,1,pools,pools,2,3
-2016,shine,goodguygrrg,superboomfan,falcon,fox,2,pools,pools,1,3
-2016,shine,goodguygrrg,superboomfan,kirby,fox,2,pools,pools,2,3
-2016,shine,marbles,greeno,pika,puff,1,pools,pools,1,3
-2016,shine,marbles,greeno,pika,falcon,1,pools,pools,2,3
-2016,shine,yunque,karajan,puff,fox,2,bracket,top32,1,5
-2016,shine,yunque,karajan,puff,fox,2,bracket,top32,2,5
-2016,shine,yunque,karajan,puff,fox,2,bracket,top32,3,5
-2016,shine,barksanchez,shihman,pika,falcon,2,bracket,top32,1,5
-2016,shine,barksanchez,shihman,pika,falcon,1,bracket,top32,2,5
-2016,shine,barksanchez,shihman,pika,falcon,1,bracket,top32,3,5
-2016,shine,barksanchez,shihman,pika,falcon,1,bracket,top32,4,5
-2016,shine,madrush,gt,falcon,pika,1,pools,pools,1,3
-2016,shine,madrush,gt,falcon,pika,1,pools,pools,2,3
-2016,shine,fireblaster,shears,yoshi,pika,1,bracket,top32,1,5
-2016,shine,fireblaster,shears,yoshi,pika,1,bracket,top32,2,5
-2016,shine,fireblaster,shears,yoshi,pika,1,bracket,top32,3,5
-2016,shine,yunque,llcstoism,puff,kirby,1,pools,pools,1,3
-2016,shine,yunque,llcstoism,puff,kirby,1,pools,pools,2,3
-2016,shine,esid,nintendude,kirby,fox,2,pools,pools,1,3
-2016,shine,esid,nintendude,kirby,fox,2,pools,pools,2,3
-2016,shine,purtle,shihman,falcon,falcon,2,pools,pools,1,3
-2016,shine,purtle,shihman,falcon,falcon,2,pools,pools,2,3
-2016,shine,myninja,zuko,mario,link,2,pools,pools,1,3
-2016,shine,myninja,zuko,falcon,luigi,2,pools,pools,2,3
-2016,shine,macintosh,barksanchez,falcon,fox,2,pools,pools,1,3
-2016,shine,macintosh,barksanchez,puff,fox,2,pools,pools,2,3
-2016,shine,karajan,kaz,fox,pika,1,pools,pools,1,3
-2016,shine,karajan,kaz,kirby,pika,1,pools,pools,2,3
-2016,shine,shears,zyrg,yoshi,pika,1,pools,pools,1,3
-2016,shine,shears,zyrg,yoshi,pika,1,pools,pools,2,3
-2016,shine,nuro,mechanicalmarine,pika,fox,1,pools,pools,1,3
-2016,shine,nuro,mechanicalmarine,pika,pika,1,pools,pools,2,3
-2016,shine,scoback,shears,puff,pika,2,bracket,top32,1,5
-2016,shine,scoback,shears,puff,pika,2,bracket,top32,2,5
-2016,shine,scoback,shears,puff,pika,2,bracket,top32,3,5
-2016,shine,marbles,superboomfan,pika,puff,2,bracket,top32,1,5
-2016,shine,marbles,superboomfan,pika,puff,2,bracket,top32,2,5
-2016,shine,marbles,superboomfan,pika,puff,2,bracket,top32,3,5
-2016,shine,tacos,nintendude,yoshi,fox,1,bracket,top32,1,5
-2016,shine,tacos,nintendude,yoshi,fox,1,bracket,top32,2,5
-2016,shine,tacos,nintendude,yoshi,fox,1,bracket,top32,3,5
-2016,shine,mello,tacos,fox,yoshi,2,pools,pools,1,3
-2016,shine,mello,tacos,fox,dk,2,pools,pools,2,3
-2016,shine,scoback,maestro,ness,fox,1,pools,pools,1,3
-2016,shine,scoback,maestro,puff,ness,1,pools,pools,2,3
-2016,apex,stranded,starking,pika,kirby,2,bracket,ws,1,5
-2016,apex,stranded,starking,pika,kirby,1,bracket,ws,2,5
-2016,apex,stranded,starking,pika,kirby,1,bracket,ws,3,5
-2016,apex,stranded,starking,pika,kirby,1,bracket,ws,4,5
-2016,apex,cobr,fireblaster,kirby,yoshi,2,bracket,ws,1,5
-2016,apex,cobr,fireblaster,kirby,yoshi,2,bracket,ws,2,5
-2016,apex,cobr,fireblaster,falcon,yoshi,1,bracket,ws,3,5
-2016,apex,cobr,fireblaster,falcon,mario,1,bracket,ws,4,5
-2016,apex,cobr,fireblaster,kirby,yoshi,1,bracket,ws,5,5
-2016,apex,sedda,nta,fox,falcon,1,bracket,top8,1,5
-2016,apex,sedda,nta,fox,mario,2,bracket,top8,2,5
-2016,apex,sedda,nta,fox,mario,2,bracket,top8,3,5
-2016,apex,sedda,nta,fox,mario,1,bracket,top8,4,5
-2016,apex,sedda,nta,fox,mario,2,bracket,top8,5,5
-2016,apex,zeppelin,dfx,falcon,fox,2,bracket,top8,1,5
-2016,apex,zeppelin,dfx,falcon,fox,2,bracket,top8,2,5
-2016,apex,zeppelin,dfx,pika,fox,2,bracket,top8,3,5
-2016,apex,nta,starking,samus,kirby,2,bracket,top8,1,5
-2016,apex,nta,starking,samus,kirby,2,bracket,top8,2,5
-2016,apex,nta,starking,falcon,kirby,2,bracket,top8,3,5
-2016,apex,cobr,dfx,kirby,fox,1,bracket,top8,1,5
-2016,apex,cobr,dfx,kirby,fox,1,bracket,top8,2,5
-2016,apex,cobr,dfx,kirby,pika,1,bracket,top8,3,5
-2016,apex,fireblaster,stranded,yoshi,pika,1,bracket,wf,1,5
-2016,apex,fireblaster,stranded,yoshi,falcon,2,bracket,wf,2,5
-2016,apex,fireblaster,stranded,yoshi,pika,2,bracket,wf,3,5
-2016,apex,fireblaster,stranded,yoshi,kirby,2,bracket,wf,4,5
-2016,apex,fireblaster,starking,yoshi,kirby,2,bracket,lf,1,5
-2016,apex,fireblaster,starking,yoshi,kirby,2,bracket,lf,2,5
-2016,apex,fireblaster,starking,yoshi,kirby,2,bracket,lf,3,5
-2016,apex,stranded,starking,pika,kirby,1,bracket,gf,1,5
-2016,apex,stranded,starking,pika,kirby,1,bracket,gf,2,5
-2016,apex,stranded,starking,pika,kirby,1,bracket,gf,3,5
-2016,apex,mrsir,maliki,samus,falcon,1,bracket,top32,1,3
-2016,apex,mrsir,maliki,samus,pika,2,bracket,top32,2,3
-2016,apex,mrsir,maliki,samus,pika,1,bracket,top32,3,3
-2016,apex,bp,ctg,yoshi,puff,2,bracket,top32,1,3
-2016,apex,bp,ctg,yoshi,puff,2,bracket,top32,2,3
-2016,apex,stranded,sedda,pika,fox,1,bracket,wq,1,3
-2016,apex,stranded,sedda,dk,dk,1,bracket,wq,2,3
-2016,apex,ctg,starking,puff,fox,2,bracket,wq,1,3
-2016,apex,ctg,starking,puff,samus,2,bracket,wq,2,3
-2016,apex,dfx,fireblaster,fox,yoshi,2,bracket,wq,1,3
-2016,apex,dfx,fireblaster,falcon,yoshi,1,bracket,wq,2,3
-2016,apex,dfx,fireblaster,falcon,mario,2,bracket,wq,3,3
-2016,apex,mrsir,cobr,samus,samus,2,bracket,wq,1,3
-2016,apex,mrsir,cobr,samus,samus,2,bracket,wq,2,3
-2016,apex,dount,bonerstorm,fox,yoshi,1,bracket,top32,1,3
-2016,apex,dount,bonerstorm,fox,puff,1,bracket,top32,2,3
-2016,apex,nta,kelvinheit,pika,mario,1,bracket,top16,1,3
-2016,apex,nta,kelvinheit,pika,falcon,2,bracket,top16,2,3
-2016,apex,nta,kelvinheit,pika,mario,1,bracket,top16,3,3
-2016,apex,zeppelin,jamjar,falcon,kirby,1,bracket,top32,1,3
-2016,apex,zeppelin,jamjar,falcon,kirby,1,bracket,top32,2,3
-2016,apex,dfx,bp,falcon,yoshi,1,bracket,top16,1,3
-2016,apex,dfx,bp,falcon,yoshi,2,bracket,top16,2,3
-2016,apex,dfx,bp,falcon,yoshi,1,bracket,top16,3,3
-2016,apex,ctg,nta,puff,falcon,2,bracket,top16,1,3
-2016,apex,ctg,nta,puff,falcon,2,bracket,top16,1,3
-2016,apex,zeppelin,mrsir,falcon,samus,1,bracket,top16,1,3
-2016,apex,zeppelin,mrsir,falcon,samus,1,bracket,top16,2,3
-2016,apex,maliki,sedda,pika,fox,2,bracket,top16,1,3
-2016,apex,maliki,sedda,falcon,fox,2,bracket,top16,2,3
-2016,summit,barksanchez,revan,pika,kirby,1,bracket,gf,1,5
-2016,summit,barksanchez,revan,pika,kirby,1,bracket,gf,2,5
-2016,summit,barksanchez,revan,pika,kirby,2,bracket,gf,3,5
-2016,summit,barksanchez,revan,pika,kirby,2,bracket,gf,4,5
-2016,summit,barksanchez,revan,pika,kirby,2,bracket,gf,5,5
-2016,summit,barksanchez,ybombb,pika,falcon,1,bracket,lf,1,5
-2016,summit,barksanchez,ybombb,pika,falcon,1,bracket,lf,2,5
-2016,summit,barksanchez,ybombb,pika,yoshi,2,bracket,lf,3,5
-2016,summit,barksanchez,ybombb,pika,yoshi,1,bracket,lf,4,5
-2016,summit,ybombb,preston,puff,kirby,1,bracket,ls,1,5
-2016,summit,ybombb,preston,puff,kirby,1,bracket,ls,2,5
-2016,summit,ybombb,preston,yoshi,kirby,1,bracket,ls,3,5
-2016,summit,barksanchez,revan,pika,kirby,1,bracket,wf,1,5
-2016,summit,barksanchez,revan,pika,kirby,2,bracket,wf,2,5
-2016,summit,barksanchez,revan,pika,kirby,2,bracket,wf,3,5
-2016,summit,barksanchez,revan,pika,kirby,2,bracket,wf,4,5
-2016,summit,janco,preston,pika,kirby,2,bracket,lq,1,5
-2016,summit,janco,preston,pika,kirby,2,bracket,lq,2,5
-2016,summit,janco,preston,kirby,kirby,2,bracket,lq,3,5
-2016,summit,ybombb,thebigd,puff,pika,2,bracket,lq,1,5
-2016,summit,ybombb,thebigd,falcon,pika,1,bracket,lq,2,5
-2016,summit,ybombb,thebigd,falcon,kirby,1,bracket,lq,3,5
-2016,summit,ybombb,thebigd,falcon,kirby,2,bracket,lq,4,5
-2016,summit,ybombb,thebigd,falcon,pika,1,bracket,lq,5,5
-2016,summit,rizner,ybombb,kirby,puff,2,bracket,lq,1,3
-2016,summit,rizner,ybombb,kirby,puff,2,bracket,lq,2,3
-2016,summit,janco,barksanchez,pika,pika,2,bracket,ws,1,5
-2016,summit,janco,barksanchez,pika,pika,2,bracket,ws,2,5
-2016,summit,janco,barksanchez,kirby,falcon,2,bracket,ws,3,5
-2016,summit,revan,thebigd,kirby,pika,1,bracket,ws,1,5
-2016,summit,revan,thebigd,kirby,pika,1,bracket,ws,2,5
-2016,summit,revan,thebigd,kirby,pika,1,bracket,ws,3,5
-2016,summit,vanillarin,preston,kirby,kirby,2,bracket,top16,1,3
-2016,summit,vanillarin,preston,kirby,mario,2,bracket,top16,2,3
-2016,summit,fckvwls,hotspank,falcon,puff,1,bracket,top16,1,3
-2016,summit,fckvwls,hotspank,falcon,falcon,1,bracket,top16,2,3
-2016,summit,sax,rizner,falcon,kirby,2,bracket,top16,1,3
-2016,summit,sax,rizner,mario,kirby,2,bracket,top16,2,3
-2016,summit,sextc,ybombb,fox,falcon,2,bracket,top16,1,3
-2016,summit,sextc,ybombb,falcon,falcon,2,bracket,top16,2,3
-2016,summit,sax,barksanchez,falcon,pika,2,bracket,top16,1,3
-2016,summit,sax,barksanchez,falcon,pika,2,bracket,top16,2,3
-2016,summit,janco,ybombb,kirby,yoshi,1,bracket,top16,1,3
-2016,summit,janco,ybombb,pika,falcon,2,bracket,top16,2,3
-2016,summit,janco,ybombb,pika,puff,1,bracket,top16,3,3
-2016,summit,fckvwls,thebigd,falcon,kirby,2,bracket,top16,1,3
-2016,summit,fckvwls,thebigd,falcon,kirby,2,bracket,top16,2,3
-2016,summit,preston,revan,kirby,kirby,2,bracket,top16,1,3
-2016,summit,preston,revan,kirby,kirby,2,bracket,top16,2,3
-2016,summit,vanillarin,barksanchez,kirby,pika,2,bracket,top32,1,3
-2016,summit,vanillarin,barksanchez,kirby,falcon,2,bracket,top32,2,3
-2016,summit,rizner,preston,kirby,kirby,2,bracket,top32,1,3
-2016,summit,rizner,preston,kirby,kirby,2,bracket,top32,2,3
-2016,summit,polarbair,reckless,mario,falcon,1,bracket,top32,1,3
-2016,summit,polarbair,reckless,mario,falcon,2,bracket,top32,2,3
-2016,summit,polarbair,reckless,mario,falcon,2,bracket,top32,3,3
-2016,superboomed,revan,alvin,kirby,pika,2,bracket,wq,1,3
-2016,superboomed,revan,alvin,kirby,pika,2,bracket,wq,2,3
-2016,superboomed,firo,thez,ness,fox,1,bracket,wq,1,3
-2016,superboomed,firo,thez,ness,fox,1,bracket,wq,2,3
-2016,superboomed,mariguas,alvin,pika,falcon,1,bracket,gf,1,5
-2016,superboomed,mariguas,alvin,pika,falcon,2,bracket,gf,2,5
-2016,superboomed,mariguas,alvin,pika,falcon,2,bracket,gf,3,5
-2016,superboomed,mariguas,alvin,kirby,falcon,1,bracket,gf,4,5
-2016,superboomed,mariguas,alvin,pika,falcon,2,bracket,gf,5,5
-2016,superboomed,mariguas,alvin,pika,falcon,2,bracket,gf2,1,5
-2016,superboomed,mariguas,alvin,pika,falcon,2,bracket,gf2,2,5
-2016,superboomed,mariguas,alvin,pika,falcon,2,bracket,gf2,3,5
-2016,superboomed,alvin,superboomfan,pika,kirby,2,bracket,lf,1,5
-2016,superboomed,alvin,superboomfan,pika,kirby,1,bracket,lf,2,5
-2016,superboomed,alvin,superboomfan,pika,yoshi,1,bracket,lf,3,5
-2016,superboomed,alvin,superboomfan,pika,kirby,2,bracket,lf,4,5
-2016,superboomed,alvin,superboomfan,pika,kirby,1,bracket,lf,5,5
-2016,superboomed,revan,superboomfan,kirby,pika,2,bracket,ls,1,5
-2016,superboomed,revan,superboomfan,kirby,pika,2,bracket,ls,2,5
-2016,superboomed,revan,superboomfan,kirby,pika,2,bracket,ls,3,5
-2016,superboomed,mariguas,alvin,pika,pika,1,bracket,wf,1,5
-2016,superboomed,mariguas,alvin,pika,falcon,2,bracket,wf,2,5
-2016,superboomed,mariguas,alvin,pika,falcon,1,bracket,wf,3,5
-2016,superboomed,mariguas,alvin,pika,pika,1,bracket,wf,4,5
-2016,superboomed,thez,superboomfan,fox,pika,2,bracket,lq,1,5
-2016,superboomed,thez,superboomfan,fox,pika,2,bracket,lq,2,5
-2016,superboomed,thez,superboomfan,fox,pika,2,bracket,lq,3,5
-2016,superboomed,revan,firo,kirby,link,1,bracket,lq,1,5
-2016,superboomed,revan,firo,kirby,ness,1,bracket,lq,2,5
-2016,superboomed,revan,firo,kirby,yoshi,1,bracket,lq,3,5
-2016,superboomed,handsometom,thez,kirby,fox,2,bracket,top8,1,5
-2016,superboomed,handsometom,thez,kirby,fox,1,bracket,top8,2,5
-2016,superboomed,handsometom,thez,kirby,fox,2,bracket,top8,3,5
-2016,superboomed,handsometom,thez,kirby,fox,2,bracket,top8,4,5
-2016,superboomed,revan,fireblaster,kirby,yoshi,1,bracket,top8,1,5
-2016,superboomed,revan,fireblaster,kirby,yoshi,1,bracket,top8,2,5
-2016,superboomed,revan,fireblaster,kirby,yoshi,1,bracket,top8,3,5
-2016,superboomed,handsometom,cobr,kirby,samus,2,bracket,top16,1,3
-2016,superboomed,handsometom,cobr,kirby,samus,1,bracket,top16,2,3
-2016,superboomed,handsometom,cobr,kirby,samus,1,bracket,top16,3,3
-2016,superboomed,alvin,superboomfan,pika,falcon,1,bracket,ws,1,5
-2016,superboomed,alvin,superboomfan,pika,falcon,2,bracket,ws,2,5
-2016,superboomed,alvin,superboomfan,falcon,falcon,1,bracket,ws,3,5
-2016,superboomed,alvin,superboomfan,pika,falcon,1,bracket,ws,4,5
-2016,superboomed,firo,mariguas,ness,pika,2,bracket,ws,1,5
-2016,superboomed,firo,mariguas,ness,pika,2,bracket,ws,2,5
-2016,superboomed,firo,mariguas,ness,pika,2,bracket,ws,3,5
-2016,superboomed,shears,superboomfan,pika,falcon,2,bracket,wq,1,3
-2016,superboomed,shears,superboomfan,yoshi,falcon,2,bracket,wq,2,3
-2016,superboomed,handsometom,mariguas,kirby,pika,2,bracket,wq,1,3
-2016,superboomed,handsometom,mariguas,kirby,pika,2,bracket,wq,2,3
-2016,superboomed,firo,robert,link,pika,2,bracket,top32,1,3
-2016,superboomed,firo,robert,ness,pika,1,bracket,top32,2,3
-2016,superboomed,firo,robert,ness,kirby,1,bracket,top32,3,3
-2016,superboomed,revan,lowww,kirby,pika,1,bracket,top32,1,3
-2016,superboomed,revan,lowww,kirby,pika,1,bracket,top32,2,3
-2016,superboomed,fireblaster,handsometom,yoshi,kirby,1,bracket,top32,1,3
-2016,superboomed,fireblaster,handsometom,yoshi,kirby,2,bracket,top32,2,3
-2016,superboomed,fireblaster,handsometom,yoshi,kirby,2,bracket,top32,3,3
-2016,superboomed,shears,jimmyjoe,pika,pika,1,bracket,top32,1,3
-2016,superboomed,shears,jimmyjoe,pika,pika,1,bracket,top32,2,3
-2016,superboomed,darkgentleman,captainfabulous,puff,falcon,1,bracket,top32,1,3
-2016,superboomed,darkgentleman,captainfabulous,puff,falcon,1,bracket,top32,2,3
-2016,superboomed,lowww,smashjesus,falcon,falcon,1,bracket,top32,1,3
-2016,superboomed,lowww,smashjesus,fox,falcon,1,bracket,top32,2,3
-2016,superboomed,jimmyjoe,robert,pika,pika,2,pools,pools,1,3
-2016,superboomed,jimmyjoe,robert,puff,pika,2,pools,pools,2,3
-2016,superboomed,sunnyb,shears,pika,yoshi,2,pools,pools,1,3
-2016,superboomed,sunnyb,shears,pika,pika,1,pools,pools,2,3
-2016,superboomed,sunnyb,shears,pika,pika,2,pools,pools,3,3
-2016,superboomed,dfx,captainfabulous,falcon,falcon,1,pools,pools,1,3
-2016,superboomed,dfx,captainfabulous,falcon,falcon,2,pools,pools,2,3
-2016,superboomed,dfx,captainfabulous,fox,falcon,2,pools,pools,3,3
-2016,superboomed,lowww,yobolight,fox,yoshi,1,pools,pools,1,3
-2016,superboomed,lowww,yobolight,fox,yoshi,1,pools,pools,2,3
-2016,superboomed,superboomfan,subtle,falcon,kirby,1,pools,pools,1,3
-2016,superboomed,superboomfan,subtle,falcon,kirby,1,pools,pools,2,3
-2016,superboomed,revan,bread,falcon,kirby,1,pools,pools,1,3
-2016,superboomed,revan,bread,yoshi,kirby,1,pools,pools,2,3
-2016,superboomed,fireblaster,horbie,yoshi,kirby,1,pools,pools,1,3
-2016,superboomed,fireblaster,horbie,yoshi,kirby,1,pools,pools,2,3
-2016,superboomed,mariguas,gildo,pika,kirby,1,pools,pools,1,3
-2016,superboomed,mariguas,gildo,pika,kirby,1,pools,pools,2,3
-2016,superboomed,greeno,thez,puff,fox,2,pools,pools,1,3
-2016,superboomed,greeno,thez,puff,fox,2,pools,pools,2,3
-2016,superboomed,jamjar,alvin,kirby,pika,2,pools,pools,1,3
-2016,superboomed,jamjar,alvin,kirby,pika,2,pools,pools,2,3
-2016,bossbattle2,superboomfan,annex,pika,dk,1,pools,pools,1,3
-2016,bossbattle2,superboomfan,annex,pika,samus,1,pools,pools,2,3
-2016,bossbattle2,komotonoto,fumbles,yoshi,yoshi,2,pools,pools,1,3
-2016,bossbattle2,komotonoto,fumbles,falcon,yoshi,2,pools,pools,2,3
-2016,bossbattle2,josephzander,scoback,falcon,ness,2,pools,pools,1,3
-2016,bossbattle2,josephzander,scoback,falcon,ness,2,pools,pools,2,3
-2016,bossbattle2,lorenzo,atothez,dk,falcon,1,pools,pools,1,3
-2016,bossbattle2,lorenzo,atothez,dk,falcon,1,pools,pools,2,3
-2016,bossbattle2,vinsanity,limesoda,fox,falcon,1,pools,pools,1,3
-2016,bossbattle2,vinsanity,limesoda,fox,falcon,1,pools,pools,2,3
-2016,bossbattle2,fishamanp,janitor,falcon,yoshi,2,pools,pools,1,3
-2016,bossbattle2,fishamanp,janitor,falcon,falcon,1,pools,pools,2,3
-2016,bossbattle2,fishamanp,janitor,falcon,mario,2,pools,pools,3,3
-2016,bossbattle2,ctg,professorwizard,puff,kirby,1,pools,pools,1,3
-2016,bossbattle2,ctg,professorwizard,puff,kirby,1,pools,pools,2,3
-2016,bossbattle2,jamjar,hipstur,kirby,fox,2,pools,pools,1,3
-2016,bossbattle2,jamjar,hipstur,kirby,fox,2,pools,pools,2,3
-2016,bossbattle2,onski,dtan,kirby,kirby,2,pools,pools,1,3
-2016,bossbattle2,onski,dtan,kirby,kirby,2,pools,pools,2,3
-2016,bossbattle2,zantetsu,dogsjohnson,pika,falcon,2,pools,pools,1,3
-2016,bossbattle2,zantetsu,dogsjohnson,pika,falcon,1,pools,pools,2,3
-2016,bossbattle2,zantetsu,dogsjohnson,pika,falcon,1,pools,pools,3,3
-2016,bossbattle2,whitejesus,battlecow,pika,pika,2,pools,pools,1,3
-2016,bossbattle2,whitejesus,battlecow,pika,pika,2,pools,pools,2,3
-2016,bossbattle2,darkhorse,piratetrips,puff,falcon,1,pools,pools,1,3
-2016,bossbattle2,darkhorse,piratetrips,puff,falcon,1,pools,pools,2,3
-2016,bossbattle2,pugs,deathcpo,pika,pika,1,pools,pools,1,3
-2016,bossbattle2,pugs,deathcpo,pika,pika,1,pools,pools,2,3
-2016,bossbattle2,scoback,superboomfan,ness,pika,2,bracket,top32,1,3
-2016,bossbattle2,scoback,superboomfan,ness,pika,2,bracket,top32,2,3
-2016,bossbattle2,shears,tyhiggz,pika,yoshi,2,bracket,top32,1,3
-2016,bossbattle2,shears,tyhiggz,pika,yoshi,1,bracket,top32,2,3
-2016,bossbattle2,shears,tyhiggz,pika,yoshi,2,bracket,top32,3,3
-2016,bossbattle2,vinsanity,onski,fox,kirby,1,bracket,top32,1,3
-2016,bossbattle2,vinsanity,onski,fox,kirby,1,bracket,top32,2,3
-2016,bossbattle2,comboblaze,lorenzo,falcon,dk,1,bracket,top32,1,3
-2016,bossbattle2,comboblaze,lorenzo,falcon,dk,2,bracket,top32,2,3
-2016,bossbattle2,comboblaze,lorenzo,falcon,dk,1,bracket,top32,3,3
-2016,bossbattle2,comboblaze,vinsanity,falcon,fox,2,bracket,top32,1,3
-2016,bossbattle2,comboblaze,vinsanity,falcon,fox,1,bracket,top32,2,3
-2016,bossbattle2,comboblaze,vinsanity,falcon,fox,2,bracket,top32,3,3
-2016,bossbattle2,superboomfan,zantetsu,pika,falcon,1,bracket,top32,1,3
-2016,bossbattle2,superboomfan,zantetsu,pika,pika,1,bracket,top32,2,3
-2016,bossbattle2,fumbles,lorenzo,yoshi,dk,1,bracket,top32,1,5
-2016,bossbattle2,fumbles,lorenzo,yoshi,dk,2,bracket,top32,2,5
-2016,bossbattle2,fumbles,lorenzo,yoshi,dk,2,bracket,top32,3,5
-2016,bossbattle2,fumbles,lorenzo,yoshi,dk,2,bracket,top32,4,5
-2016,bossbattle2,lorenzo,fireblaster,dk,yoshi,2,bracket,top8,1,5
-2016,bossbattle2,lorenzo,fireblaster,dk,mario,2,bracket,top8,2,5
-2016,bossbattle2,lorenzo,fireblaster,dk,yoshi,1,bracket,top8,3,5
-2016,bossbattle2,lorenzo,fireblaster,dk,yoshi,2,bracket,top8,4,5
-2016,bossbattle2,shears,zantetsu,yoshi,falcon,1,bracket,top8,1,5
-2016,bossbattle2,shears,zantetsu,yoshi,falcon,1,bracket,top8,2,5
-2016,bossbattle2,shears,zantetsu,yoshi,falcon,1,bracket,top8,3,5
-2016,bossbattle2,fumbles,dtan,yoshi,kirby,2,bracket,wq,1,5
-2016,bossbattle2,fumbles,dtan,yoshi,kirby,2,bracket,wq,2,5
-2016,bossbattle2,fumbles,dtan,yoshi,kirby,2,bracket,wq,3,5
-2016,bossbattle2,barksanchez,fishamanp,pika,falcon,1,bracket,wq,1,5
-2016,bossbattle2,barksanchez,fishamanp,pika,falcon,1,bracket,wq,2,5
-2016,bossbattle2,barksanchez,fishamanp,pika,falcon,1,bracket,wq,3,5
-2016,bossbattle2,marbles,kerokeroppi,pika,pika,2,bracket,wq,1,5
-2016,bossbattle2,marbles,kerokeroppi,pika,pika,2,bracket,wq,2,5
-2016,bossbattle2,marbles,kerokeroppi,pika,pika,2,bracket,wq,3,5
-2016,bossbattle2,superboomfan,vinsanity,pika,fox,1,bracket,wq,1,5
-2016,bossbattle2,superboomfan,vinsanity,pika,fox,1,bracket,wq,2,5
-2016,bossbattle2,superboomfan,vinsanity,pika,fox,1,bracket,wq,3,5
-2016,bossbattle2,kerokeroppi,barksanchez,pika,pika,1,bracket,ws,1,5
-2016,bossbattle2,kerokeroppi,barksanchez,pika,pika,1,bracket,ws,2,5
-2016,bossbattle2,kerokeroppi,barksanchez,pika,pika,1,bracket,ws,3,5
-2016,bossbattle2,dtan,superboomfan,kirby,pika,2,bracket,ws,1,5
-2016,bossbattle2,dtan,superboomfan,kirby,pika,2,bracket,ws,2,5
-2016,bossbattle2,dtan,superboomfan,kirby,pika,2,bracket,ws,3,5
-2016,bossbattle2,fireblaster,barksanchez,yoshi,pika,1,bracket,top8,1,5
-2016,bossbattle2,fireblaster,barksanchez,yoshi,pika,2,bracket,top8,2,5
-2016,bossbattle2,fireblaster,barksanchez,yoshi,pika,2,bracket,top8,3,5
-2016,bossbattle2,fireblaster,barksanchez,pika,pika,2,bracket,top8,4,5
-2016,bossbattle2,dtan,shears,kirby,yoshi,1,bracket,top8,1,5
-2016,bossbattle2,dtan,shears,kirby,pika,1,bracket,top8,2,5
-2016,bossbattle2,dtan,shears,kirby,yoshi,1,bracket,top8,3,5
-2016,bossbattle2,barksanchez,dtan,pika,kirby,2,bracket,ls,1,5
-2016,bossbattle2,barksanchez,dtan,pika,kirby,2,bracket,ls,2,5
-2016,bossbattle2,barksanchez,dtan,pika,kirby,2,bracket,ls,3,5
-2016,bossbattle2,kerokeroppi,superboomfan,pika,pika,1,bracket,wf,1,5
-2016,bossbattle2,kerokeroppi,superboomfan,pika,pika,2,bracket,wf,2,5
-2016,bossbattle2,kerokeroppi,superboomfan,pika,pika,2,bracket,wf,3,5
-2016,bossbattle2,kerokeroppi,superboomfan,pika,pika,2,bracket,wf,4,5
-2016,bossbattle2,dtan,kerokeroppi,kirby,pika,2,bracket,lf,1,5
-2016,bossbattle2,dtan,kerokeroppi,kirby,pika,1,bracket,lf,2,5
-2016,bossbattle2,dtan,kerokeroppi,kirby,pika,2,bracket,lf,3,5
-2016,bossbattle2,dtan,kerokeroppi,kirby,pika,2,bracket,lf,4,5
-2016,bossbattle2,kerokeroppi,superboomfan,pika,pika,2,bracket,gf,1,5
-2016,bossbattle2,kerokeroppi,superboomfan,pika,pika,2,bracket,gf,2,5
-2016,bossbattle2,kerokeroppi,superboomfan,pika,pika,2,bracket,gf,3,5
-2016,dpotg,mariguas,superboomfan,pika,pika,2,bracket,gf,1,5
-2016,dpotg,mariguas,superboomfan,falcon,pika,2,bracket,gf,2,5
-2016,dpotg,mariguas,superboomfan,pika,pika,2,bracket,gf,3,5
-2016,dpotg,mariguas,wizzrobe,pika,yoshi,1,bracket,lf,1,5
-2016,dpotg,mariguas,wizzrobe,pika,yoshi,1,bracket,lf,2,5
-2016,dpotg,mariguas,wizzrobe,pika,yoshi,1,bracket,lf,3,5
-2016,dpotg,barksanchez,wizzrobe,pika,yoshi,2,bracket,ls,1,5
-2016,dpotg,barksanchez,wizzrobe,pika,yoshi,2,bracket,ls,2,5
-2016,dpotg,barksanchez,wizzrobe,pika,yoshi,2,bracket,ls,3,5
-2016,dpotg,mariguas,superboomfan,pika,pika,2,bracket,wf,1,5
-2016,dpotg,mariguas,superboomfan,pika,pika,2,bracket,wf,2,5
-2016,dpotg,mariguas,superboomfan,pika,pika,2,bracket,wf,3,5
-2016,dpotg,wizzrobe,mariguas,yoshi,pika,2,bracket,ws,1,5
-2016,dpotg,wizzrobe,mariguas,yoshi,pika,2,bracket,ws,2,5
-2016,dpotg,wizzrobe,mariguas,yoshi,pika,1,bracket,ws,3,5
-2016,dpotg,wizzrobe,mariguas,yoshi,pika,2,bracket,ws,4,5
-2016,dpotg,fireblaster,barksanchez,yoshi,pika,2,bracket,wq,1,5
-2016,dpotg,fireblaster,barksanchez,yoshi,pika,1,bracket,wq,2,5
-2016,dpotg,fireblaster,barksanchez,yoshi,pika,1,bracket,wq,3,5
-2016,dpotg,fireblaster,barksanchez,yoshi,pika,2,bracket,wq,4,5
-2016,dpotg,fireblaster,barksanchez,yoshi,pika,2,bracket,wq,5,5
-2016,dpotg,prime,frogge,fox,falcon,1,pools,pools,1,3
-2016,dpotg,prime,frogge,fox,pika,1,pools,pools,2,3
-2016,dpotg,barron,wizzrobe,pika,yoshi,2,pools,pools,1,3
-2016,dpotg,barron,wizzrobe,pika,yoshi,2,pools,pools,2,3
-2016,dpotg,dankeykang,barksanchez,kirby,pika,2,pools,pools,1,3
-2016,dpotg,dankeykang,barksanchez,kirby,dk,2,pools,pools,2,3
-2016,dpotg,touque,javaboy,pika,ness,1,pools,pools,1,3
-2016,dpotg,touque,javaboy,falcon,yoshi,1,pools,pools,2,3
-2016,dpotg,alacarte,barksanchez,falcon,pika,2,pools,pools,1,3
-2016,dpotg,alacarte,barksanchez,fox,yoshi,2,pools,pools,2,3
-2016,dpotg,gt,madrush,pika,falcon,2,pools,pools,1,3
-2016,dpotg,gt,madrush,pika,falcon,2,pools,pools,2,3
-2016,dpotg,pluto,darkneon,falcon,puff,2,pools,pools,1,3
-2016,dpotg,pluto,darkneon,pika,puff,2,pools,pools,2,3
-2016,dpotg,supa,touque,falcon,pika,1,pools,pools,1,3
-2016,dpotg,supa,touque,falcon,pika,1,pools,pools,2,3
-2016,dpotg,bon,darkneon,pika,puff,1,pools,pools,1,3
-2016,dpotg,bon,darkneon,kirby,puff,2,pools,pools,2,3
-2016,dpotg,bon,darkneon,pika,puff,1,pools,pools,3,3
-2016,dpotg,prime,heropie,yoshi,dk,2,pools,pools,1,3
-2016,dpotg,prime,heropie,yoshi,dk,2,pools,pools,2,3
-2016,dpotg,barksanchez,shanks,pika,falcon,1,pools,pools,1,3
-2016,dpotg,barksanchez,shanks,yoshi,falcon,1,pools,pools,2,3
-2016,dpotg,mariguas,smurf,mario,pika,1,pools,pools,1,3
-2016,dpotg,mariguas,smurf,pika,pika,1,pools,pools,2,3
-2016,dpotg,bon,wizzrobe,pika,yoshi,2,pools,pools,1,3
-2016,dpotg,bon,wizzrobe,yoshi,yoshi,2,pools,pools,2,3
-2016,dpotg,connor,heropie,pika,pika,2,pools,pools,1,3
-2016,dpotg,connor,heropie,pika,pika,2,pools,pools,2,3
-2016,dpotg,letsgo,jason,fox,falcon,2,pools,pools,1,3
-2016,dpotg,letsgo,jason,fox,falcon,1,pools,pools,2,3
-2016,dpotg,letsgo,jason,fox,falcon,1,pools,pools,3,3
-2016,dpotg,mariguas,captainl,pika,fox,1,pools,pools,1,3
-2016,dpotg,mariguas,captainl,pika,fox,1,pools,pools,2,3
-2016,dpotg,supa,fireblaster,falcon,mario,2,pools,pools,1,3
-2016,dpotg,supa,fireblaster,fox,mario,2,pools,pools,2,3
-2016,dpotg,madrush,superboomfan,falcon,falcon,2,pools,pools,1,3
-2016,dpotg,madrush,superboomfan,falcon,falcon,2,pools,pools,2,3
-2016,dpotg,connor,bon,pika,pika,1,bracket,top16,1,5
-2016,dpotg,connor,bon,pika,pika,1,bracket,top16,2,5
-2016,dpotg,connor,bon,pika,pika,2,bracket,top16,3,5
-2016,dpotg,connor,bon,pika,pika,1,bracket,top16,4,5
-2016,dpotg,mojomonkey,captainl,falcon,fox,1,bracket,top16,1,5
-2016,dpotg,mojomonkey,captainl,falcon,fox,1,bracket,top16,2,5
-2016,dpotg,mojomonkey,captainl,falcon,fox,2,bracket,top16,3,5
-2016,dpotg,mojomonkey,captainl,falcon,fox,1,bracket,top16,4,5
-2016,dpotg,connor,fireblaster,pika,yoshi,2,bracket,top16,1,5
-2016,dpotg,connor,fireblaster,pika,yoshi,1,bracket,top16,2,5
-2016,dpotg,connor,fireblaster,pika,yoshi,2,bracket,top16,3,5
-2016,dpotg,connor,fireblaster,pika,yoshi,2,bracket,top16,4,5
-2016,dpotg,heropie,jason,fox,falcon,1,bracket,top16,1,5
-2016,dpotg,heropie,jason,fox,kirby,1,bracket,top16,2,5
-2016,dpotg,heropie,jason,fox,falcon,1,bracket,top16,3,5
-2016,dpotg,mojomonkey,letsgo,falcon,fox,1,bracket,top16,1,5
-2016,dpotg,mojomonkey,letsgo,falcon,fox,2,bracket,top16,2,5
-2016,dpotg,mojomonkey,letsgo,falcon,fox,1,bracket,top16,3,5
-2016,dpotg,mojomonkey,letsgo,falcon,pika,1,bracket,top16,4,5
-2016,dpotg,madrush,nintendude,falcon,fox,2,bracket,top16,1,5
-2016,dpotg,madrush,nintendude,falcon,fox,1,bracket,top16,2,5
-2016,dpotg,madrush,nintendude,falcon,mario,1,bracket,top16,3,5
-2016,dpotg,madrush,nintendude,falcon,fox,2,bracket,top16,4,5
-2016,dpotg,madrush,nintendude,falcon,mario,2,bracket,top16,5,5
-2016,dpotg,mojomonkey,fireblaster,falcon,mario,2,bracket,top8,1,5
-2016,dpotg,mojomonkey,fireblaster,falcon,mario,2,bracket,top8,2,5
-2016,dpotg,mojomonkey,fireblaster,kirby,mario,2,bracket,top8,3,5
-2017,kansai,kippe,murasan,pika,falcon,2,bracket,top32,1,1
-2017,kansai,nangoku,keisuke,ness,kirby,1,bracket,top32,1,1
-2017,kansai,tacos,hebiichigo,pika,link,2,bracket,top32,1,1
-2017,kansai,wangera,fukuhara,puff,yoshi,1,bracket,top32,1,1
-2017,kansai,funyan,kurabba,kirby,yoshi,2,bracket,top32,1,1
-2017,kansai,gyaki,ayatama,link,kirby,1,bracket,top32,1,1
-2017,kansai,taimai,barusan,falcon,mario,1,bracket,top32,1,1
-2017,kansai,masaru,pucchin,fox,puff,2,bracket,top32,1,1
-2017,kansai,maguro,micchan,fox,falcon,1,bracket,top32,1,1
-2017,kansai,toroori,shirusupu,pika,fox,2,bracket,top32,1,1
-2017,kansai,yukun,kijimaari,falcon,falcon,1,bracket,top32,1,1
-2017,kansai,tokiwa,shake,ness,pika,2,bracket,top32,1,1
-2017,kansai,hiyo,kurosuta,yoshi,kirby,1,bracket,top32,1,1
-2017,kansai,prince,dametamago,yoshi,yoshi,1,bracket,top32,1,1
-2017,kansai,kysk,kikoushi,kirby,dk,1,bracket,top32,1,1
-2017,kansai,noun,shizuku,yoshi,pika,2,bracket,top32,1,1
-2017,kansai,murasan,nangoku,falcon,ness,2,bracket,top32,1,1
-2017,kansai,hebiichigo,wangera,link,puff,2,bracket,top32,1,1
-2017,kansai,kurabba,gyaki,yoshi,link,2,bracket,top32,1,1
-2017,kansai,taimai,pucchin,falcon,puff,1,bracket,top32,1,1
-2017,kansai,maguro,shirusupu,fox,fox,2,bracket,top32,1,1
-2017,kansai,yukun,shake,falcon,pika,2,bracket,top32,1,1
-2017,kansai,hiyo,prince,yoshi,yoshi,1,bracket,top32,1,1
-2017,kansai,kysk,shizuku,kirby,pika,1,bracket,top32,1,1
-2017,kansai,kippe,keisuke,pika,kirby,2,bracket,top32,1,1
-2017,kansai,tacos,fukuhara,pika,yoshi,1,bracket,top32,1,1
-2017,kansai,funyan,ayatama,kirby,kirby,1,bracket,top32,1,1
-2017,kansai,barusan,masaru,mario,fox,2,bracket,top32,1,1
-2017,kansai,micchan,shirusupu,falcon,fox,1,bracket,top32,1,1
-2017,kansai,kijimaari,tokiwa,falcon,ness,2,bracket,top32,1,1
-2017,kansai,kurosuta,dametamago,kirby,yoshi,1,bracket,top32,1,1
-2017,kansai,kikoushi,noun,dk,yoshi,2,bracket,top32,1,1
-2017,kansai,maguro,keisuke,fox,kirby,2,bracket,top32,1,1
-2017,kansai,yukun,tacos,falcon,pika,1,bracket,top32,1,1
-2017,kansai,prince,funyan,yoshi,kirby,1,bracket,top32,1,1
-2017,kansai,shizuku,masaru,pika,fox,2,bracket,top32,1,1
-2017,kansai,murasan,micchan,falcon,falcon,2,bracket,top32,1,1
-2017,kansai,hebiichigo,tokiwa,link,ness,2,bracket,top32,1,1
-2017,kansai,kurabba,kurosuta,yoshi,kirby,1,bracket,top32,1,1
-2017,kansai,pucchin,noun,puff,yoshi,1,bracket,top32,1,1
-2017,kansai,nangoku,wangera,ness,puff,2,bracket,top16,1,1
-2017,kansai,gyaki,taimai,link,falcon,1,bracket,top16,1,1
-2017,kansai,shirusupu,shake,fox,pika,2,bracket,top16,1,1
-2017,kansai,hiyo,kysk,yoshi,kirby,2,bracket,top16,1,1
-2017,kansai,keisuke,yukun,kirby,falcon,2,bracket,top16,1,1
-2017,kansai,prince,masaru,yoshi,fox,2,bracket,top16,1,1
-2017,kansai,micchan,tokiwa,falcon,ness,1,bracket,top16,1,1
-2017,kansai,kurabba,pucchin,yoshi,puff,1,bracket,top16,1,1
-2017,kansai,wangera,gyaki,puff,link,2,bracket,top16,1,1
-2017,kansai,shake,kysk,pika,kirby,2,bracket,top16,1,1
-2017,kansai,taimai,yukun,falcon,falcon,1,bracket,top16,1,1
-2017,kansai,nangoku,masaru,ness,fox,2,bracket,top16,1,1
-2017,kansai,hiyo,micchan,yoshi,falcon,2,bracket,top16,1,1
-2017,kansai,toroori,kurabba,pika,yoshi,1,bracket,top16,1,1
-2017,kansai,wangera,gyaki,puff,link,2,bracket,top8,1,1
-2017,kansai,shake,kysk,pika,kirby,2,bracket,top8,1,1
-2017,kansai,taimai,masaru,falcon,fox,2,bracket,top8,1,1
-2017,kansai,micchan,toroori,falcon,pika,1,bracket,top8,1,1
-2017,kansai,shake,masaru,pika,fox,2,bracket,top8,1,1
-2017,kansai,wangera,micchan,puff,falcon,2,bracket,top8,1,1
-2017,kansai,masaru,micchan,fox,falcon,1,bracket,ls,1,1
-2017,kansai,kysk,masaru,kirby,fox,1,bracket,lf,1,1
-2017,kansai,gyaki,kysk,link,kirby,1,bracket,wf,1,1
-2017,kansai,gyaki,kysk,link,kirby,1,bracket,gf,1,3
-2017,kansai,gyaki,kysk,link,kirby,2,bracket,gf,2,3
-2017,kansai,gyaki,kysk,link,kirby,2,bracket,gf,3,3
-2017,kansai,gyaki,kysk,link,kirby,2,bracket,gf2,1,3
-2017,kansai,gyaki,kysk,link,kirby,2,bracket,gf2,2,3
+2016,genesis 3,banze,zero,pika,falcon,2,pools,pools,1,3,
+2016,genesis 3,banze,zero,pika,falcon,1,pools,pools,2,3,
+2016,genesis 3,banze,zero,pika,falcon,1,pools,pools,3,3,
+2016,genesis 3,fireblaster,ld,yoshi,fox,2,bracket,top16,1,3,
+2016,genesis 3,fireblaster,ld,yoshi,fox,2,bracket,top16,2,3,
+2016,genesis 3,tacos,superboomfan,yoshi,falcon,1,bracket,top16,1,3,
+2016,genesis 3,tacos,superboomfan,falcon,kirby,2,bracket,top16,2,3,
+2016,genesis 3,tacos,superboomfan,pika,kirby,2,bracket,top16,3,3,
+2016,genesis 3,wangera,isai,puff,mario,2,bracket,top16,1,3,
+2016,genesis 3,wangera,isai,puff,mario,1,bracket,top16,2,3,
+2016,genesis 3,wangera,isai,puff,mario,1,bracket,top16,3,3,
+2016,genesis 3,wario,wizzrobe,pika,yoshi,1,bracket,top16,1,3,
+2016,genesis 3,wario,wizzrobe,pika,yoshi,1,bracket,top16,2,3,
+2016,genesis 3,isai,stranded,mario,yoshi,1,bracket,top16,1,3,
+2016,genesis 3,isai,stranded,mario,yoshi,1,bracket,top16,2,3,
+2016,genesis 3,fireblaster,isai,yoshi,mario,2,pools,pools,1,3,
+2016,genesis 3,fireblaster,isai,yoshi,mario,2,pools,pools,2,3,
+2016,genesis 3,janitor,wario,falcon,pika,2,pools,pools,1,3,
+2016,genesis 3,janitor,wario,falcon,pika,2,pools,pools,2,3,
+2016,genesis 3,wangera,mokkori,puff,kirby,1,pools,pools,1,3,
+2016,genesis 3,wangera,mokkori,puff,kirby,1,pools,pools,2,3,
+2016,genesis 3,kort,daniel,link,falcon,1,pools,pools,1,3,
+2016,genesis 3,kort,daniel,link,falcon,1,pools,pools,2,3,
+2016,genesis 3,kort,stranded,link,falcon,2,pools,pools,1,3,
+2016,genesis 3,kort,stranded,link,falcon,2,pools,pools,2,3,
+2016,genesis 3,mariguas,stranded,falcon,falcon,1,pools,pools,1,3,
+2016,genesis 3,mariguas,stranded,falcon,falcon,1,pools,pools,2,3,
+2016,genesis 3,superboomfan,banze,falcon,pika,1,pools,pools,1,3,
+2016,genesis 3,superboomfan,banze,falcon,pika,1,pools,pools,2,3,
+2016,genesis 3,superboomfan,wario,falcon,pika,1,bracket,gf,1,5,
+2016,genesis 3,superboomfan,wario,falcon,pika,1,bracket,gf,2,5,
+2016,genesis 3,superboomfan,wario,falcon,pika,1,bracket,gf,3,5,
+2016,genesis 3,superboomfan,wario,falcon,pika,2,bracket,gf2,1,5,
+2016,genesis 3,superboomfan,wario,falcon,pika,2,bracket,gf2,2,5,
+2016,genesis 3,superboomfan,wario,falcon,pika,2,bracket,gf2,3,5,
+2016,genesis 3,isai,mariguas,fox,pika,1,bracket,top8,1,5,
+2016,genesis 3,isai,mariguas,fox,pika,1,bracket,top8,2,5,
+2016,genesis 3,isai,mariguas,fox,pika,2,bracket,top8,3,5,
+2016,genesis 3,isai,mariguas,fox,pika,2,bracket,top8,4,5,
+2016,genesis 3,isai,mariguas,fox,pika,1,bracket,top8,5,5,
+2016,genesis 3,isai,wangera,fox,puff,2,bracket,top8,1,5,
+2016,genesis 3,isai,wangera,fox,puff,2,bracket,top8,2,5,
+2016,genesis 3,isai,wangera,fox,puff,1,bracket,top8,3,5,
+2016,genesis 3,isai,wangera,pika,puff,2,bracket,top8,4,5,
+2016,genesis 3,superboomfan,wangera,pika,puff,2,bracket,lf,1,5,
+2016,genesis 3,superboomfan,wangera,pika,puff,1,bracket,lf,2,5,
+2016,genesis 3,superboomfan,wangera,pika,puff,1,bracket,lf,3,5,
+2016,genesis 3,superboomfan,wangera,pika,puff,1,bracket,lf,4,5,
+2016,genesis 3,kerokeroppi,wizzrobe,pika,yoshi,1,bracket,top8,1,5,
+2016,genesis 3,kerokeroppi,wizzrobe,pika,yoshi,1,bracket,top8,2,5,
+2016,genesis 3,kerokeroppi,wizzrobe,pika,yoshi,1,bracket,top8,3,5,
+2016,genesis 3,kerokeroppi,wizzrobe,pika,yoshi,2,bracket,top8,4,5,
+2016,genesis 3,isai,tacos,fox,yoshi,1,bracket,top8,1,5,
+2016,genesis 3,isai,tacos,fox,yoshi,1,bracket,top8,2,5,
+2016,genesis 3,isai,tacos,fox,yoshi,1,bracket,top8,3,5,
+2016,genesis 3,wario,mariguas,pika,falcon,1,bracket,top8,1,5,
+2016,genesis 3,wario,mariguas,pika,pika,1,bracket,top8,2,5,
+2016,genesis 3,wario,mariguas,pika,pika,1,bracket,top8,3,5,
+2016,genesis 3,kerokeroppi,wangera,pika,puff,2,bracket,top8,1,5,
+2016,genesis 3,kerokeroppi,wangera,pika,puff,2,bracket,top8,2,5,
+2016,genesis 3,kerokeroppi,wangera,pika,puff,2,bracket,top8,3,5,
+2016,genesis 3,wario,superboomfan,pika,falcon,1,bracket,wf,1,5,
+2016,genesis 3,wario,superboomfan,pika,falcon,1,bracket,wf,2,5,
+2016,genesis 3,wario,superboomfan,pika,falcon,1,bracket,wf,3,5,
+2016,genesis 3,wario,superboomfan,pika,falcon,2,bracket,wf,4,5,
+2016,genesis 3,studstill,heropie,kirby,pika,2,pools,pools,1,3,
+2016,genesis 3,studstill,heropie,kirby,pika,2,pools,pools,2,3,
+2016,genesis 3,alacarte,aubfox,falcon,fox,1,pools,pools,1,3,
+2016,genesis 3,alacarte,aubfox,fox,fox,2,pools,pools,2,3,
+2016,genesis 3,alacarte,aubfox,pika,fox,1,pools,pools,3,3,
+2016,genesis 3,hungrybox,jpeghero,kirby,kirby,1,pools,pools,1,3,
+2016,genesis 3,hungrybox,jpeghero,kirby,kirby,1,pools,pools,2,3,
+2016,genesis 3,mrryanness,sotoh,ness,falcon,2,pools,pools,1,3,
+2016,genesis 3,mrryanness,sotoh,ness,fox,2,pools,pools,2,3,
+2016,genesis 3,xor,ern,fox,puff,1,pools,pools,1,3,
+2016,genesis 3,xor,ern,fox,puff,1,pools,pools,2,3,
+2016,genesis 3,drewgong,xor,fox,fox,2,pools,pools,1,3,
+2016,genesis 3,drewgong,xor,falcon,fox,2,pools,pools,2,3,
+2016,genesis 3,apparition,isai,dk,dk,2,pools,pools,1,3,
+2016,genesis 3,apparition,isai,luigi,dk,2,pools,pools,2,3,
+2016,genesis 3,hungrybox,shears,kirby,pika,2,pools,pools,1,3,
+2016,genesis 3,hungrybox,shears,kirby,luigi,2,pools,pools,2,3,
+2016,genesis 3,xor,pete,fox,yoshi,2,pools,pools,1,3,
+2016,genesis 3,xor,pete,kirby,yoshi,2,pools,pools,2,3,
+2016,genesis 3,krypto,ern,pika,puff,2,pools,pools,1,3,
+2016,genesis 3,krypto,ern,pika,puff,2,pools,pools,2,3,
+2016,genesis 3,jayr,kerokeroppi,falcon,pika,2,pools,pools,1,3,
+2016,genesis 3,jayr,kerokeroppi,falcon,pika,2,pools,pools,2,3,
+2016,genesis 3,ld,freean,fox,falcon,1,pools,pools,1,3,
+2016,genesis 3,ld,freean,fox,falcon,1,pools,pools,2,3,
+2016,genesis 3,preston,stranded,kirby,pika,2,pools,pools,1,3,
+2016,genesis 3,preston,stranded,kirby,fox,2,pools,pools,2,3,
+2016,genesis 3,nothing,fireblaster,falcon,yoshi,2,pools,pools,1,3,
+2016,genesis 3,nothing,fireblaster,falcon,yoshi,2,pools,pools,2,3,
+2016,genesis 3,shears,captainl,pika,fox,1,pools,pools,1,3,
+2016,genesis 3,shears,captainl,pika,fox,1,pools,pools,2,3,
+2016,genesis 3,hungrybox,starchild,kirby,puff,2,pools,pools,1,3,
+2016,genesis 3,hungrybox,starchild,kirby,puff,2,pools,pools,2,3,
+2016,genesis 3,lordnarwhal,ctg,falcon,puff,1,pools,pools,1,3,
+2016,genesis 3,lordnarwhal,ctg,falcon,puff,1,pools,pools,2,3,
+2016,genesis 3,captainl,autobaun,fox,kirby,1,pools,pools,1,3,
+2016,genesis 3,captainl,autobaun,fox,kirby,1,pools,pools,2,3,
+2016,genesis 3,pete,ern,yoshi,puff,1,pools,pools,1,3,
+2016,genesis 3,pete,ern,yoshi,puff,1,pools,pools,2,3,
+2016,genesis 3,rith,bard,pika,kirby,1,pools,pools,1,3,
+2016,genesis 3,rith,bard,pika,kirby,1,pools,pools,2,3,
+2016,genesis 3,masterhandjob,yunque,pika,puff,2,pools,pools,1,3,
+2016,genesis 3,masterhandjob,yunque,pika,puff,1,pools,pools,2,3,
+2016,genesis 3,masterhandjob,yunque,pika,puff,1,pools,pools,3,3,
+2016,genesis 3,karajan,tonester,fox,pika,1,pools,pools,1,3,
+2016,genesis 3,karajan,tonester,dk,kirby,1,pools,pools,2,3,
+2016,genesis 3,maliki,imdabes,falcon,pika,1,pools,pools,1,3,
+2016,genesis 3,maliki,imdabes,falcon,pika,1,pools,pools,2,3,
+2016,genesis 3,elel,jaimehr,fox,falcon,2,pools,pools,1,3,
+2016,genesis 3,elel,jaimehr,fox,falcon,2,pools,pools,2,3,
+2016,genesis 3,eggmode,zero,pika,falcon,2,pools,pools,1,3,
+2016,genesis 3,eggmode,zero,pika,falcon,2,pools,pools,2,3,
+2016,genesis 3,dubs,superboomfan,fox,falcon,2,pools,pools,1,3,
+2016,genesis 3,dubs,superboomfan,fox,falcon,2,pools,pools,2,3,
+2016,genesis 3,weedwhack,ybombb,yoshi,puff,2,pools,pools,1,3,
+2016,genesis 3,weedwhack,ybombb,yoshi,yoshi,2,pools,pools,2,3,
+2016,genesis 3,maliki,kimimaru,pika,mario,2,pools,pools,1,3,
+2016,genesis 3,maliki,kimimaru,pika,mario,2,pools,pools,2,3,
+2016,genesis 3,daniel,nattybro,falcon,kirby,2,pools,pools,1,3,
+2016,genesis 3,daniel,nattybro,samus,kirby,1,pools,pools,2,3,
+2016,genesis 3,daniel,nattybro,pika,pika,1,pools,pools,3,3,
+2016,genesis 3,zuko,sotoh,pika,falcon,2,pools,pools,1,3,
+2016,genesis 3,zuko,sotoh,pika,fox,2,pools,pools,2,3,
+2016,genesis 3,heropie,revan,pika,kirby,2,pools,pools,1,3,
+2016,genesis 3,heropie,revan,fox,kirby,2,pools,pools,2,3,
+2016,genesis 3,barksanchez,banze,pika,pika,2,pools,pools,1,3,
+2016,genesis 3,barksanchez,banze,pika,pika,2,pools,pools,2,3,
+2016,genesis 3,lordnarwhal,wangera,falcon,puff,2,pools,pools,1,3,
+2016,genesis 3,lordnarwhal,wangera,falcon,puff,2,pools,pools,2,3,
+2016,genesis 3,fireblaster,ybombb,yoshi,puff,1,pools,pools,1,3,
+2016,genesis 3,fireblaster,ybombb,yoshi,puff,1,pools,pools,2,3,
+2016,genesis 3,fireblaster,isai,yoshi,mario,2,pools,pools,1,3,
+2016,genesis 3,fireblaster,isai,yoshi,mario,2,pools,pools,2,3,
+2016,genesis 3,dext3r,wangera,pika,puff,2,pools,pools,1,3,
+2016,genesis 3,dext3r,wangera,pika,puff,2,pools,pools,2,3,
+2016,genesis 3,jayr,barksanchez,falcon,pika,2,pools,pools,1,3,
+2016,genesis 3,jayr,barksanchez,falcon,kirby,1,pools,pools,2,3,
+2016,genesis 3,jayr,barksanchez,falcon,pika,2,pools,pools,3,3,
+2016,genesis 3,robert,kort,pika,pika,2,pools,pools,1,3,
+2016,genesis 3,robert,kort,pika,pika,2,pools,pools,2,3,
+2016,genesis 3,heropie,rith,pika,falcon,2,pools,pools,1,3,
+2016,genesis 3,heropie,rith,pika,pika,2,pools,pools,2,3,
+2016,genesis 3,shears,lordnarwhal,pika,falcon,2,pools,pools,1,3,
+2016,genesis 3,shears,lordnarwhal,pika,falcon,1,pools,pools,2,3,
+2016,genesis 3,shears,lordnarwhal,pika,falcon,2,pools,pools,3,3,
+2016,genesis 3,barksanchez,shalaka,pika,pika,2,pools,pools,1,3,
+2016,genesis 3,barksanchez,shalaka,pika,pika,1,pools,pools,2,3,
+2016,genesis 3,barksanchez,shalaka,pika,pika,2,pools,pools,3,3,
+2016,genesis 3,kort,thez,link,pika,2,pools,pools,1,3,
+2016,genesis 3,kort,thez,link,pika,2,pools,pools,2,3,
+2016,genesis 3,thez,kerokeroppi,pika,pika,2,bracket,top32,1,3,
+2016,genesis 3,thez,kerokeroppi,pika,pika,1,bracket,top32,2,3,
+2016,genesis 3,thez,kerokeroppi,pika,pika,2,bracket,top32,3,3,
+2016,genesis 3,mariguas,kerokeroppi,pika,pika,1,bracket,top16,1,3,
+2016,genesis 3,mariguas,kerokeroppi,pika,falcon,1,bracket,top16,2,3,
+2016,genesis 3,tacos,thez,falcon,pika,1,bracket,top16,1,3,
+2016,genesis 3,tacos,thez,yoshi,pika,1,bracket,top16,2,3,
+2016,genesis 3,kimimaru,revan,mario,kirby,2,pools,pools,1,3,
+2016,genesis 3,kimimaru,revan,mario,kirby,2,pools,pools,2,3,
+2016,genesis 3,fireblaster,lordnarwhal,yoshi,falcon,1,pools,pools,1,3,
+2016,genesis 3,fireblaster,lordnarwhal,mario,kirby,1,pools,pools,2,3,
+2016,genesis 3,thez,revan,pika,kirby,1,bracket,top16,1,3,
+2016,genesis 3,thez,revan,pika,kirby,1,bracket,top16,2,3,
+2016,genesis 3,wizzrobe,dext3r,yoshi,pika,1,bracket,top16,1,3,
+2016,genesis 3,wizzrobe,dext3r,yoshi,pika,1,bracket,top16,2,3,
+2016,genesis 3,ld,kerokeroppi,fox,pika,2,bracket,top16,1,3,
+2016,genesis 3,ld,kerokeroppi,fox,pika,2,bracket,top16,2,3,
+2016,genesis 3,kyletree,stranded,pika,falcon,2,bracket,top32,1,3,
+2016,genesis 3,kyletree,stranded,pika,falcon,2,bracket,top32,2,3,
+2016,genesis 3,heropie,stranded,fox,falcon,2,bracket,top16,1,3,
+2016,genesis 3,heropie,stranded,fox,falcon,2,bracket,top16,2,3,
+2016,pound,shears,precookedbread,pika,puff,1,pools,pools,1,3,
+2016,pound,shears,precookedbread,yoshi,ness,1,pools,pools,2,3,
+2016,pound,yobolight,klumsy,yoshi,falcon,2,pools,pools,1,3,
+2016,pound,yobolight,klumsy,yoshi,falcon,1,pools,pools,2,3,
+2016,pound,yobolight,klumsy,yoshi,falcon,1,pools,pools,3,3,
+2016,pound,jimmyjoe,shears,puff,pika,2,pools,pools,1,3,
+2016,pound,jimmyjoe,shears,puff,pika,2,pools,pools,2,3,
+2016,pound,knitephox,clubbadubba,falcon,pika,1,pools,pools,1,3,
+2016,pound,knitephox,clubbadubba,falcon,pika,2,pools,pools,2,3,
+2016,pound,knitephox,clubbadubba,falcon,pika,2,pools,pools,3,3,
+2016,pound,yobolight,wizzrobe,ness,yoshi,2,pools,pools,1,3,
+2016,pound,yobolight,wizzrobe,ness,yoshi,2,pools,pools,2,3,
+2016,pound,q,revan,samus,kirby,2,pools,pools,1,3,
+2016,pound,q,revan,falcon,kirby,2,pools,pools,2,3,
+2016,pound,umbra,nothing,falcon,falcon,2,pools,pools,1,3,
+2016,pound,umbra,nothing,fox,falcon,1,pools,pools,2,3,
+2016,pound,umbra,nothing,fox,falcon,2,pools,pools,3,3,
+2016,pound,q,dogsjohnson,falcon,falcon,1,pools,pools,1,3,
+2016,pound,q,dogsjohnson,falcon,falcon,1,pools,pools,2,3,
+2016,pound,dfx,kristoff,falcon,ness,1,pools,pools,1,3,
+2016,pound,dfx,kristoff,falcon,ness,1,pools,pools,2,3,
+2016,pound,holosly,iceking,falcon,pika,2,pools,pools,1,3,
+2016,pound,holosly,iceking,falcon,falcon,2,pools,pools,2,3,
+2016,pound,tank,iceking,yoshi,pika,1,pools,pools,1,3,
+2016,pound,tank,iceking,yoshi,pika,1,pools,pools,2,3,
+2016,pound,lldl,dfx,fox,fox,2,pools,pools,1,3,
+2016,pound,lldl,dfx,fox,falcon,1,pools,pools,2,3,
+2016,pound,lldl,dfx,fox,pika,2,pools,pools,3,3,
+2016,pound,thekuzinator,fckvwls,pika,falcon,2,pools,pools,1,3,
+2016,pound,thekuzinator,fckvwls,yoshi,falcon,1,pools,pools,2,3,
+2016,pound,thekuzinator,fckvwls,yoshi,puff,1,pools,pools,3,3,
+2016,pound,korobeniki,comboblaze,yoshi,falcon,2,pools,pools,1,3,
+2016,pound,korobeniki,comboblaze,yoshi,falcon,1,pools,pools,2,3,
+2016,pound,korobeniki,comboblaze,yoshi,falcon,2,pools,pools,3,3,
+2016,pound,tacos,dfx,yoshi,falcon,1,pools,pools,1,3,
+2016,pound,tacos,dfx,falcon,falcon,1,pools,pools,2,3,
+2016,pound,amida,fireblaster,kirby,yoshi,2,pools,pools,1,3,
+2016,pound,amida,fireblaster,kirby,yoshi,2,pools,pools,2,3,
+2016,pound,superboomfan,mrsir,falcon,samus,1,pools,pools,1,3,
+2016,pound,superboomfan,mrsir,pika,samus,1,pools,pools,2,3,
+2016,pound,daniel,firo,falcon,link,2,pools,pools,1,3,
+2016,pound,daniel,firo,falcon,link,1,pools,pools,2,3,
+2016,pound,daniel,firo,falcon,ness,2,pools,pools,3,3,
+2016,pound,theprotagonist,tank,fox,fox,2,pools,pools,1,3,
+2016,pound,theprotagonist,tank,fox,fox,2,pools,pools,2,3,
+2016,pound,theprotagonist,dragonlota,fox,kirby,1,pools,pools,1,3,
+2016,pound,theprotagonist,dragonlota,fox,kirby,1,pools,pools,2,3,
+2016,pound,jamjar,daniel,kirby,pika,2,bracket,top32,1,3,
+2016,pound,jamjar,daniel,kirby,pika,2,bracket,top32,2,3,
+2016,pound,darkhorse,kerokeroppi,puff,kirby,2,bracket,top32,1,3,
+2016,pound,darkhorse,kerokeroppi,puff,kirby,2,bracket,top32,2,3,
+2016,pound,lordnarwhal,revan,falcon,kirby,2,bracket,top32,1,3,
+2016,pound,lordnarwhal,revan,kirby,kirby,2,bracket,top32,2,3,
+2016,pound,tacos,tank,yoshi,falcon,1,bracket,top32,1,3,
+2016,pound,tacos,tank,yoshi,fox,1,bracket,top32,2,3,
+2016,pound,ld,comboblaze,fox,falcon,1,bracket,top32,1,3,
+2016,pound,ld,comboblaze,fox,falcon,1,bracket,top32,2,3,
+2016,pound,thekuzinator,superboomfan,yoshi,falcon,2,bracket,top32,1,3,
+2016,pound,thekuzinator,superboomfan,yoshi,falcon,2,bracket,top32,2,3,
+2016,pound,firo,fireblaster,ness,mario,2,bracket,top32,1,3,
+2016,pound,firo,fireblaster,ness,mario,1,bracket,top32,2,3,
+2016,pound,firo,fireblaster,ness,yoshi,1,bracket,top32,3,3,
+2016,pound,clubbadubba,barksanchez,pika,pika,2,bracket,top32,1,3,
+2016,pound,clubbadubba,barksanchez,pika,pika,1,bracket,top32,2,3,
+2016,pound,clubbadubba,barksanchez,pika,pika,2,bracket,top32,3,3,
+2016,pound,kerokeroppi,firo,pika,ness,1,bracket,top32,1,5,
+2016,pound,kerokeroppi,firo,pika,ness,1,bracket,top32,2,5,
+2016,pound,kerokeroppi,firo,pika,link,2,bracket,top32,3,5,
+2016,pound,kerokeroppi,firo,falcon,link,1,bracket,top32,4,5,
+2016,pound,superboomfan,barksanchez,falcon,pika,1,bracket,top16,1,5,
+2016,pound,superboomfan,barksanchez,falcon,pika,1,bracket,top16,2,5,
+2016,pound,superboomfan,barksanchez,falcon,pika,1,bracket,top16,3,5,
+2016,pound,tacos,revan,pika,kirby,1,bracket,top16,1,5,
+2016,pound,tacos,revan,pika,kirby,1,bracket,top16,2,5,
+2016,pound,tacos,revan,pika,kirby,2,bracket,top16,3,5,
+2016,pound,tacos,revan,pika,kirby,1,bracket,top16,4,5,
+2016,pound,comboblaze,nothing,falcon,falcon,1,bracket,top32,1,3,
+2016,pound,comboblaze,nothing,falcon,falcon,1,bracket,top32,2,3,
+2016,pound,darkhorse,poohbearninja,falcon,falcon,1,bracket,top32,1,3,
+2016,pound,darkhorse,poohbearninja,falcon,falcon,1,bracket,top32,2,3,
+2016,pound,lordnarwhal,mrsir,falcon,samus,1,bracket,top32,1,3,
+2016,pound,lordnarwhal,mrsir,falcon,samus,1,bracket,top32,2,3,
+2016,pound,jimmyjoe,clubbadubba,pika,pika,2,bracket,top32,1,3,
+2016,pound,jimmyjoe,clubbadubba,kirby,pika,2,bracket,top32,2,3,
+2016,pound,lordnarwhal,daniel,falcon,falcon,1,bracket,top16,1,3,
+2016,pound,lordnarwhal,daniel,falcon,falcon,2,bracket,top16,2,3,
+2016,pound,lordnarwhal,daniel,kirby,falcon,1,bracket,top16,3,3,
+2016,pound,thekuzinator,clubbadubba,yoshi,pika,2,bracket,top16,1,3,
+2016,pound,thekuzinator,clubbadubba,kirby,falcon,2,bracket,top16,2,3,
+2016,pound,shears,comboblaze,pika,falcon,1,bracket,top16,1,3,
+2016,pound,shears,comboblaze,pika,falcon,1,bracket,top16,2,3,
+2016,pound,lordnarwhal,ld,falcon,fox,2,bracket,top16,1,5,
+2016,pound,lordnarwhal,ld,falcon,fox,2,bracket,top16,2,5,
+2016,pound,lordnarwhal,ld,falcon,fox,2,bracket,top16,3,5,
+2016,pound,revan,shears,kirby,pika,1,bracket,top16,1,5,
+2016,pound,revan,shears,kirby,pika,1,bracket,top16,2,5,
+2016,pound,revan,shears,kirby,pika,1,bracket,top16,3,5,
+2016,pound,fireblaster,barksanchez,yoshi,pika,2,bracket,top16,1,5,
+2016,pound,fireblaster,barksanchez,yoshi,pika,1,bracket,top16,2,5,
+2016,pound,fireblaster,barksanchez,yoshi,pika,2,bracket,top16,3,5,
+2016,pound,fireblaster,barksanchez,yoshi,pika,2,bracket,top16,4,5,
+2016,pound,clubbadubba,firo,pika,falcon,2,bracket,top16,1,5,
+2016,pound,clubbadubba,firo,falcon,falcon,1,bracket,top16,2,5,
+2016,pound,clubbadubba,firo,falcon,ness,2,bracket,top16,3,5,
+2016,pound,clubbadubba,firo,pika,ness,2,bracket,top16,4,5,
+2016,pound,revan,firo,kirby,link,1,bracket,top8,1,5,
+2016,pound,revan,firo,kirby,link,1,bracket,top8,2,5,
+2016,pound,revan,firo,kirby,link,2,bracket,top8,3,5,
+2016,pound,revan,firo,kirby,link,1,bracket,top8,4,5,
+2016,pound,ld,barksanchez,fox,pika,2,bracket,top8,1,5,
+2016,pound,ld,barksanchez,fox,pika,2,bracket,top8,2,5,
+2016,pound,ld,barksanchez,fox,pika,1,bracket,top8,3,5,
+2016,pound,ld,barksanchez,fox,pika,2,bracket,top8,4,5,
+2016,pound,wizzrobe,superboomfan,yoshi,pika,1,bracket,top8,1,5,
+2016,pound,wizzrobe,superboomfan,yoshi,pika,2,bracket,top8,2,5,
+2016,pound,wizzrobe,superboomfan,yoshi,pika,1,bracket,top8,3,5,
+2016,pound,wizzrobe,superboomfan,yoshi,kirby,2,bracket,top8,4,5,
+2016,pound,wizzrobe,superboomfan,yoshi,kirby,2,bracket,top8,5,5,
+2016,pound,tacos,kerokeroppi,falcon,pika,1,bracket,top8,1,5,
+2016,pound,tacos,kerokeroppi,yoshi,pika,2,bracket,top8,2,5,
+2016,pound,tacos,kerokeroppi,yoshi,pika,1,bracket,top8,3,5,
+2016,pound,tacos,kerokeroppi,dk,pika,2,bracket,top8,4,5,
+2016,pound,tacos,kerokeroppi,falcon,pika,1,bracket,top8,5,5,
+2016,pound,revan,kerokeroppi,kirby,pika,2,bracket,top8,1,5,
+2016,pound,revan,kerokeroppi,kirby,pika,2,bracket,top8,2,5,
+2016,pound,revan,kerokeroppi,kirby,pika,2,bracket,top8,3,5,
+2016,pound,tacos,superboomfan,yoshi,kirby,2,bracket,wf,1,5,
+2016,pound,tacos,superboomfan,fox,kirby,2,bracket,wf,2,5,
+2016,pound,tacos,superboomfan,pika,kirby,2,bracket,wf,3,5,
+2016,pound,tacos,kerokeroppi,falcon,kirby,1,bracket,lf,1,5,
+2016,pound,tacos,kerokeroppi,pika,pika,1,bracket,lf,2,5,
+2016,pound,tacos,kerokeroppi,falcon,kirby,2,bracket,lf,3,5,
+2016,pound,tacos,kerokeroppi,pika,kirby,1,bracket,lf,4,5,
+2016,pound,superboomfan,tacos,kirby,falcon,1,bracket,gf,1,5,
+2016,pound,superboomfan,tacos,kirby,pika,1,bracket,gf,2,5,
+2016,pound,superboomfan,tacos,dk,dk,2,bracket,gf,3,5,
+2016,pound,superboomfan,tacos,dk,dk,1,bracket,gf,4,5,
+2016,goml,derek,fireblaster,pika,yoshi,2,bracket,top16,1,3,
+2016,goml,derek,fireblaster,pika,yoshi,1,bracket,top16,2,3,
+2016,goml,derek,fireblaster,pika,yoshi,1,bracket,top16,3,3,
+2016,goml,revan,thez,kirby,pika,2,bracket,top16,1,3,
+2016,goml,revan,thez,kirby,pika,1,bracket,top16,2,3,
+2016,goml,revan,thez,kirby,pika,2,bracket,top16,3,3,
+2016,goml,ivor,shake,fox,fox,1,pools,pools,1,3,
+2016,goml,ivor,shake,fox,fox,1,pools,pools,2,3,
+2016,goml,ivor,shake,fox,link,2,pools,pools,3,3,
+2016,goml,thez,superboomfan,pika,pika,2,bracket,gf,1,5,
+2016,goml,thez,superboomfan,pika,pika,2,bracket,gf,2,5,
+2016,goml,thez,superboomfan,fox,pika,2,bracket,gf,3,5,
+2016,goml,thez,kerokeroppi,pika,pika,1,bracket,lf,1,5,
+2016,goml,thez,kerokeroppi,pika,pika,1,bracket,lf,2,5,
+2016,goml,thez,kerokeroppi,pika,pika,1,bracket,lf,3,5,
+2016,goml,superboomfan,kerokeroppi,kirby,pika,1,bracket,wf,1,5,
+2016,goml,superboomfan,kerokeroppi,kirby,pika,1,bracket,wf,2,5,
+2016,goml,superboomfan,kerokeroppi,kirby,pika,2,bracket,wf,3,5,
+2016,goml,superboomfan,kerokeroppi,pika,pika,1,bracket,wf,4,5,
+2016,goml,wizzrobe,revan,yoshi,kirby,1,bracket,top8,1,5,
+2016,goml,wizzrobe,revan,yoshi,kirby,2,bracket,top8,2,5,
+2016,goml,wizzrobe,revan,yoshi,kirby,2,bracket,top8,3,5,
+2016,goml,wizzrobe,revan,yoshi,kirby,2,bracket,top8,4,5,
+2016,goml,derek,thez,pika,yoshi,1,bracket,top8,1,5,
+2016,goml,derek,thez,pika,falcon,1,bracket,top8,2,5,
+2016,goml,derek,thez,pika,pika,2,bracket,top8,3,5,
+2016,goml,derek,thez,pika,pika,2,bracket,top8,4,5,
+2016,goml,derek,thez,pika,pika,2,bracket,top8,5,5,
+2016,goml,ybombb,revan,puff,kirby,2,bracket,top8,1,5,
+2016,goml,ybombb,revan,puff,kirby,2,bracket,top8,2,5,
+2016,goml,ybombb,revan,falcon,kirby,2,bracket,top8,3,5,
+2016,goml,derek,barksanchez,pika,pika,2,bracket,top8,1,5,
+2016,goml,derek,barksanchez,pika,pika,1,bracket,top8,2,5,
+2016,goml,derek,barksanchez,pika,pika,1,bracket,top8,3,5,
+2016,goml,derek,barksanchez,pika,pika,1,bracket,top8,4,5,
+2016,goml,wizzrobe,kerokeroppi,yoshi,kirby,1,bracket,top8,1,5,
+2016,goml,wizzrobe,kerokeroppi,yoshi,pika,1,bracket,top8,2,5,
+2016,goml,wizzrobe,kerokeroppi,yoshi,pika,2,bracket,top8,3,5,
+2016,goml,wizzrobe,kerokeroppi,yoshi,pika,2,bracket,top8,4,5,
+2016,goml,wizzrobe,kerokeroppi,yoshi,pika,2,bracket,top8,5,5,
+2016,goml,superboomfan,thez,kirby,pika,1,bracket,top8,1,5,
+2016,goml,superboomfan,thez,kirby,pika,1,bracket,top8,2,5,
+2016,goml,superboomfan,thez,kirby,pika,1,bracket,top8,3,5,
+2016,goml,barksanchez,sextc,pika,falcon,1,bracket,top16,1,3,
+2016,goml,barksanchez,sextc,pika,falcon,1,bracket,top16,2,3,
+2016,goml,superboomfan,ybombb,falcon,puff,1,bracket,top16,1,3,
+2016,goml,superboomfan,ybombb,falcon,falcon,1,bracket,top16,2,3,
+2016,goml,sextc,jam,falcon,pika,1,bracket,top32,1,3,
+2016,goml,sextc,jam,falcon,pika,1,bracket,top32,2,3,
+2016,goml,nintendude,thez,fox,fox,2,bracket,top32,1,3,
+2016,goml,nintendude,thez,fox,fox,2,bracket,top32,2,3,
+2016,goml,shears,derek,pika,pika,2,bracket,top32,1,3,
+2016,goml,shears,derek,yoshi,pika,1,bracket,top32,2,3,
+2016,goml,fireblaster,kerokeroppi,yoshi,kirby,2,bracket,top16,1,3,
+2016,goml,fireblaster,kerokeroppi,yoshi,pika,2,bracket,top16,2,3,
+2016,goml,revan,shears,kirby,pika,1,bracket,top32,1,3,
+2016,goml,revan,shears,kirby,pika,1,bracket,top32,2,3,
+2016,goml,janco,superboomfan,pika,falcon,2,bracket,top32,1,3,
+2016,goml,janco,superboomfan,pika,falcon,2,bracket,top32,2,3,
+2016,goml,daniels,keagsbsmashin,pika,pika,1,pools,pools,1,3,
+2016,goml,daniels,keagsbsmashin,pika,kirby,1,pools,pools,2,3,
+2016,goml,khakis,marlwolf,puff,falcon,2,pools,pools,1,3,
+2016,goml,khakis,marlwolf,puff,falcon,2,pools,pools,2,3,
+2016,goml,ybombb,daniels,puff,fox,1,pools,pools,1,3,
+2016,goml,ybombb,daniels,falcon,fox,1,pools,pools,2,3,
+2016,goml,fckvwls,derek,falcon,pika,2,pools,pools,1,3,
+2016,goml,fckvwls,derek,falcon,pika,1,pools,pools,2,3,
+2016,goml,fckvwls,derek,falcon,pika,2,pools,pools,3,3,
+2016,goml,marlwolf,jam,falcon,pika,2,pools,pools,1,3,
+2016,goml,marlwolf,jam,falcon,pika,2,pools,pools,2,3,
+2016,goml,nesskhalifa,kerokeroppi,ness,falcon,2,pools,pools,1,3,
+2016,goml,nesskhalifa,kerokeroppi,ness,falcon,2,pools,pools,2,3,
+2016,goml,hotspank,daniels,pika,pika,2,pools,pools,1,3,
+2016,goml,hotspank,daniels,pika,fox,1,pools,pools,2,3,
+2016,goml,hotspank,daniels,pika,pika,2,pools,pools,3,3,
+2016,goml,ybombb,khakis,puff,puff,1,pools,pools,1,3,
+2016,goml,ybombb,khakis,yoshi,puff,1,pools,pools,2,3,
+2016,goml,wincancel,nesskhalifa,link,falcon,2,pools,pools,1,3,
+2016,goml,wincancel,nesskhalifa,link,falcon,2,pools,pools,2,3,
+2016,goml,thebigd,salt,kirby,pika,2,pools,pools,1,3,
+2016,goml,thebigd,salt,kirby,pika,2,pools,pools,2,3,
+2016,goml,h20,white,fox,pika,2,pools,pools,1,3,
+2016,goml,h20,white,fox,pika,2,pools,pools,2,3,
+2016,goml,fireblaster,thebigd,yoshi,kirby,2,pools,pools,1,3,
+2016,goml,fireblaster,thebigd,yoshi,kirby,1,pools,pools,2,3,
+2016,goml,fireblaster,thebigd,yoshi,kirby,1,pools,pools,3,3,
+2016,goml,snorlax,janco,dk,pika,2,pools,pools,1,3,
+2016,goml,snorlax,janco,dk,pika,2,pools,pools,2,3,
+2016,goml,superboomfan,socrates,falcon,puff,1,pools,pools,1,3,
+2016,goml,superboomfan,socrates,falcon,ness,1,pools,pools,2,3,
+2016,goml,cwicbeam,captainfabulous,yoshi,falcon,2,pools,pools,1,3,
+2016,goml,cwicbeam,captainfabulous,yoshi,falcon,2,pools,pools,2,3,
+2016,goml,barksanchez,bon,pika,kirby,1,pools,pools,1,3,
+2016,goml,barksanchez,bon,falcon,kirby,2,pools,pools,2,3,
+2016,goml,barksanchez,bon,pika,kirby,1,pools,pools,3,3,
+2016,goml,mrsir,shake,samus,link,1,pools,pools,1,3,
+2016,goml,mrsir,shake,samus,link,1,pools,pools,2,3,
+2016,goml,mrsir,nintendude,samus,fox,2,pools,pools,1,3,
+2016,goml,mrsir,nintendude,samus,fox,2,pools,pools,2,3,
+2016,goml,captainfabulous,blink,falcon,pika,2,pools,pools,1,3,
+2016,goml,captainfabulous,blink,falcon,kirby,1,pools,pools,2,3,
+2016,goml,captainfabulous,blink,falcon,pika,2,pools,pools,3,3,
+2016,snosa2,sonicfuzz,mariguas,pika,pika,2,pools,pools,1,3,
+2016,snosa2,sonicfuzz,mariguas,pika,pika,2,pools,pools,2,3,
+2016,snosa2,d35,barksanchez,pika,pika,2,pools,pools,1,3,
+2016,snosa2,d35,barksanchez,pika,pika,2,pools,pools,2,3,
+2016,snosa2,tot,mariguas,fox,pika,2,pools,pools,1,3,
+2016,snosa2,tot,mariguas,pika,pika,2,pools,pools,2,3,
+2016,snosa2,darkhorse,madrush,puff,falcon,2,pools,pools,1,3,
+2016,snosa2,darkhorse,madrush,falcon,falcon,1,pools,pools,2,3,
+2016,snosa2,darkhorse,madrush,puff,falcon,1,pools,pools,3,3,
+2016,snosa2,tacos,freddy,pika,falcon,1,pools,pools,1,3,
+2016,snosa2,tacos,freddy,yoshi,link,1,pools,pools,2,3,
+2016,snosa2,wookiee,karajan,pika,fox,1,pools,pools,1,3,
+2016,snosa2,wookiee,karajan,pika,kirby,1,pools,pools,2,3,
+2016,snosa2,tacos,shihman,falcon,falcon,1,pools,pools,1,3,
+2016,snosa2,tacos,shihman,yoshi,falcon,1,pools,pools,2,3,
+2016,snosa2,freean,sotoh,falcon,pika,1,bracket,top32,1,3,
+2016,snosa2,freean,sotoh,falcon,kirby,2,bracket,top32,2,3,
+2016,snosa2,freean,sotoh,luigi,kirby,2,bracket,top32,3,3,
+2016,snosa2,onski,near,kirby,fox,2,bracket,top32,1,3,
+2016,snosa2,onski,near,kirby,luigi,2,bracket,top32,2,3,
+2016,snosa2,karajan,superboomfan,fox,falcon,2,bracket,top32,1,3,
+2016,snosa2,karajan,superboomfan,pika,falcon,2,bracket,top32,2,3,
+2016,snosa2,isai,wookiee,link,pika,1,bracket,top32,1,3,
+2016,snosa2,isai,wookiee,link,pika,1,bracket,top32,2,3,
+2016,snosa2,jaimehr,kimimaru,falcon,mario,1,bracket,top32,1,3,
+2016,snosa2,jaimehr,kimimaru,falcon,mario,1,bracket,top32,2,3,
+2016,snosa2,janitor,tacos,falcon,yoshi,1,bracket,top32,1,3,
+2016,snosa2,janitor,tacos,falcon,yoshi,2,bracket,top32,2,3,
+2016,snosa2,janitor,tacos,yoshi,yoshi,2,bracket,top32,3,3,
+2016,snosa2,barksanchez,heropie,pika,pika,1,bracket,top32,1,3,
+2016,snosa2,barksanchez,heropie,pika,falcon,2,bracket,top32,2,3,
+2016,snosa2,barksanchez,heropie,pika,falcon,1,bracket,top32,3,3,
+2016,snosa2,mariguas,sotoh,pika,kirby,1,bracket,top32,1,3,
+2016,snosa2,mariguas,sotoh,pika,falcon,1,bracket,top32,2,3,
+2016,snosa2,shears,kimimaru,pika,mario,2,bracket,top16,1,3,
+2016,snosa2,shears,kimimaru,pika,mario,2,bracket,top16,2,3,
+2016,snosa2,shears,kimimaru,pika,mario,2,bracket,top16,3,3,
+2016,snosa2,d35,near,pika,puff,1,bracket,top16,1,3,
+2016,snosa2,d35,near,pika,falcon,2,bracket,top16,2,3,
+2016,snosa2,d35,near,pika,mario,2,bracket,top16,3,3,
+2016,snosa2,dext3r,mariguas,pika,pika,2,bracket,top16,1,5,
+2016,snosa2,dext3r,mariguas,pika,pika,2,bracket,top16,2,5,
+2016,snosa2,dext3r,mariguas,pika,pika,2,bracket,top16,3,5,
+2016,snosa2,jaimehr,isai,falcon,samus,2,bracket,top16,1,5,
+2016,snosa2,jaimehr,isai,falcon,samus,2,bracket,top16,2,5,
+2016,snosa2,jaimehr,isai,falcon,samus,1,bracket,top16,3,5,
+2016,snosa2,jaimehr,isai,falcon,samus,2,bracket,top16,4,5,
+2016,snosa2,tacos,kerokeroppi,falcon,kirby,2,bracket,top16,1,5,
+2016,snosa2,tacos,kerokeroppi,yoshi,falcon,1,bracket,top16,2,5,
+2016,snosa2,tacos,kerokeroppi,pika,pika,1,bracket,top16,3,5,
+2016,snosa2,tacos,kerokeroppi,pika,pika,2,bracket,top16,4,5,
+2016,snosa2,tacos,kerokeroppi,yoshi,falcon,1,bracket,top16,5,5,
+2016,snosa2,barksanchez,superboomfan,pika,pika,2,bracket,top16,1,5,
+2016,snosa2,barksanchez,superboomfan,pika,pika,2,bracket,top16,2,5,
+2016,snosa2,barksanchez,superboomfan,pika,pika,2,bracket,top16,3,5,
+2016,snosa2,barksanchez,kimimaru,pika,mario,1,bracket,top16,1,5,
+2016,snosa2,barksanchez,kimimaru,pika,mario,1,bracket,top16,2,5,
+2016,snosa2,barksanchez,kimimaru,pika,mario,1,bracket,top16,3,5,
+2016,snosa2,tacos,superboomfan,falcon,kirby,2,bracket,top8,1,5,
+2016,snosa2,tacos,superboomfan,pika,kirby,2,bracket,top8,2,5,
+2016,snosa2,tacos,superboomfan,pika,kirby,2,bracket,top8,3,5,
+2016,snosa2,mariguas,isai,pika,samus,1,bracket,top8,1,5,
+2016,snosa2,mariguas,isai,pika,yoshi,2,bracket,top8,2,5,
+2016,snosa2,mariguas,isai,pika,yoshi,2,bracket,top8,3,5,
+2016,snosa2,mariguas,isai,pika,yoshi,2,bracket,top8,4,5,
+2016,snosa2,kerokeroppi,barksanchez,pika,pika,1,bracket,top8,1,5,
+2016,snosa2,kerokeroppi,barksanchez,pika,pika,1,bracket,top8,2,5,
+2016,snosa2,kerokeroppi,barksanchez,pika,pika,1,bracket,top8,3,5,
+2016,snosa2,jaimehr,dext3r,falcon,pika,2,bracket,top8,1,5,
+2016,snosa2,jaimehr,dext3r,falcon,pika,1,bracket,top8,2,5,
+2016,snosa2,jaimehr,dext3r,falcon,pika,2,bracket,top8,3,5,
+2016,snosa2,jaimehr,dext3r,falcon,pika,2,bracket,top8,4,5,
+2016,snosa2,tacos,dext3r,yoshi,pika,1,bracket,top8,1,5,
+2016,snosa2,tacos,dext3r,yoshi,pika,1,bracket,top8,2,5,
+2016,snosa2,tacos,dext3r,yoshi,pika,1,bracket,top8,3,5,
+2016,snosa2,kerokeroppi,mariguas,pika,pika,2,bracket,top8,1,5,
+2016,snosa2,kerokeroppi,mariguas,falcon,pika,2,bracket,top8,2,5,
+2016,snosa2,kerokeroppi,mariguas,pika,pika,2,bracket,top8,3,5,
+2016,snosa2,superboomfan,isai,pika,yoshi,1,bracket,wf,1,5,
+2016,snosa2,superboomfan,isai,pika,yoshi,1,bracket,wf,2,5,
+2016,snosa2,superboomfan,isai,pika,puff,1,bracket,wf,3,5,
+2016,snosa2,tacos,mariguas,yoshi,pika,2,bracket,top8,1,5,
+2016,snosa2,tacos,mariguas,yoshi,pika,2,bracket,top8,2,5,
+2016,snosa2,tacos,mariguas,yoshi,pika,1,bracket,top8,3,5,
+2016,snosa2,tacos,mariguas,yoshi,pika,1,bracket,top8,4,5,
+2016,snosa2,tacos,mariguas,yoshi,kirby,1,bracket,top8,5,5,
+2016,snosa2,tacos,isai,yoshi,link,2,bracket,lf,1,5,
+2016,snosa2,tacos,isai,yoshi,link,1,bracket,lf,2,5,
+2016,snosa2,tacos,isai,yoshi,mario,1,bracket,lf,3,5,
+2016,snosa2,tacos,isai,yoshi,puff,2,bracket,lf,4,5,
+2016,snosa2,tacos,isai,yoshi,dk,1,bracket,lf,5,5,
+2016,snosa2,tacos,superboomfan,falcon,kirby,2,bracket,gf,1,5,
+2016,snosa2,tacos,superboomfan,puff,kirby,2,bracket,gf,2,5,
+2016,snosa2,tacos,superboomfan,dk,kirby,2,bracket,gf,3,5,
+2017,beast7,ctg,fruity,puff,mario,1,bracket,top8,1,5,
+2017,beast7,ctg,fruity,puff,mario,1,bracket,top8,2,5,
+2017,beast7,ctg,fruity,puff,mario,1,bracket,top8,3,5,
+2017,beast7,nintendude,jam,fox,pika,2,bracket,top8,1,5,
+2017,beast7,nintendude,jam,fox,pika,2,bracket,top8,2,5,
+2017,beast7,nintendude,jam,mario,pika,2,bracket,top8,3,5,
+2017,beast7,shears,jam,yoshi,pika,1,bracket,top8,1,5,
+2017,beast7,shears,jam,yoshi,pika,2,bracket,top8,2,5,
+2017,beast7,shears,jam,yoshi,pika,1,bracket,top8,3,5,
+2017,beast7,shears,jam,yoshi,pika,2,bracket,top8,4,5,
+2017,beast7,shears,jam,yoshi,pika,1,bracket,top8,5,5,
+2017,beast7,ctg,isai,puff,kirby,2,bracket,wq,1,3,
+2017,beast7,ctg,isai,puff,kirby,2,bracket,wq,2,3,
+2017,beast7,shears,fruity,pika,mario,1,bracket,wq,1,3,
+2017,beast7,shears,fruity,pika,mario,1,bracket,wq,2,3,
+2017,beast7,shears,isai,yoshi,pika,2,bracket,ws,1,5,
+2017,beast7,shears,isai,pika,pika,2,bracket,ws,2,5,
+2017,beast7,shears,isai,luigi,pika,2,bracket,ws,3,5,
+2017,beast7,revan,barksanchez,kirby,pika,2,bracket,ws,1,5,
+2017,beast7,revan,barksanchez,kirby,pika,2,bracket,ws,2,5,
+2017,beast7,revan,barksanchez,kirby,pika,1,bracket,ws,3,5,
+2017,beast7,revan,barksanchez,kirby,pika,1,bracket,ws,4,5,
+2017,beast7,revan,barksanchez,kirby,pika,1,bracket,ws,5,5,
+2017,beast7,barksanchez,isai,pika,pika,2,bracket,lf,1,5,
+2017,beast7,barksanchez,isai,pika,pika,2,bracket,lf,2,5,
+2017,beast7,barksanchez,isai,pika,pika,2,bracket,lf,3,5,
+2017,beast7,revan,isai,kirby,link,1,bracket,wf,1,5,
+2017,beast7,revan,isai,kirby,link,2,bracket,wf,2,5,
+2017,beast7,revan,isai,kirby,link,1,bracket,wf,3,5,
+2017,beast7,revan,isai,kirby,link,2,bracket,wf,4,5,
+2017,beast7,revan,isai,kirby,link,1,bracket,wf,5,5,
+2017,beast7,shears,barksanchez,luigi,mario,1,bracket,ls,1,5,
+2017,beast7,shears,barksanchez,luigi,mario,2,bracket,ls,2,5,
+2017,beast7,shears,barksanchez,luigi,mario,2,bracket,ls,3,5,
+2017,beast7,shears,barksanchez,luigi,mario,2,bracket,ls,4,5,
+2017,beast7,revan,isai,kirby,link,2,bracket,gf,1,5,
+2017,beast7,revan,isai,kirby,link,2,bracket,gf,2,5,
+2017,beast7,revan,isai,kirby,link,2,bracket,gf,3,5,
+2017,beast7,revan,isai,kirby,link,2,bracket,gf2,1,5,
+2017,beast7,revan,isai,kirby,link,1,bracket,gf2,2,5,
+2017,beast7,revan,isai,kirby,link,2,bracket,gf2,3,5,
+2017,beast7,revan,isai,kirby,link,2,bracket,gf2,4,5,
+2017,beast7,ctg,barksanchez,puff,pika,2,bracket,top8,1,5,
+2017,beast7,ctg,barksanchez,puff,pika,2,bracket,top8,2,5,
+2017,beast7,ctg,barksanchez,puff,falcon,2,bracket,top8,3,5,
+2016,ssc,korobeniki,gravyfingers,yoshi,pika,2,pools,pools,1,3,
+2016,ssc,korobeniki,gravyfingers,yoshi,pika,2,pools,pools,2,3,
+2016,ssc,umbra,nothing,falcon,falcon,2,pools,pools,1,3,
+2016,ssc,umbra,nothing,falcon,falcon,2,pools,pools,2,3,
+2016,ssc,gravyfingers,umbra,pika,falcon,1,pools,pools,1,3,
+2016,ssc,gravyfingers,umbra,pika,falcon,1,pools,pools,2,3,
+2016,ssc,gravyfingers,ld,pika,fox,2,pools,pools,1,3,
+2016,ssc,gravyfingers,ld,pika,fox,2,pools,pools,2,3,
+2016,ssc,theprotagonist,razz,fox,falcon,1,pools,pools,1,3,
+2016,ssc,theprotagonist,razz,fox,falcon,1,pools,pools,2,3,
+2016,ssc,justin,marbles,falcon,pika,2,pools,pools,1,3,
+2016,ssc,justin,marbles,falcon,pika,2,pools,pools,2,3,
+2016,ssc,justin,pewpewu,pika,fox,1,pools,pools,1,3,
+2016,ssc,justin,pewpewu,pika,fox,1,pools,pools,2,3,
+2016,ssc,wookiee,zero,kirby,falcon,2,pools,pools,1,3,
+2016,ssc,wookiee,zero,kirby,falcon,2,pools,pools,2,3,
+2016,ssc,theprotagonist,alvin,fox,dk,2,pools,pools,1,3,
+2016,ssc,theprotagonist,alvin,fox,dk,2,pools,pools,2,3,
+2016,ssc,mustardtiger,alvin,kirby,pika,2,pools,pools,1,3,
+2016,ssc,mustardtiger,alvin,kirby,pika,2,pools,pools,2,3,
+2016,ssc,ctg,senorhen10r,puff,pika,1,pools,pools,1,3,
+2016,ssc,ctg,senorhen10r,puff,pika,1,pools,pools,2,3,
+2016,ssc,kerokeroppi,pewpewu,fox,fox,1,pools,pools,1,3,
+2016,ssc,kerokeroppi,pewpewu,fox,fox,2,pools,pools,2,3,
+2016,ssc,kerokeroppi,pewpewu,fox,fox,1,pools,pools,3,3,
+2016,ssc,capsui,prince,fox,yoshi,2,pools,pools,1,3,
+2016,ssc,capsui,prince,fox,yoshi,2,pools,pools,2,3,
+2016,ssc,evab,alvin,kirby,pika,2,pools,pools,1,3,
+2016,ssc,evab,alvin,kirby,samus,2,pools,pools,2,3,
+2016,ssc,greeno,preston,puff,kirby,2,pools,pools,1,3,
+2016,ssc,greeno,preston,puff,kirby,2,pools,pools,2,3,
+2016,ssc,captainfabulous,gumbolaya,falcon,ness,1,pools,pools,1,3,
+2016,ssc,captainfabulous,gumbolaya,dk,ness,1,pools,pools,2,3,
+2016,ssc,miniohh,comboblaze,kirby,falcon,2,pools,pools,1,3,
+2016,ssc,miniohh,comboblaze,kirby,falcon,2,pools,pools,2,3,
+2016,ssc,cobr,nintendude,falcon,fox,1,pools,pools,1,3,
+2016,ssc,cobr,nintendude,falcon,fox,1,pools,pools,2,3,
+2016,ssc,robert,sheermadness,pika,yoshi,1,pools,pools,1,3,
+2016,ssc,robert,sheermadness,pika,yoshi,1,pools,pools,2,3,
+2016,ssc,wangera,g0d,puff,pika,1,pools,pools,1,3,
+2016,ssc,wangera,g0d,puff,falcon,1,pools,pools,2,3,
+2016,ssc,kurabba,dfx,yoshi,falcon,1,pools,pools,1,3,
+2016,ssc,kurabba,dfx,yoshi,fox,1,pools,pools,2,3,
+2016,ssc,nacl,shears,kirby,pika,1,pools,pools,1,3,
+2016,ssc,nacl,shears,kirby,pika,1,pools,pools,2,3,
+2016,ssc,iceking,stevieg,pika,fox,2,pools,pools,1,3,
+2016,ssc,iceking,stevieg,pika,fox,2,pools,pools,2,3,
+2016,ssc,blisstex,miniohh,pika,kirby,2,pools,pools,1,3,
+2016,ssc,blisstex,miniohh,pika,kirby,1,pools,pools,2,3,
+2016,ssc,blisstex,miniohh,pika,kirby,2,pools,pools,3,3,
+2016,ssc,gamer4life,lorenzo,kirby,dk,2,pools,pools,1,3,
+2016,ssc,gamer4life,lorenzo,kirby,dk,2,pools,pools,2,3,
+2016,ssc,bowl,lorenzo,pika,dk,1,pools,pools,1,3,
+2016,ssc,bowl,lorenzo,pika,dk,1,pools,pools,2,3,
+2016,ssc,fckvwls,grahamaglam,dk,link,2,pools,pools,1,3,
+2016,ssc,fckvwls,grahamaglam,falcon,link,2,pools,pools,2,3,
+2016,ssc,comboblaze,grahamaglam,falcon,link,1,pools,pools,1,3,
+2016,ssc,comboblaze,grahamaglam,dk,mario,1,pools,pools,2,3,
+2016,ssc,lorenzo,squanch,dk,pika,1,pools,pools,1,3,
+2016,ssc,lorenzo,squanch,dk,pika,1,pools,pools,2,3,
+2016,ssc,superboomfan,stevieg,falcon,fox,1,pools,pools,1,3,
+2016,ssc,superboomfan,stevieg,falcon,fox,1,pools,pools,2,3,
+2016,ssc,superboomfan,bowl,dk,dk,1,pools,pools,1,3,
+2016,ssc,superboomfan,bowl,dk,dk,1,pools,pools,2,3,
+2016,ssc,stevieg,lorenzo,fox,dk,2,pools,pools,1,3,
+2016,ssc,stevieg,lorenzo,fox,dk,2,pools,pools,2,3,
+2016,ssc,grahamaglam,lorenzo,link,dk,2,pools,pools,1,3,
+2016,ssc,grahamaglam,lorenzo,mario,dk,2,pools,pools,2,3,
+2016,ssc,tyhiggz,professorwizard,yoshi,kirby,2,pools,pools,1,3,
+2016,ssc,tyhiggz,professorwizard,yoshi,kirby,1,pools,pools,2,3,
+2016,ssc,tyhiggz,professorwizard,yoshi,kirby,1,pools,pools,3,3,
+2016,ssc,jimmyjoe,studstill,pika,kirby,1,pools,pools,1,3,
+2016,ssc,jimmyjoe,studstill,pika,kirby,1,pools,pools,2,3,
+2016,ssc,jaimehr,masquerade,falcon,mario,1,pools,pools,1,3,
+2016,ssc,jaimehr,masquerade,falcon,mario,1,pools,pools,2,3,
+2016,ssc,jaimehr,nothing,falcon,falcon,1,pools,pools,1,3,
+2016,ssc,jaimehr,nothing,falcon,falcon,1,pools,pools,2,3,
+2016,ssc,zhu,ld,fox,fox,2,pools,pools,1,3,
+2016,ssc,zhu,ld,fox,fox,2,pools,pools,2,3,
+2016,ssc,professorwizard,zhu,kirby,fox,1,pools,pools,1,3,
+2016,ssc,professorwizard,zhu,kirby,fox,1,pools,pools,2,3,
+2016,ssc,professorwizard,koro,kirby,yoshi,2,pools,pools,1,3,
+2016,ssc,professorwizard,koro,kirby,yoshi,1,pools,pools,2,3,
+2016,ssc,professorwizard,koro,kirby,yoshi,1,pools,pools,3,3,
+2016,ssc,professorwizard,nothing,kirby,falcon,2,pools,pools,1,3,
+2016,ssc,professorwizard,nothing,kirby,falcon,2,pools,pools,2,3,
+2016,ssc,alvin,lordnarwhal,falcon,mario,1,bracket,top64,1,3,
+2016,ssc,alvin,lordnarwhal,falcon,mario,1,bracket,top64,2,3,
+2016,ssc,banze,stranded,pika,pika,2,bracket,top64,1,3,
+2016,ssc,banze,stranded,kirby,pika,2,bracket,top64,2,3,
+2016,ssc,wangera,stranded,puff,pika,1,bracket,top64,1,3,
+2016,ssc,wangera,stranded,puff,pika,1,bracket,top64,2,3,
+2016,ssc,dext3r,isai,pika,pika,2,bracket,top64,1,3,
+2016,ssc,dext3r,isai,pika,pika,2,bracket,top64,2,3,
+2016,ssc,firo,wizzrobe,link,yoshi,2,bracket,top64,1,3,
+2016,ssc,firo,wizzrobe,ness,yoshi,2,bracket,top64,2,3,
+2016,ssc,prince,wizzrobe,yoshi,yoshi,2,bracket,top64,1,3,
+2016,ssc,prince,wizzrobe,yoshi,yoshi,2,bracket,top64,2,3,
+2016,ssc,mariguas,superboomfan,pika,pika,2,bracket,top16,1,5,
+2016,ssc,mariguas,superboomfan,pika,pika,1,bracket,top16,2,5,
+2016,ssc,mariguas,superboomfan,pika,falcon,2,bracket,top16,3,5,
+2016,ssc,mariguas,superboomfan,pika,falcon,1,bracket,top16,4,5,
+2016,ssc,mariguas,superboomfan,pika,falcon,2,bracket,top16,5,5,
+2016,ssc,thez,wangera,pika,puff,1,bracket,top16,1,5,
+2016,ssc,thez,wangera,pika,puff,2,bracket,top16,2,5,
+2016,ssc,thez,wangera,pika,puff,2,bracket,top16,3,5,
+2016,ssc,thez,wangera,pika,puff,1,bracket,top16,4,5,
+2016,ssc,thez,wangera,pika,puff,1,bracket,top16,5,5,
+2016,ssc,ld,superboomfan,fox,pika,2,bracket,top32,1,3,
+2016,ssc,ld,superboomfan,fox,pika,2,bracket,top32,2,3,
+2016,ssc,isai,revan,pika,kirby,1,bracket,top16,1,5,
+2016,ssc,isai,revan,pika,kirby,1,bracket,top16,2,5,
+2016,ssc,isai,revan,pika,kirby,1,bracket,top16,3,5,
+2016,ssc,mariguas,kerokeroppi,pika,pika,1,bracket,top32,1,3,
+2016,ssc,mariguas,kerokeroppi,pika,pika,1,bracket,top32,2,3,
+2016,ssc,kurabba,alvin,yoshi,pika,1,bracket,top32,1,3,
+2016,ssc,kurabba,alvin,yoshi,pika,1,bracket,top32,2,3,
+2016,ssc,bonobono,revan,yoshi,kirby,2,bracket,top32,1,3,
+2016,ssc,bonobono,revan,yoshi,kirby,2,bracket,top32,2,3,
+2016,ssc,kort,kerokeroppi,link,pika,2,bracket,top64,1,3,
+2016,ssc,kort,kerokeroppi,link,pika,2,bracket,top64,2,3,
+2016,ssc,thez,tacos,kirby,yoshi,1,bracket,top32,1,3,
+2016,ssc,thez,tacos,pika,yoshi,1,bracket,top32,2,3,
+2016,ssc,prince,zero,yoshi,falcon,2,bracket,top64,1,3,
+2016,ssc,prince,zero,yoshi,falcon,1,bracket,top64,2,3,
+2016,ssc,prince,zero,yoshi,falcon,1,bracket,top64,3,3,
+2016,ssc,alvin,prince,falcon,yoshi,1,bracket,top16,1,5,
+2016,ssc,alvin,prince,falcon,yoshi,2,bracket,top16,2,5,
+2016,ssc,alvin,prince,falcon,yoshi,2,bracket,top16,3,5,
+2016,ssc,alvin,prince,pika,yoshi,1,bracket,top16,4,5,
+2016,ssc,alvin,prince,pika,yoshi,2,bracket,top16,5,5,
+2016,ssc,dext3r,wangera,pika,puff,1,bracket,top16,1,5,
+2016,ssc,dext3r,wangera,pika,puff,2,bracket,top16,2,5,
+2016,ssc,dext3r,wangera,pika,puff,1,bracket,top16,3,5,
+2016,ssc,dext3r,wangera,pika,puff,2,bracket,top16,4,5,
+2016,ssc,dext3r,wangera,pika,puff,2,bracket,top16,5,5,
+2016,ssc,firo,nothing,ness,falcon,2,bracket,top64,1,3,
+2016,ssc,firo,nothing,ness,falcon,1,bracket,top64,2,3,
+2016,ssc,firo,nothing,ness,falcon,1,bracket,top64,3,3,
+2016,ssc,ld,banze,fox,pika,1,bracket,top32,1,3,
+2016,ssc,ld,banze,fox,pika,1,bracket,top32,2,3,
+2016,ssc,kort,tacos,link,yoshi,2,bracket,top32,1,3,
+2016,ssc,kort,tacos,falcon,yoshi,1,bracket,top32,2,3,
+2016,ssc,kort,tacos,pika,falcon,1,bracket,top32,3,3,
+2016,ssc,alvin,fireblaster,falcon,yoshi,1,bracket,top32,1,3,
+2016,ssc,alvin,fireblaster,pika,yoshi,2,bracket,top32,2,3,
+2016,ssc,alvin,fireblaster,falcon,yoshi,2,bracket,top32,3,3,
+2016,ssc,bonobono,zero,yoshi,falcon,2,bracket,top32,1,3,
+2016,ssc,bonobono,zero,yoshi,falcon,1,bracket,top32,2,3,
+2016,ssc,bonobono,zero,yoshi,falcon,2,bracket,top32,3,3,
+2016,ssc,dext3r,zero,pika,falcon,1,bracket,top16,1,5,
+2016,ssc,dext3r,zero,pika,falcon,1,bracket,top16,2,5,
+2016,ssc,dext3r,zero,pika,falcon,1,bracket,top16,3,5,
+2016,ssc,ld,kerokeroppi,fox,pika,2,bracket,top16,1,5,
+2016,ssc,ld,kerokeroppi,fox,pika,2,bracket,top16,2,5,
+2016,ssc,ld,kerokeroppi,fox,pika,2,bracket,top16,3,5,
+2016,ssc,kort,stranded,link,falcon,2,bracket,top16,1,5,
+2016,ssc,kort,stranded,link,falcon,2,bracket,top16,2,5,
+2016,ssc,kort,stranded,link,falcon,2,bracket,top16,3,5,
+2016,ssc,mariguas,prince,pika,yoshi,2,bracket,top16,1,5,
+2016,ssc,mariguas,prince,pika,yoshi,1,bracket,top16,2,5,
+2016,ssc,mariguas,prince,pika,yoshi,1,bracket,top16,3,5,
+2016,ssc,mariguas,prince,pika,yoshi,2,bracket,top16,4,5,
+2016,ssc,mariguas,prince,pika,yoshi,1,bracket,top16,5,5,
+2016,ssc,kurabba,kerokeroppi,yoshi,pika,2,bracket,top16,1,5,
+2016,ssc,kurabba,kerokeroppi,yoshi,pika,2,bracket,top16,2,5,
+2016,ssc,kurabba,kerokeroppi,yoshi,pika,1,bracket,top16,3,5,
+2016,ssc,kurabba,kerokeroppi,yoshi,falcon,1,bracket,top16,4,5,
+2016,ssc,kurabba,kerokeroppi,yoshi,pika,2,bracket,top16,5,5,
+2016,ssc,revan,stranded,kirby,pika,1,bracket,top16,1,5,
+2016,ssc,revan,stranded,kirby,pika,2,bracket,top16,2,5,
+2016,ssc,revan,stranded,kirby,pika,1,bracket,top16,3,5,
+2016,ssc,revan,stranded,kirby,pika,1,bracket,top16,4,5,
+2016,ssc,mariguas,revan,pika,kirby,1,bracket,top8,1,5,
+2016,ssc,mariguas,revan,pika,kirby,1,bracket,top8,2,5,
+2016,ssc,mariguas,revan,pika,kirby,1,bracket,top8,3,5,
+2016,ssc,wangera,kurabba,puff,yoshi,1,bracket,top8,1,5,
+2016,ssc,wangera,kurabba,puff,yoshi,1,bracket,top8,2,5,
+2016,ssc,wangera,kurabba,puff,yoshi,1,bracket,top8,3,5,
+2016,ssc,superboomfan,isai,falcon,pika,2,bracket,top8,1,5,
+2016,ssc,superboomfan,isai,dk,dk,2,bracket,top8,2,5,
+2016,ssc,superboomfan,isai,yoshi,dk,1,bracket,top8,3,5,
+2016,ssc,superboomfan,isai,yoshi,link,1,bracket,top8,4,5,
+2016,ssc,superboomfan,isai,yoshi,mario,1,bracket,top8,5,5,
+2016,ssc,wizzrobe,thez,yoshi,pika,1,bracket,top8,1,5,
+2016,ssc,wizzrobe,thez,yoshi,pika,2,bracket,top8,2,5,
+2016,ssc,wizzrobe,thez,yoshi,pika,1,bracket,top8,3,5,
+2016,ssc,wizzrobe,thez,yoshi,kirby,1,bracket,top8,4,5,
+2016,ssc,wangera,isai,puff,pika,2,bracket,top8,1,5,
+2016,ssc,wangera,isai,puff,pika,2,bracket,top8,2,5,
+2016,ssc,wangera,isai,puff,pika,1,bracket,top8,3,5,
+2016,ssc,wangera,isai,puff,pika,2,bracket,top8,4,5,
+2016,ssc,thez,mariguas,pika,pika,2,bracket,top8,1,5,
+2016,ssc,thez,mariguas,pika,pika,2,bracket,top8,2,5,
+2016,ssc,thez,mariguas,yoshi,pika,2,bracket,top8,3,5,
+2016,ssc,superboomfan,wizzrobe,kirby,yoshi,1,bracket,wf,1,5,
+2016,ssc,superboomfan,wizzrobe,kirby,pika,1,bracket,wf,2,5,
+2016,ssc,superboomfan,wizzrobe,kirby,yoshi,1,bracket,wf,3,5,
+2016,ssc,isai,mariguas,fox,pika,1,bracket,top8,1,5,
+2016,ssc,isai,mariguas,fox,pika,2,bracket,top8,2,5,
+2016,ssc,isai,mariguas,pika,pika,1,bracket,top8,3,5,
+2016,ssc,isai,mariguas,pika,pika,1,bracket,top8,4,5,
+2016,ssc,isai,wizzrobe,luigi,yoshi,1,bracket,lf,1,5,
+2016,ssc,isai,wizzrobe,ness,yoshi,2,bracket,lf,2,5,
+2016,ssc,isai,wizzrobe,yoshi,yoshi,2,bracket,lf,3,5,
+2016,ssc,isai,wizzrobe,pika,yoshi,1,bracket,lf,4,5,
+2016,ssc,isai,wizzrobe,luigi,yoshi,2,bracket,lf,5,5,
+2016,ssc,superboomfan,wizzrobe,kirby,yoshi,2,bracket,gf,1,5,
+2016,ssc,superboomfan,wizzrobe,kirby,yoshi,1,bracket,gf,2,5,
+2016,ssc,superboomfan,wizzrobe,kirby,yoshi,1,bracket,gf,3,5,
+2016,ssc,superboomfan,wizzrobe,kirby,yoshi,1,bracket,gf,4,5,
+2017,genesis 4,letsgo,janitor,falcon,yoshi,2,pools,pools,1,3,
+2017,genesis 4,letsgo,janitor,falcon,yoshi,2,pools,pools,2,3,
+2017,genesis 4,blues,hydra,falcon,mario,2,pools,pools,1,3,
+2017,genesis 4,blues,hydra,falcon,mario,2,pools,pools,2,3,
+2017,genesis 4,duffman,tbeau,falcon,falcon,1,pools,pools,1,3,
+2017,genesis 4,duffman,tbeau,falcon,falcon,1,pools,pools,2,3,
+2017,genesis 4,villagemascot,inukem,fox,pika,2,pools,pools,1,3,
+2017,genesis 4,villagemascot,inukem,fox,pika,2,pools,pools,2,3,
+2017,genesis 4,blondkid,maz,falcon,pika,2,pools,pools,1,3,
+2017,genesis 4,blondkid,maz,falcon,pika,2,pools,pools,2,3,
+2017,genesis 4,daniels,rizner,pika,kirby,2,pools,pools,1,3,
+2017,genesis 4,daniels,rizner,pika,kirby,1,pools,pools,2,3,
+2017,genesis 4,daniels,rizner,pika,kirby,1,pools,pools,3,3,
+2017,genesis 4,jimmyjoe,nacl,pika,kirby,2,pools,pools,1,3,
+2017,genesis 4,jimmyjoe,nacl,pika,kirby,2,pools,pools,2,3,
+2017,genesis 4,reno,jimmyjoe,kirby,pika,2,pools,pools,1,3,
+2017,genesis 4,reno,jimmyjoe,kirby,pika,2,pools,pools,2,3,
+2017,genesis 4,ken,capos,falcon,puff,2,pools,pools,1,3,
+2017,genesis 4,ken,capos,falcon,puff,1,pools,pools,2,3,
+2017,genesis 4,ken,capos,falcon,puff,1,pools,pools,3,3,
+2017,genesis 4,cobr,fry,falcon,pika,1,pools,pools,1,3,
+2017,genesis 4,cobr,fry,falcon,pika,1,pools,pools,2,3,
+2017,genesis 4,hungrybox,codytappen,kirby,pika,1,pools,pools,1,3,
+2017,genesis 4,hungrybox,codytappen,kirby,pika,1,pools,pools,2,3,
+2017,genesis 4,natty,taiko,falcon,falcon,2,pools,pools,1,3,
+2017,genesis 4,natty,taiko,falcon,falcon,2,pools,pools,2,3,
+2017,genesis 4,bottleopenerguy,taiko,falcon,falcon,2,pools,pools,1,3,
+2017,genesis 4,bottleopenerguy,taiko,falcon,falcon,2,pools,pools,2,3,
+2017,genesis 4,ringedge,drgrin,puff,kirby,2,pools,pools,1,3,
+2017,genesis 4,ringedge,drgrin,puff,kirby,2,pools,pools,2,3,
+2017,genesis 4,smurf,monkey,pika,puff,1,pools,pools,1,3,
+2017,genesis 4,smurf,monkey,pika,puff,1,pools,pools,2,3,
+2017,genesis 4,moustacher,freean,pika,luigi,2,pools,pools,1,3,
+2017,genesis 4,moustacher,freean,pika,luigi,2,pools,pools,2,3,
+2017,genesis 4,mariguas,janitor,pika,pika,1,bracket,top64,1,3,
+2017,genesis 4,mariguas,janitor,pika,pika,1,bracket,top64,2,3,
+2017,genesis 4,dext3r,barksanchez,pika,pika,1,bracket,top64,1,3,
+2017,genesis 4,dext3r,barksanchez,pika,pika,1,bracket,top64,2,3,
+2017,genesis 4,hansolo,jaimehr,fox,kirby,2,bracket,top64,1,3,
+2017,genesis 4,hansolo,jaimehr,fox,kirby,2,bracket,top64,2,3,
+2017,genesis 4,jaimehr,onski,samus,kirby,1,bracket,top64,1,3,
+2017,genesis 4,jaimehr,onski,samus,kirby,1,bracket,top64,2,3,
+2017,genesis 4,cobr,madrush,falcon,falcon,1,bracket,top64,1,3,
+2017,genesis 4,cobr,madrush,falcon,falcon,1,bracket,top64,2,3,
+2017,genesis 4,nintendude,cobr,fox,falcon,2,bracket,top32,1,3,
+2017,genesis 4,nintendude,cobr,fox,falcon,2,bracket,top64,2,3,
+2017,genesis 4,nickelbackstreetboy,dadsmagicalerasers,pika,yoshi,1,pools,pools,1,3,
+2017,genesis 4,nickelbackstreetboy,dadsmagicalerasers,pika,yoshi,1,pools,pools,2,3,
+2017,genesis 4,shears,stranded,yoshi,falcon,2,bracket,top64,1,3,
+2017,genesis 4,shears,stranded,yoshi,falcon,2,bracket,top64,2,3,
+2017,genesis 4,janitor,zero,yoshi,falcon,2,bracket,top64,1,3,
+2017,genesis 4,janitor,zero,yoshi,falcon,2,bracket,top64,2,3,
+2017,genesis 4,dtan,barksanchez,kirby,pika,2,bracket,top64,1,3,
+2017,genesis 4,dtan,barksanchez,kirby,pika,2,bracket,top64,2,3,
+2017,genesis 4,sotoh,alvin,pika,falcon,2,bracket,top64,1,3,
+2017,genesis 4,sotoh,alvin,pika,pika,2,bracket,top64,2,3,
+2017,genesis 4,theprotagonist,shears,fox,pika,1,bracket,top64,1,3,
+2017,genesis 4,theprotagonist,shears,fox,pika,2,bracket,top64,2,3,
+2017,genesis 4,theprotagonist,shears,fox,pika,2,bracket,top64,3,3,
+2017,genesis 4,jaimehr,handsometom,pika,kirby,1,bracket,top64,1,3,
+2017,genesis 4,jaimehr,handsometom,pika,kirby,1,bracket,top64,2,3,
+2017,genesis 4,kysk,ctg,kirby,puff,1,bracket,top64,1,3,
+2017,genesis 4,kysk,ctg,kirby,puff,1,bracket,top64,2,3,
+2017,genesis 4,yukun,isai,falcon,puff,1,bracket,top32,1,5,
+2017,genesis 4,yukun,isai,falcon,puff,1,bracket,top32,2,5,
+2017,genesis 4,yukun,isai,falcon,mario,2,bracket,top32,3,5,
+2017,genesis 4,yukun,isai,falcon,puff,1,bracket,top32,4,5,
+2017,genesis 4,paco,yukun,pika,falcon,2,pools,pools,1,3,
+2017,genesis 4,paco,yukun,pika,falcon,2,pools,pools,2,3,
+2017,genesis 4,bon,kyletree,pika,pika,2,pools,pools,1,3,
+2017,genesis 4,bon,kyletree,pika,pika,2,pools,pools,2,3,
+2017,genesis 4,ctg,bard,puff,kirby,1,pools,pools,1,3,
+2017,genesis 4,ctg,bard,puff,pika,1,pools,pools,2,3,
+2017,genesis 4,k,zero,kirby,luigi,2,pools,pools,1,3,
+2017,genesis 4,k,zero,kirby,falcon,2,pools,pools,2,3,
+2017,genesis 4,duffman,jaimehr,link,link,2,pools,pools,1,3,
+2017,genesis 4,duffman,jaimehr,falcon,samus,2,pools,pools,2,3,
+2017,genesis 4,hydra,bon,mario,pika,1,pools,pools,1,3,
+2017,genesis 4,hydra,bon,mario,pika,1,pools,pools,2,3,
+2017,genesis 4,alvin,hungrybox,kirby,pika,2,pools,pools,1,3,
+2017,genesis 4,alvin,hungrybox,kirby,dk,2,pools,pools,2,3,
+2017,genesis 4,isai,brownomega,dk,falcon,1,pools,pools,1,3,
+2017,genesis 4,isai,brownomega,puff,fox,1,pools,pools,2,3,
+2017,genesis 4,ken,alvin,falcon,mario,2,pools,pools,1,3,
+2017,genesis 4,ken,alvin,falcon,yoshi,2,pools,pools,2,3,
+2017,genesis 4,spark,jame,fox,falcon,1,pools,pools,1,3,
+2017,genesis 4,spark,jame,fox,falcon,1,pools,pools,2,3,
+2017,genesis 4,sonicfuzz,ken,puff,falcon,2,pools,pools,1,3,
+2017,genesis 4,sonicfuzz,ken,pika,falcon,2,pools,pools,2,3,
+2017,genesis 4,moonshoes,drgrin,pika,kirby,2,pools,pools,1,3,
+2017,genesis 4,moonshoes,drgrin,pika,kirby,1,pools,pools,2,3,
+2017,genesis 4,moonshoes,drgrin,pika,kirby,2,pools,pools,3,3,
+2017,genesis 4,kimimaru,daniels,mario,pika,1,pools,pools,1,3,
+2017,genesis 4,kimimaru,daniels,mario,fox,2,pools,pools,2,3,
+2017,genesis 4,dtan,blondekid,kirby,pika,1,pools,pools,1,3,
+2017,genesis 4,dtan,blondekid,kirby,pika,1,pools,pools,2,3,
+2017,genesis 4,taiko,dext3r,falcon,pika,2,pools,pools,1,3,
+2017,genesis 4,taiko,dext3r,falcon,pika,2,pools,pools,2,3,
+2017,genesis 4,sotoh,shihman,pika,falcon,2,pools,pools,1,3,
+2017,genesis 4,sotoh,shihman,kirby,falcon,1,pools,pools,2,3,
+2017,genesis 4,sotoh,shihman,kirby,luigi,1,pools,pools,3,3,
+2017,genesis 4,drewgong,d35,fox,pika,2,pools,pools,1,3,
+2017,genesis 4,drewgong,d35,fox,falcon,2,pools,pools,2,3,
+2017,genesis 4,darkhorse,d35,puff,falcon,1,pools,pools,1,3,
+2017,genesis 4,darkhorse,d35,puff,pika,1,pools,pools,2,3,
+2017,genesis 4,tanuki,myrocknpancakes,falcon,falcon,2,pools,pools,1,3,
+2017,genesis 4,tanuki,myrocknpancakes,pika,falcon,2,pools,pools,2,3,
+2017,genesis 4,kysk,mariguas,kirby,pika,1,bracket,wq,1,5,
+2017,genesis 4,kysk,mariguas,kirby,pika,1,bracket,wq,2,5,
+2017,genesis 4,kysk,mariguas,kirby,pika,1,bracket,wq,3,5,
+2017,genesis 4,kysk,stranded,kirby,pika,1,bracket,top64,1,3,
+2017,genesis 4,kysk,stranded,kirby,pika,1,bracket,top64,2,3,
+2017,genesis 4,alvin,kimimaru,pika,mario,1,bracket,top64,1,3,
+2017,genesis 4,alvin,kimimaru,pika,mario,1,bracket,top64,2,3,
+2017,genesis 4,taimai,kerokeroppi,fox,pika,2,bracket,wq,1,5,
+2017,genesis 4,taimai,kerokeroppi,fox,pika,2,bracket,wq,2,5,
+2017,genesis 4,taimai,kerokeroppi,fox,pika,2,bracket,wq,3,5,
+2017,genesis 4,yukun,kerokeroppi,falcon,kirby,2,bracket,top64,1,3,
+2017,genesis 4,yukun,kerokeroppi,pika,kirby,1,bracket,top64,2,3,
+2017,genesis 4,yukun,kerokeroppi,pika,pika,2,bracket,top64,3,3,
+2017,genesis 4,taimai,isai,fox,luigi,1,bracket,top64,1,3,
+2017,genesis 4,taimai,isai,fox,luigi,1,bracket,top64,2,3,
+2017,genesis 4,tacos,alvin,yoshi,pika,2,bracket,wq,1,5,
+2017,genesis 4,tacos,alvin,yoshi,pika,1,bracket,wq,2,5,
+2017,genesis 4,tacos,alvin,yoshi,pika,2,bracket,wq,3,5,
+2017,genesis 4,tacos,alvin,yoshi,pika,2,bracket,wq,4,5,
+2017,genesis 4,thez,tacos,kirby,kirby,2,bracket,top64,1,3,
+2017,genesis 4,thez,tacos,pika,kirby,1,bracket,top64,2,3,
+2017,genesis 4,thez,tacos,pika,pika,2,bracket,top64,3,3,
+2017,genesis 4,taimai,jaimehr,fox,kirby,1,bracket,top64,1,3,
+2017,genesis 4,taimai,jaimehr,fox,falcon,1,bracket,top64,2,3,
+2017,genesis 4,thez,mariguas,kirby,pika,2,bracket,lq,1,5,
+2017,genesis 4,thez,mariguas,pika,pika,1,bracket,lq,2,5,
+2017,genesis 4,thez,mariguas,kirby,pika,1,bracket,lq,3,5,
+2017,genesis 4,thez,mariguas,kirby,pika,2,bracket,lq,4,5,
+2017,genesis 4,thez,mariguas,kirby,pika,2,bracket,lq,5,5,
+2017,genesis 4,barksanchez,superboomfan,pika,pika,2,bracket,top32,1,3,
+2017,genesis 4,barksanchez,superboomfan,pika,pika,2,bracket,top32,2,3,
+2017,genesis 4,wizzrobe,kysk,yoshi,kirby,2,bracket,ws,1,5,
+2017,genesis 4,wizzrobe,kysk,yoshi,kirby,2,bracket,ws,2,5,
+2017,genesis 4,wizzrobe,kysk,yoshi,kirby,2,bracket,ws,3,5,
+2017,genesis 4,superboomfan,yukun,kirby,falcon,1,bracket,lq,1,5,
+2017,genesis 4,superboomfan,yukun,kirby,falcon,1,bracket,lq,2,5,
+2017,genesis 4,superboomfan,yukun,kirby,falcon,1,bracket,lq,3,5,
+2017,genesis 4,handsometom,zero,kirby,pika,1,bracket,top64,1,3,
+2017,genesis 4,handsometom,zero,kirby,falcon,1,bracket,top64,2,3,
+2017,genesis 4,alvin,kerokeroppi,pika,pika,1,bracket,ws,1,5,
+2017,genesis 4,alvin,kerokeroppi,pika,pika,1,bracket,ws,2,5,
+2017,genesis 4,alvin,kerokeroppi,pika,pika,1,bracket,ws,3,5,
+2017,genesis 4,jaimehr,tacos,pika,kirby,2,bracket,lq,1,5,
+2017,genesis 4,jaimehr,tacos,pika,kirby,2,bracket,lq,2,5,
+2017,genesis 4,jaimehr,tacos,samus,kirby,2,bracket,lq,3,5,
+2017,genesis 4,superboomfan,mariguas,pika,pika,1,bracket,ls,1,5,
+2017,genesis 4,superboomfan,mariguas,pika,pika,1,bracket,ls,2,5,
+2017,genesis 4,superboomfan,mariguas,pika,pika,1,bracket,ls,3,5,
+2017,genesis 4,dext3r,taimai,pika,fox,1,bracket,lq,1,5,
+2017,genesis 4,dext3r,taimai,pika,falcon,2,bracket,lq,2,5,
+2017,genesis 4,dext3r,taimai,pika,falcon,2,bracket,lq,3,5,
+2017,genesis 4,dext3r,taimai,pika,falcon,1,bracket,lq,4,5,
+2017,genesis 4,dext3r,taimai,pika,falcon,1,bracket,lq,5,5,
+2017,genesis 4,kerokeroppi,superboomfan,pika,pika,2,bracket,top8,1,5,
+2017,genesis 4,kerokeroppi,superboomfan,pika,pika,2,bracket,top8,2,5,
+2017,genesis 4,kerokeroppi,superboomfan,pika,pika,2,bracket,top8,3,5,
+2017,genesis 4,wizzrobe,dext3r,yoshi,pika,1,bracket,top8,1,5,
+2017,genesis 4,wizzrobe,dext3r,yoshi,pika,2,bracket,top8,2,5,
+2017,genesis 4,wizzrobe,dext3r,yoshi,pika,2,bracket,top8,3,5,
+2017,genesis 4,wizzrobe,dext3r,yoshi,pika,2,bracket,top8,4,5,
+2017,genesis 4,alvin,kysk,pika,kirby,1,bracket,wf,1,5,
+2017,genesis 4,alvin,kysk,pika,kirby,1,bracket,wf,2,5,
+2017,genesis 4,alvin,kysk,pika,falcon,2,bracket,wf,3,5,
+2017,genesis 4,alvin,kysk,pika,kirby,1,bracket,wf,4,5,
+2017,genesis 4,dext3r,superboomfan,pika,pika,2,bracket,ls,1,5,
+2017,genesis 4,dext3r,superboomfan,pika,pika,2,bracket,ls,2,5,
+2017,genesis 4,dext3r,superboomfan,pika,pika,2,bracket,ls,3,5,
+2017,genesis 4,kysk,superboomfan,kirby,pika,2,bracket,lf,1,5,
+2017,genesis 4,kysk,superboomfan,kirby,pika,2,bracket,lf,2,5,
+2017,genesis 4,kysk,superboomfan,falcon,pika,2,bracket,lf,3,5,
+2017,genesis 4,alvin,superboomfan,pika,pika,2,bracket,gf,1,5,
+2017,genesis 4,alvin,superboomfan,pika,pika,1,bracket,gf,2,5,
+2017,genesis 4,alvin,superboomfan,pika,pika,2,bracket,gf,3,5,
+2017,genesis 4,alvin,superboomfan,pika,pika,1,bracket,gf,4,5,
+2017,genesis 4,alvin,superboomfan,pika,pika,1,bracket,gf,5,5,
+2016,shine,nintendude,karajan,fox,fox,1,bracket,top8,1,5,
+2016,shine,nintendude,karajan,fox,fox,1,bracket,top8,2,5,
+2016,shine,nintendude,karajan,fox,dk,1,bracket,top8,3,5,
+2016,shine,marbles,shears,pika,yoshi,1,bracket,top8,1,5,
+2016,shine,marbles,shears,pika,yoshi,2,bracket,top8,2,5,
+2016,shine,marbles,shears,ness,yoshi,1,bracket,top8,3,5,
+2016,shine,marbles,shears,pika,yoshi,1,bracket,top8,4,5,
+2016,shine,superboomfan,fireblaster,fox,yoshi,1,bracket,ws,1,5,
+2016,shine,superboomfan,fireblaster,fox,yoshi,1,bracket,ws,1,5,
+2016,shine,superboomfan,fireblaster,fox,yoshi,1,bracket,ws,1,5,
+2016,shine,tacos,barksanchez,yoshi,pika,1,bracket,ws,1,5,
+2016,shine,tacos,barksanchez,yoshi,pika,1,bracket,ws,2,5,
+2016,shine,tacos,barksanchez,dk,pika,1,bracket,ws,3,5,
+2016,shine,fireblaster,nintendude,yoshi,fox,1,bracket,top8,1,5,
+2016,shine,fireblaster,nintendude,yoshi,fox,1,bracket,top8,2,5,
+2016,shine,fireblaster,nintendude,yoshi,fox,1,bracket,top8,3,5,
+2016,shine,barksanchez,marbles,pika,pika,1,bracket,top8,1,5,
+2016,shine,barksanchez,marbles,pika,pika,1,bracket,top8,2,5,
+2016,shine,barksanchez,marbles,pika,pika,1,bracket,top8,3,5,
+2016,shine,superboomfan,tacos,kirby,falcon,1,bracket,wf,1,5,
+2016,shine,superboomfan,tacos,kirby,pika,1,bracket,wf,2,5,
+2016,shine,superboomfan,tacos,kirby,pika,1,bracket,wf,3,5,
+2016,shine,fireblaster,barksanchez,yoshi,pika,1,bracket,ws,1,5,
+2016,shine,fireblaster,barksanchez,yoshi,pika,2,bracket,ws,2,5,
+2016,shine,fireblaster,barksanchez,yoshi,pika,2,bracket,ws,3,5,
+2016,shine,fireblaster,barksanchez,yoshi,pika,2,bracket,ws,4,5,
+2016,shine,barksanchez,tacos,pika,falcon,1,bracket,lf,1,5,
+2016,shine,barksanchez,tacos,pika,yoshi,2,bracket,lf,2,5,
+2016,shine,barksanchez,tacos,pika,yoshi,2,bracket,lf,3,5,
+2016,shine,barksanchez,tacos,pika,yoshi,2,bracket,lf,4,5,
+2016,shine,superboomfan,tacos,kirby,pika,1,bracket,gf,1,5,
+2016,shine,superboomfan,tacos,dk,dk,1,bracket,gf,2,5,
+2016,shine,superboomfan,tacos,link,link,1,bracket,gf,3,5,
+2016,shine,mrsir,sunflower,samus,yoshi,1,pools,pools,1,3,
+2016,shine,mrsir,sunflower,samus,yoshi,2,pools,pools,2,3,
+2016,shine,mrsir,sunflower,samus,yoshi,1,pools,pools,3,3,
+2016,shine,nintendude,tyhiggz,fox,yoshi,1,bracket,top32,1,5,
+2016,shine,nintendude,tyhiggz,fox,yoshi,1,bracket,top32,2,5,
+2016,shine,nintendude,tyhiggz,fox,yoshi,1,bracket,top32,3,5,
+2016,shine,shears,madrush,yoshi,falcon,1,bracket,top32,1,5,
+2016,shine,shears,madrush,yoshi,kirby,2,bracket,top32,2,5,
+2016,shine,shears,madrush,yoshi,falcon,1,bracket,top32,3,5,
+2016,shine,shears,madrush,pika,falcon,2,bracket,top32,4,5,
+2016,shine,shears,madrush,yoshi,falcon,1,bracket,top32,5,5,
+2016,shine,sandman,tonester,kirby,pika,2,pools,pools,1,3,
+2016,shine,sandman,tonester,kirby,pika,2,pools,pools,2,3,
+2016,shine,thetits,atothez,pika,fox,1,pools,pools,1,3,
+2016,shine,thetits,atothez,pika,fox,2,pools,pools,2,3,
+2016,shine,thetits,atothez,pika,fox,2,pools,pools,3,3,
+2016,shine,karajan,barksanchez,fox,pika,2,bracket,top32,1,5,
+2016,shine,karajan,barksanchez,kirby,pika,2,bracket,top32,2,5,
+2016,shine,karajan,barksanchez,falcon,pika,2,bracket,top32,3,5,
+2016,shine,apparition,tyhiggz,falcon,yoshi,1,pools,pools,1,3,
+2016,shine,apparition,tyhiggz,falcon,yoshi,2,pools,pools,2,3,
+2016,shine,apparition,tyhiggz,falcon,yoshi,2,pools,pools,3,3,
+2016,shine,marbles,shihman,pika,falcon,1,bracket,top32,1,5,
+2016,shine,marbles,shihman,pika,falcon,2,bracket,top32,2,5,
+2016,shine,marbles,shihman,pika,falcon,1,bracket,top32,3,5,
+2016,shine,marbles,shihman,pika,falcon,1,bracket,top32,4,5,
+2016,shine,myninja,bear,mario,kirby,1,pools,pools,1,3,
+2016,shine,myninja,bear,mario,yoshi,1,pools,pools,2,3,
+2016,shine,fireblaster,henry935,yoshi,kirby,1,pools,pools,1,3,
+2016,shine,fireblaster,henry935,yoshi,kirby,1,pools,pools,2,3,
+2016,shine,razz,kevorkian,mario,mario,1,pools,pools,1,3,
+2016,shine,razz,kevorkian,mario,mario,1,pools,pools,2,3,
+2016,shine,goodguygrrg,superboomfan,falcon,fox,2,pools,pools,1,3,
+2016,shine,goodguygrrg,superboomfan,kirby,fox,2,pools,pools,2,3,
+2016,shine,marbles,greeno,pika,puff,1,pools,pools,1,3,
+2016,shine,marbles,greeno,pika,falcon,1,pools,pools,2,3,
+2016,shine,yunque,karajan,puff,fox,2,bracket,top32,1,5,
+2016,shine,yunque,karajan,puff,fox,2,bracket,top32,2,5,
+2016,shine,yunque,karajan,puff,fox,2,bracket,top32,3,5,
+2016,shine,barksanchez,shihman,pika,falcon,2,bracket,top32,1,5,
+2016,shine,barksanchez,shihman,pika,falcon,1,bracket,top32,2,5,
+2016,shine,barksanchez,shihman,pika,falcon,1,bracket,top32,3,5,
+2016,shine,barksanchez,shihman,pika,falcon,1,bracket,top32,4,5,
+2016,shine,madrush,gt,falcon,pika,1,pools,pools,1,3,
+2016,shine,madrush,gt,falcon,pika,1,pools,pools,2,3,
+2016,shine,fireblaster,shears,yoshi,pika,1,bracket,top32,1,5,
+2016,shine,fireblaster,shears,yoshi,pika,1,bracket,top32,2,5,
+2016,shine,fireblaster,shears,yoshi,pika,1,bracket,top32,3,5,
+2016,shine,yunque,llcstoism,puff,kirby,1,pools,pools,1,3,
+2016,shine,yunque,llcstoism,puff,kirby,1,pools,pools,2,3,
+2016,shine,esid,nintendude,kirby,fox,2,pools,pools,1,3,
+2016,shine,esid,nintendude,kirby,fox,2,pools,pools,2,3,
+2016,shine,purtle,shihman,falcon,falcon,2,pools,pools,1,3,
+2016,shine,purtle,shihman,falcon,falcon,2,pools,pools,2,3,
+2016,shine,myninja,zuko,mario,link,2,pools,pools,1,3,
+2016,shine,myninja,zuko,falcon,luigi,2,pools,pools,2,3,
+2016,shine,macintosh,barksanchez,falcon,fox,2,pools,pools,1,3,
+2016,shine,macintosh,barksanchez,puff,fox,2,pools,pools,2,3,
+2016,shine,karajan,kaz,fox,pika,1,pools,pools,1,3,
+2016,shine,karajan,kaz,kirby,pika,1,pools,pools,2,3,
+2016,shine,shears,zyrg,yoshi,pika,1,pools,pools,1,3,
+2016,shine,shears,zyrg,yoshi,pika,1,pools,pools,2,3,
+2016,shine,nuro,mechanicalmarine,pika,fox,1,pools,pools,1,3,
+2016,shine,nuro,mechanicalmarine,pika,pika,1,pools,pools,2,3,
+2016,shine,scoback,shears,puff,pika,2,bracket,top32,1,5,
+2016,shine,scoback,shears,puff,pika,2,bracket,top32,2,5,
+2016,shine,scoback,shears,puff,pika,2,bracket,top32,3,5,
+2016,shine,marbles,superboomfan,pika,puff,2,bracket,top32,1,5,
+2016,shine,marbles,superboomfan,pika,puff,2,bracket,top32,2,5,
+2016,shine,marbles,superboomfan,pika,puff,2,bracket,top32,3,5,
+2016,shine,tacos,nintendude,yoshi,fox,1,bracket,top32,1,5,
+2016,shine,tacos,nintendude,yoshi,fox,1,bracket,top32,2,5,
+2016,shine,tacos,nintendude,yoshi,fox,1,bracket,top32,3,5,
+2016,shine,mello,tacos,fox,yoshi,2,pools,pools,1,3,
+2016,shine,mello,tacos,fox,dk,2,pools,pools,2,3,
+2016,shine,scoback,maestro,ness,fox,1,pools,pools,1,3,
+2016,shine,scoback,maestro,puff,ness,1,pools,pools,2,3,
+2016,apex,stranded,starking,pika,kirby,2,bracket,ws,1,5,
+2016,apex,stranded,starking,pika,kirby,1,bracket,ws,2,5,
+2016,apex,stranded,starking,pika,kirby,1,bracket,ws,3,5,
+2016,apex,stranded,starking,pika,kirby,1,bracket,ws,4,5,
+2016,apex,cobr,fireblaster,kirby,yoshi,2,bracket,ws,1,5,
+2016,apex,cobr,fireblaster,kirby,yoshi,2,bracket,ws,2,5,
+2016,apex,cobr,fireblaster,falcon,yoshi,1,bracket,ws,3,5,
+2016,apex,cobr,fireblaster,falcon,mario,1,bracket,ws,4,5,
+2016,apex,cobr,fireblaster,kirby,yoshi,1,bracket,ws,5,5,
+2016,apex,sedda,nta,fox,falcon,1,bracket,top8,1,5,
+2016,apex,sedda,nta,fox,mario,2,bracket,top8,2,5,
+2016,apex,sedda,nta,fox,mario,2,bracket,top8,3,5,
+2016,apex,sedda,nta,fox,mario,1,bracket,top8,4,5,
+2016,apex,sedda,nta,fox,mario,2,bracket,top8,5,5,
+2016,apex,zeppelin,dfx,falcon,fox,2,bracket,top8,1,5,
+2016,apex,zeppelin,dfx,falcon,fox,2,bracket,top8,2,5,
+2016,apex,zeppelin,dfx,pika,fox,2,bracket,top8,3,5,
+2016,apex,nta,starking,samus,kirby,2,bracket,top8,1,5,
+2016,apex,nta,starking,samus,kirby,2,bracket,top8,2,5,
+2016,apex,nta,starking,falcon,kirby,2,bracket,top8,3,5,
+2016,apex,cobr,dfx,kirby,fox,1,bracket,top8,1,5,
+2016,apex,cobr,dfx,kirby,fox,1,bracket,top8,2,5,
+2016,apex,cobr,dfx,kirby,pika,1,bracket,top8,3,5,
+2016,apex,fireblaster,stranded,yoshi,pika,1,bracket,wf,1,5,
+2016,apex,fireblaster,stranded,yoshi,falcon,2,bracket,wf,2,5,
+2016,apex,fireblaster,stranded,yoshi,pika,2,bracket,wf,3,5,
+2016,apex,fireblaster,stranded,yoshi,kirby,2,bracket,wf,4,5,
+2016,apex,fireblaster,starking,yoshi,kirby,2,bracket,lf,1,5,
+2016,apex,fireblaster,starking,yoshi,kirby,2,bracket,lf,2,5,
+2016,apex,fireblaster,starking,yoshi,kirby,2,bracket,lf,3,5,
+2016,apex,stranded,starking,pika,kirby,1,bracket,gf,1,5,
+2016,apex,stranded,starking,pika,kirby,1,bracket,gf,2,5,
+2016,apex,stranded,starking,pika,kirby,1,bracket,gf,3,5,
+2016,apex,mrsir,maliki,samus,falcon,1,bracket,top32,1,3,
+2016,apex,mrsir,maliki,samus,pika,2,bracket,top32,2,3,
+2016,apex,mrsir,maliki,samus,pika,1,bracket,top32,3,3,
+2016,apex,bp,ctg,yoshi,puff,2,bracket,top32,1,3,
+2016,apex,bp,ctg,yoshi,puff,2,bracket,top32,2,3,
+2016,apex,stranded,sedda,pika,fox,1,bracket,wq,1,3,
+2016,apex,stranded,sedda,dk,dk,1,bracket,wq,2,3,
+2016,apex,ctg,starking,puff,fox,2,bracket,wq,1,3,
+2016,apex,ctg,starking,puff,samus,2,bracket,wq,2,3,
+2016,apex,dfx,fireblaster,fox,yoshi,2,bracket,wq,1,3,
+2016,apex,dfx,fireblaster,falcon,yoshi,1,bracket,wq,2,3,
+2016,apex,dfx,fireblaster,falcon,mario,2,bracket,wq,3,3,
+2016,apex,mrsir,cobr,samus,samus,2,bracket,wq,1,3,
+2016,apex,mrsir,cobr,samus,samus,2,bracket,wq,2,3,
+2016,apex,dount,bonerstorm,fox,yoshi,1,bracket,top32,1,3,
+2016,apex,dount,bonerstorm,fox,puff,1,bracket,top32,2,3,
+2016,apex,nta,kelvinheit,pika,mario,1,bracket,top16,1,3,
+2016,apex,nta,kelvinheit,pika,falcon,2,bracket,top16,2,3,
+2016,apex,nta,kelvinheit,pika,mario,1,bracket,top16,3,3,
+2016,apex,zeppelin,jamjar,falcon,kirby,1,bracket,top32,1,3,
+2016,apex,zeppelin,jamjar,falcon,kirby,1,bracket,top32,2,3,
+2016,apex,dfx,bp,falcon,yoshi,1,bracket,top16,1,3,
+2016,apex,dfx,bp,falcon,yoshi,2,bracket,top16,2,3,
+2016,apex,dfx,bp,falcon,yoshi,1,bracket,top16,3,3,
+2016,apex,ctg,nta,puff,falcon,2,bracket,top16,1,3,
+2016,apex,ctg,nta,puff,falcon,2,bracket,top16,1,3,
+2016,apex,zeppelin,mrsir,falcon,samus,1,bracket,top16,1,3,
+2016,apex,zeppelin,mrsir,falcon,samus,1,bracket,top16,2,3,
+2016,apex,maliki,sedda,pika,fox,2,bracket,top16,1,3,
+2016,apex,maliki,sedda,falcon,fox,2,bracket,top16,2,3,
+2016,summit,barksanchez,revan,pika,kirby,1,bracket,gf,1,5,
+2016,summit,barksanchez,revan,pika,kirby,1,bracket,gf,2,5,
+2016,summit,barksanchez,revan,pika,kirby,2,bracket,gf,3,5,
+2016,summit,barksanchez,revan,pika,kirby,2,bracket,gf,4,5,
+2016,summit,barksanchez,revan,pika,kirby,2,bracket,gf,5,5,
+2016,summit,barksanchez,ybombb,pika,falcon,1,bracket,lf,1,5,
+2016,summit,barksanchez,ybombb,pika,falcon,1,bracket,lf,2,5,
+2016,summit,barksanchez,ybombb,pika,yoshi,2,bracket,lf,3,5,
+2016,summit,barksanchez,ybombb,pika,yoshi,1,bracket,lf,4,5,
+2016,summit,ybombb,preston,puff,kirby,1,bracket,ls,1,5,
+2016,summit,ybombb,preston,puff,kirby,1,bracket,ls,2,5,
+2016,summit,ybombb,preston,yoshi,kirby,1,bracket,ls,3,5,
+2016,summit,barksanchez,revan,pika,kirby,1,bracket,wf,1,5,
+2016,summit,barksanchez,revan,pika,kirby,2,bracket,wf,2,5,
+2016,summit,barksanchez,revan,pika,kirby,2,bracket,wf,3,5,
+2016,summit,barksanchez,revan,pika,kirby,2,bracket,wf,4,5,
+2016,summit,janco,preston,pika,kirby,2,bracket,lq,1,5,
+2016,summit,janco,preston,pika,kirby,2,bracket,lq,2,5,
+2016,summit,janco,preston,kirby,kirby,2,bracket,lq,3,5,
+2016,summit,ybombb,thebigd,puff,pika,2,bracket,lq,1,5,
+2016,summit,ybombb,thebigd,falcon,pika,1,bracket,lq,2,5,
+2016,summit,ybombb,thebigd,falcon,kirby,1,bracket,lq,3,5,
+2016,summit,ybombb,thebigd,falcon,kirby,2,bracket,lq,4,5,
+2016,summit,ybombb,thebigd,falcon,pika,1,bracket,lq,5,5,
+2016,summit,rizner,ybombb,kirby,puff,2,bracket,lq,1,3,
+2016,summit,rizner,ybombb,kirby,puff,2,bracket,lq,2,3,
+2016,summit,janco,barksanchez,pika,pika,2,bracket,ws,1,5,
+2016,summit,janco,barksanchez,pika,pika,2,bracket,ws,2,5,
+2016,summit,janco,barksanchez,kirby,falcon,2,bracket,ws,3,5,
+2016,summit,revan,thebigd,kirby,pika,1,bracket,ws,1,5,
+2016,summit,revan,thebigd,kirby,pika,1,bracket,ws,2,5,
+2016,summit,revan,thebigd,kirby,pika,1,bracket,ws,3,5,
+2016,summit,vanillarin,preston,kirby,kirby,2,bracket,top16,1,3,
+2016,summit,vanillarin,preston,kirby,mario,2,bracket,top16,2,3,
+2016,summit,fckvwls,hotspank,falcon,puff,1,bracket,top16,1,3,
+2016,summit,fckvwls,hotspank,falcon,falcon,1,bracket,top16,2,3,
+2016,summit,sax,rizner,falcon,kirby,2,bracket,top16,1,3,
+2016,summit,sax,rizner,mario,kirby,2,bracket,top16,2,3,
+2016,summit,sextc,ybombb,fox,falcon,2,bracket,top16,1,3,
+2016,summit,sextc,ybombb,falcon,falcon,2,bracket,top16,2,3,
+2016,summit,sax,barksanchez,falcon,pika,2,bracket,top16,1,3,
+2016,summit,sax,barksanchez,falcon,pika,2,bracket,top16,2,3,
+2016,summit,janco,ybombb,kirby,yoshi,1,bracket,top16,1,3,
+2016,summit,janco,ybombb,pika,falcon,2,bracket,top16,2,3,
+2016,summit,janco,ybombb,pika,puff,1,bracket,top16,3,3,
+2016,summit,fckvwls,thebigd,falcon,kirby,2,bracket,top16,1,3,
+2016,summit,fckvwls,thebigd,falcon,kirby,2,bracket,top16,2,3,
+2016,summit,preston,revan,kirby,kirby,2,bracket,top16,1,3,
+2016,summit,preston,revan,kirby,kirby,2,bracket,top16,2,3,
+2016,summit,vanillarin,barksanchez,kirby,pika,2,bracket,top32,1,3,
+2016,summit,vanillarin,barksanchez,kirby,falcon,2,bracket,top32,2,3,
+2016,summit,rizner,preston,kirby,kirby,2,bracket,top32,1,3,
+2016,summit,rizner,preston,kirby,kirby,2,bracket,top32,2,3,
+2016,summit,polarbair,reckless,mario,falcon,1,bracket,top32,1,3,
+2016,summit,polarbair,reckless,mario,falcon,2,bracket,top32,2,3,
+2016,summit,polarbair,reckless,mario,falcon,2,bracket,top32,3,3,
+2016,superboomed,revan,alvin,kirby,pika,2,bracket,wq,1,3,
+2016,superboomed,revan,alvin,kirby,pika,2,bracket,wq,2,3,
+2016,superboomed,firo,thez,ness,fox,1,bracket,wq,1,3,
+2016,superboomed,firo,thez,ness,fox,1,bracket,wq,2,3,
+2016,superboomed,mariguas,alvin,pika,falcon,1,bracket,gf,1,5,
+2016,superboomed,mariguas,alvin,pika,falcon,2,bracket,gf,2,5,
+2016,superboomed,mariguas,alvin,pika,falcon,2,bracket,gf,3,5,
+2016,superboomed,mariguas,alvin,kirby,falcon,1,bracket,gf,4,5,
+2016,superboomed,mariguas,alvin,pika,falcon,2,bracket,gf,5,5,
+2016,superboomed,mariguas,alvin,pika,falcon,2,bracket,gf2,1,5,
+2016,superboomed,mariguas,alvin,pika,falcon,2,bracket,gf2,2,5,
+2016,superboomed,mariguas,alvin,pika,falcon,2,bracket,gf2,3,5,
+2016,superboomed,alvin,superboomfan,pika,kirby,2,bracket,lf,1,5,
+2016,superboomed,alvin,superboomfan,pika,kirby,1,bracket,lf,2,5,
+2016,superboomed,alvin,superboomfan,pika,yoshi,1,bracket,lf,3,5,
+2016,superboomed,alvin,superboomfan,pika,kirby,2,bracket,lf,4,5,
+2016,superboomed,alvin,superboomfan,pika,kirby,1,bracket,lf,5,5,
+2016,superboomed,revan,superboomfan,kirby,pika,2,bracket,ls,1,5,
+2016,superboomed,revan,superboomfan,kirby,pika,2,bracket,ls,2,5,
+2016,superboomed,revan,superboomfan,kirby,pika,2,bracket,ls,3,5,
+2016,superboomed,mariguas,alvin,pika,pika,1,bracket,wf,1,5,
+2016,superboomed,mariguas,alvin,pika,falcon,2,bracket,wf,2,5,
+2016,superboomed,mariguas,alvin,pika,falcon,1,bracket,wf,3,5,
+2016,superboomed,mariguas,alvin,pika,pika,1,bracket,wf,4,5,
+2016,superboomed,thez,superboomfan,fox,pika,2,bracket,lq,1,5,
+2016,superboomed,thez,superboomfan,fox,pika,2,bracket,lq,2,5,
+2016,superboomed,thez,superboomfan,fox,pika,2,bracket,lq,3,5,
+2016,superboomed,revan,firo,kirby,link,1,bracket,lq,1,5,
+2016,superboomed,revan,firo,kirby,ness,1,bracket,lq,2,5,
+2016,superboomed,revan,firo,kirby,yoshi,1,bracket,lq,3,5,
+2016,superboomed,handsometom,thez,kirby,fox,2,bracket,top8,1,5,
+2016,superboomed,handsometom,thez,kirby,fox,1,bracket,top8,2,5,
+2016,superboomed,handsometom,thez,kirby,fox,2,bracket,top8,3,5,
+2016,superboomed,handsometom,thez,kirby,fox,2,bracket,top8,4,5,
+2016,superboomed,revan,fireblaster,kirby,yoshi,1,bracket,top8,1,5,
+2016,superboomed,revan,fireblaster,kirby,yoshi,1,bracket,top8,2,5,
+2016,superboomed,revan,fireblaster,kirby,yoshi,1,bracket,top8,3,5,
+2016,superboomed,handsometom,cobr,kirby,samus,2,bracket,top16,1,3,
+2016,superboomed,handsometom,cobr,kirby,samus,1,bracket,top16,2,3,
+2016,superboomed,handsometom,cobr,kirby,samus,1,bracket,top16,3,3,
+2016,superboomed,alvin,superboomfan,pika,falcon,1,bracket,ws,1,5,
+2016,superboomed,alvin,superboomfan,pika,falcon,2,bracket,ws,2,5,
+2016,superboomed,alvin,superboomfan,falcon,falcon,1,bracket,ws,3,5,
+2016,superboomed,alvin,superboomfan,pika,falcon,1,bracket,ws,4,5,
+2016,superboomed,firo,mariguas,ness,pika,2,bracket,ws,1,5,
+2016,superboomed,firo,mariguas,ness,pika,2,bracket,ws,2,5,
+2016,superboomed,firo,mariguas,ness,pika,2,bracket,ws,3,5,
+2016,superboomed,shears,superboomfan,pika,falcon,2,bracket,wq,1,3,
+2016,superboomed,shears,superboomfan,yoshi,falcon,2,bracket,wq,2,3,
+2016,superboomed,handsometom,mariguas,kirby,pika,2,bracket,wq,1,3,
+2016,superboomed,handsometom,mariguas,kirby,pika,2,bracket,wq,2,3,
+2016,superboomed,firo,robert,link,pika,2,bracket,top32,1,3,
+2016,superboomed,firo,robert,ness,pika,1,bracket,top32,2,3,
+2016,superboomed,firo,robert,ness,kirby,1,bracket,top32,3,3,
+2016,superboomed,revan,lowww,kirby,pika,1,bracket,top32,1,3,
+2016,superboomed,revan,lowww,kirby,pika,1,bracket,top32,2,3,
+2016,superboomed,fireblaster,handsometom,yoshi,kirby,1,bracket,top32,1,3,
+2016,superboomed,fireblaster,handsometom,yoshi,kirby,2,bracket,top32,2,3,
+2016,superboomed,fireblaster,handsometom,yoshi,kirby,2,bracket,top32,3,3,
+2016,superboomed,shears,jimmyjoe,pika,pika,1,bracket,top32,1,3,
+2016,superboomed,shears,jimmyjoe,pika,pika,1,bracket,top32,2,3,
+2016,superboomed,darkgentleman,captainfabulous,puff,falcon,1,bracket,top32,1,3,
+2016,superboomed,darkgentleman,captainfabulous,puff,falcon,1,bracket,top32,2,3,
+2016,superboomed,lowww,smashjesus,falcon,falcon,1,bracket,top32,1,3,
+2016,superboomed,lowww,smashjesus,fox,falcon,1,bracket,top32,2,3,
+2016,superboomed,jimmyjoe,robert,pika,pika,2,pools,pools,1,3,
+2016,superboomed,jimmyjoe,robert,puff,pika,2,pools,pools,2,3,
+2016,superboomed,sunnyb,shears,pika,yoshi,2,pools,pools,1,3,
+2016,superboomed,sunnyb,shears,pika,pika,1,pools,pools,2,3,
+2016,superboomed,sunnyb,shears,pika,pika,2,pools,pools,3,3,
+2016,superboomed,dfx,captainfabulous,falcon,falcon,1,pools,pools,1,3,
+2016,superboomed,dfx,captainfabulous,falcon,falcon,2,pools,pools,2,3,
+2016,superboomed,dfx,captainfabulous,fox,falcon,2,pools,pools,3,3,
+2016,superboomed,lowww,yobolight,fox,yoshi,1,pools,pools,1,3,
+2016,superboomed,lowww,yobolight,fox,yoshi,1,pools,pools,2,3,
+2016,superboomed,superboomfan,subtle,falcon,kirby,1,pools,pools,1,3,
+2016,superboomed,superboomfan,subtle,falcon,kirby,1,pools,pools,2,3,
+2016,superboomed,revan,bread,falcon,kirby,1,pools,pools,1,3,
+2016,superboomed,revan,bread,yoshi,kirby,1,pools,pools,2,3,
+2016,superboomed,fireblaster,horbie,yoshi,kirby,1,pools,pools,1,3,
+2016,superboomed,fireblaster,horbie,yoshi,kirby,1,pools,pools,2,3,
+2016,superboomed,mariguas,gildo,pika,kirby,1,pools,pools,1,3,
+2016,superboomed,mariguas,gildo,pika,kirby,1,pools,pools,2,3,
+2016,superboomed,greeno,thez,puff,fox,2,pools,pools,1,3,
+2016,superboomed,greeno,thez,puff,fox,2,pools,pools,2,3,
+2016,superboomed,jamjar,alvin,kirby,pika,2,pools,pools,1,3,
+2016,superboomed,jamjar,alvin,kirby,pika,2,pools,pools,2,3,
+2016,bossbattle2,superboomfan,annex,pika,dk,1,pools,pools,1,3,
+2016,bossbattle2,superboomfan,annex,pika,samus,1,pools,pools,2,3,
+2016,bossbattle2,komotonoto,fumbles,yoshi,yoshi,2,pools,pools,1,3,
+2016,bossbattle2,komotonoto,fumbles,falcon,yoshi,2,pools,pools,2,3,
+2016,bossbattle2,josephzander,scoback,falcon,ness,2,pools,pools,1,3,
+2016,bossbattle2,josephzander,scoback,falcon,ness,2,pools,pools,2,3,
+2016,bossbattle2,lorenzo,atothez,dk,falcon,1,pools,pools,1,3,
+2016,bossbattle2,lorenzo,atothez,dk,falcon,1,pools,pools,2,3,
+2016,bossbattle2,vinsanity,limesoda,fox,falcon,1,pools,pools,1,3,
+2016,bossbattle2,vinsanity,limesoda,fox,falcon,1,pools,pools,2,3,
+2016,bossbattle2,fishamanp,janitor,falcon,yoshi,2,pools,pools,1,3,
+2016,bossbattle2,fishamanp,janitor,falcon,falcon,1,pools,pools,2,3,
+2016,bossbattle2,fishamanp,janitor,falcon,mario,2,pools,pools,3,3,
+2016,bossbattle2,ctg,professorwizard,puff,kirby,1,pools,pools,1,3,
+2016,bossbattle2,ctg,professorwizard,puff,kirby,1,pools,pools,2,3,
+2016,bossbattle2,jamjar,hipstur,kirby,fox,2,pools,pools,1,3,
+2016,bossbattle2,jamjar,hipstur,kirby,fox,2,pools,pools,2,3,
+2016,bossbattle2,onski,dtan,kirby,kirby,2,pools,pools,1,3,
+2016,bossbattle2,onski,dtan,kirby,kirby,2,pools,pools,2,3,
+2016,bossbattle2,zantetsu,dogsjohnson,pika,falcon,2,pools,pools,1,3,
+2016,bossbattle2,zantetsu,dogsjohnson,pika,falcon,1,pools,pools,2,3,
+2016,bossbattle2,zantetsu,dogsjohnson,pika,falcon,1,pools,pools,3,3,
+2016,bossbattle2,whitejesus,battlecow,pika,pika,2,pools,pools,1,3,
+2016,bossbattle2,whitejesus,battlecow,pika,pika,2,pools,pools,2,3,
+2016,bossbattle2,darkhorse,piratetrips,puff,falcon,1,pools,pools,1,3,
+2016,bossbattle2,darkhorse,piratetrips,puff,falcon,1,pools,pools,2,3,
+2016,bossbattle2,pugs,deathcpo,pika,pika,1,pools,pools,1,3,
+2016,bossbattle2,pugs,deathcpo,pika,pika,1,pools,pools,2,3,
+2016,bossbattle2,scoback,superboomfan,ness,pika,2,bracket,top32,1,3,
+2016,bossbattle2,scoback,superboomfan,ness,pika,2,bracket,top32,2,3,
+2016,bossbattle2,shears,tyhiggz,pika,yoshi,2,bracket,top32,1,3,
+2016,bossbattle2,shears,tyhiggz,pika,yoshi,1,bracket,top32,2,3,
+2016,bossbattle2,shears,tyhiggz,pika,yoshi,2,bracket,top32,3,3,
+2016,bossbattle2,vinsanity,onski,fox,kirby,1,bracket,top32,1,3,
+2016,bossbattle2,vinsanity,onski,fox,kirby,1,bracket,top32,2,3,
+2016,bossbattle2,comboblaze,lorenzo,falcon,dk,1,bracket,top32,1,3,
+2016,bossbattle2,comboblaze,lorenzo,falcon,dk,2,bracket,top32,2,3,
+2016,bossbattle2,comboblaze,lorenzo,falcon,dk,1,bracket,top32,3,3,
+2016,bossbattle2,comboblaze,vinsanity,falcon,fox,2,bracket,top32,1,3,
+2016,bossbattle2,comboblaze,vinsanity,falcon,fox,1,bracket,top32,2,3,
+2016,bossbattle2,comboblaze,vinsanity,falcon,fox,2,bracket,top32,3,3,
+2016,bossbattle2,superboomfan,zantetsu,pika,falcon,1,bracket,top32,1,3,
+2016,bossbattle2,superboomfan,zantetsu,pika,pika,1,bracket,top32,2,3,
+2016,bossbattle2,fumbles,lorenzo,yoshi,dk,1,bracket,top32,1,5,
+2016,bossbattle2,fumbles,lorenzo,yoshi,dk,2,bracket,top32,2,5,
+2016,bossbattle2,fumbles,lorenzo,yoshi,dk,2,bracket,top32,3,5,
+2016,bossbattle2,fumbles,lorenzo,yoshi,dk,2,bracket,top32,4,5,
+2016,bossbattle2,lorenzo,fireblaster,dk,yoshi,2,bracket,top8,1,5,
+2016,bossbattle2,lorenzo,fireblaster,dk,mario,2,bracket,top8,2,5,
+2016,bossbattle2,lorenzo,fireblaster,dk,yoshi,1,bracket,top8,3,5,
+2016,bossbattle2,lorenzo,fireblaster,dk,yoshi,2,bracket,top8,4,5,
+2016,bossbattle2,shears,zantetsu,yoshi,falcon,1,bracket,top8,1,5,
+2016,bossbattle2,shears,zantetsu,yoshi,falcon,1,bracket,top8,2,5,
+2016,bossbattle2,shears,zantetsu,yoshi,falcon,1,bracket,top8,3,5,
+2016,bossbattle2,fumbles,dtan,yoshi,kirby,2,bracket,wq,1,5,
+2016,bossbattle2,fumbles,dtan,yoshi,kirby,2,bracket,wq,2,5,
+2016,bossbattle2,fumbles,dtan,yoshi,kirby,2,bracket,wq,3,5,
+2016,bossbattle2,barksanchez,fishamanp,pika,falcon,1,bracket,wq,1,5,
+2016,bossbattle2,barksanchez,fishamanp,pika,falcon,1,bracket,wq,2,5,
+2016,bossbattle2,barksanchez,fishamanp,pika,falcon,1,bracket,wq,3,5,
+2016,bossbattle2,marbles,kerokeroppi,pika,pika,2,bracket,wq,1,5,
+2016,bossbattle2,marbles,kerokeroppi,pika,pika,2,bracket,wq,2,5,
+2016,bossbattle2,marbles,kerokeroppi,pika,pika,2,bracket,wq,3,5,
+2016,bossbattle2,superboomfan,vinsanity,pika,fox,1,bracket,wq,1,5,
+2016,bossbattle2,superboomfan,vinsanity,pika,fox,1,bracket,wq,2,5,
+2016,bossbattle2,superboomfan,vinsanity,pika,fox,1,bracket,wq,3,5,
+2016,bossbattle2,kerokeroppi,barksanchez,pika,pika,1,bracket,ws,1,5,
+2016,bossbattle2,kerokeroppi,barksanchez,pika,pika,1,bracket,ws,2,5,
+2016,bossbattle2,kerokeroppi,barksanchez,pika,pika,1,bracket,ws,3,5,
+2016,bossbattle2,dtan,superboomfan,kirby,pika,2,bracket,ws,1,5,
+2016,bossbattle2,dtan,superboomfan,kirby,pika,2,bracket,ws,2,5,
+2016,bossbattle2,dtan,superboomfan,kirby,pika,2,bracket,ws,3,5,
+2016,bossbattle2,fireblaster,barksanchez,yoshi,pika,1,bracket,top8,1,5,
+2016,bossbattle2,fireblaster,barksanchez,yoshi,pika,2,bracket,top8,2,5,
+2016,bossbattle2,fireblaster,barksanchez,yoshi,pika,2,bracket,top8,3,5,
+2016,bossbattle2,fireblaster,barksanchez,pika,pika,2,bracket,top8,4,5,
+2016,bossbattle2,dtan,shears,kirby,yoshi,1,bracket,top8,1,5,
+2016,bossbattle2,dtan,shears,kirby,pika,1,bracket,top8,2,5,
+2016,bossbattle2,dtan,shears,kirby,yoshi,1,bracket,top8,3,5,
+2016,bossbattle2,barksanchez,dtan,pika,kirby,2,bracket,ls,1,5,
+2016,bossbattle2,barksanchez,dtan,pika,kirby,2,bracket,ls,2,5,
+2016,bossbattle2,barksanchez,dtan,pika,kirby,2,bracket,ls,3,5,
+2016,bossbattle2,kerokeroppi,superboomfan,pika,pika,1,bracket,wf,1,5,
+2016,bossbattle2,kerokeroppi,superboomfan,pika,pika,2,bracket,wf,2,5,
+2016,bossbattle2,kerokeroppi,superboomfan,pika,pika,2,bracket,wf,3,5,
+2016,bossbattle2,kerokeroppi,superboomfan,pika,pika,2,bracket,wf,4,5,
+2016,bossbattle2,dtan,kerokeroppi,kirby,pika,2,bracket,lf,1,5,
+2016,bossbattle2,dtan,kerokeroppi,kirby,pika,1,bracket,lf,2,5,
+2016,bossbattle2,dtan,kerokeroppi,kirby,pika,2,bracket,lf,3,5,
+2016,bossbattle2,dtan,kerokeroppi,kirby,pika,2,bracket,lf,4,5,
+2016,bossbattle2,kerokeroppi,superboomfan,pika,pika,2,bracket,gf,1,5,
+2016,bossbattle2,kerokeroppi,superboomfan,pika,pika,2,bracket,gf,2,5,
+2016,bossbattle2,kerokeroppi,superboomfan,pika,pika,2,bracket,gf,3,5,
+2016,dpotg,mariguas,superboomfan,pika,pika,2,bracket,gf,1,5,
+2016,dpotg,mariguas,superboomfan,falcon,pika,2,bracket,gf,2,5,
+2016,dpotg,mariguas,superboomfan,pika,pika,2,bracket,gf,3,5,
+2016,dpotg,mariguas,wizzrobe,pika,yoshi,1,bracket,lf,1,5,
+2016,dpotg,mariguas,wizzrobe,pika,yoshi,1,bracket,lf,2,5,
+2016,dpotg,mariguas,wizzrobe,pika,yoshi,1,bracket,lf,3,5,
+2016,dpotg,barksanchez,wizzrobe,pika,yoshi,2,bracket,ls,1,5,
+2016,dpotg,barksanchez,wizzrobe,pika,yoshi,2,bracket,ls,2,5,
+2016,dpotg,barksanchez,wizzrobe,pika,yoshi,2,bracket,ls,3,5,
+2016,dpotg,mariguas,superboomfan,pika,pika,2,bracket,wf,1,5,
+2016,dpotg,mariguas,superboomfan,pika,pika,2,bracket,wf,2,5,
+2016,dpotg,mariguas,superboomfan,pika,pika,2,bracket,wf,3,5,
+2016,dpotg,wizzrobe,mariguas,yoshi,pika,2,bracket,ws,1,5,
+2016,dpotg,wizzrobe,mariguas,yoshi,pika,2,bracket,ws,2,5,
+2016,dpotg,wizzrobe,mariguas,yoshi,pika,1,bracket,ws,3,5,
+2016,dpotg,wizzrobe,mariguas,yoshi,pika,2,bracket,ws,4,5,
+2016,dpotg,fireblaster,barksanchez,yoshi,pika,2,bracket,wq,1,5,
+2016,dpotg,fireblaster,barksanchez,yoshi,pika,1,bracket,wq,2,5,
+2016,dpotg,fireblaster,barksanchez,yoshi,pika,1,bracket,wq,3,5,
+2016,dpotg,fireblaster,barksanchez,yoshi,pika,2,bracket,wq,4,5,
+2016,dpotg,fireblaster,barksanchez,yoshi,pika,2,bracket,wq,5,5,
+2016,dpotg,prime,frogge,fox,falcon,1,pools,pools,1,3,
+2016,dpotg,prime,frogge,fox,pika,1,pools,pools,2,3,
+2016,dpotg,barron,wizzrobe,pika,yoshi,2,pools,pools,1,3,
+2016,dpotg,barron,wizzrobe,pika,yoshi,2,pools,pools,2,3,
+2016,dpotg,dankeykang,barksanchez,kirby,pika,2,pools,pools,1,3,
+2016,dpotg,dankeykang,barksanchez,kirby,dk,2,pools,pools,2,3,
+2016,dpotg,touque,javaboy,pika,ness,1,pools,pools,1,3,
+2016,dpotg,touque,javaboy,falcon,yoshi,1,pools,pools,2,3,
+2016,dpotg,alacarte,barksanchez,falcon,pika,2,pools,pools,1,3,
+2016,dpotg,alacarte,barksanchez,fox,yoshi,2,pools,pools,2,3,
+2016,dpotg,gt,madrush,pika,falcon,2,pools,pools,1,3,
+2016,dpotg,gt,madrush,pika,falcon,2,pools,pools,2,3,
+2016,dpotg,pluto,darkneon,falcon,puff,2,pools,pools,1,3,
+2016,dpotg,pluto,darkneon,pika,puff,2,pools,pools,2,3,
+2016,dpotg,supa,touque,falcon,pika,1,pools,pools,1,3,
+2016,dpotg,supa,touque,falcon,pika,1,pools,pools,2,3,
+2016,dpotg,bon,darkneon,pika,puff,1,pools,pools,1,3,
+2016,dpotg,bon,darkneon,kirby,puff,2,pools,pools,2,3,
+2016,dpotg,bon,darkneon,pika,puff,1,pools,pools,3,3,
+2016,dpotg,prime,heropie,yoshi,dk,2,pools,pools,1,3,
+2016,dpotg,prime,heropie,yoshi,dk,2,pools,pools,2,3,
+2016,dpotg,barksanchez,shanks,pika,falcon,1,pools,pools,1,3,
+2016,dpotg,barksanchez,shanks,yoshi,falcon,1,pools,pools,2,3,
+2016,dpotg,mariguas,smurf,mario,pika,1,pools,pools,1,3,
+2016,dpotg,mariguas,smurf,pika,pika,1,pools,pools,2,3,
+2016,dpotg,bon,wizzrobe,pika,yoshi,2,pools,pools,1,3,
+2016,dpotg,bon,wizzrobe,yoshi,yoshi,2,pools,pools,2,3,
+2016,dpotg,connor,heropie,pika,pika,2,pools,pools,1,3,
+2016,dpotg,connor,heropie,pika,pika,2,pools,pools,2,3,
+2016,dpotg,letsgo,jason,fox,falcon,2,pools,pools,1,3,
+2016,dpotg,letsgo,jason,fox,falcon,1,pools,pools,2,3,
+2016,dpotg,letsgo,jason,fox,falcon,1,pools,pools,3,3,
+2016,dpotg,mariguas,captainl,pika,fox,1,pools,pools,1,3,
+2016,dpotg,mariguas,captainl,pika,fox,1,pools,pools,2,3,
+2016,dpotg,supa,fireblaster,falcon,mario,2,pools,pools,1,3,
+2016,dpotg,supa,fireblaster,fox,mario,2,pools,pools,2,3,
+2016,dpotg,madrush,superboomfan,falcon,falcon,2,pools,pools,1,3,
+2016,dpotg,madrush,superboomfan,falcon,falcon,2,pools,pools,2,3,
+2016,dpotg,connor,bon,pika,pika,1,bracket,top16,1,5,
+2016,dpotg,connor,bon,pika,pika,1,bracket,top16,2,5,
+2016,dpotg,connor,bon,pika,pika,2,bracket,top16,3,5,
+2016,dpotg,connor,bon,pika,pika,1,bracket,top16,4,5,
+2016,dpotg,mojomonkey,captainl,falcon,fox,1,bracket,top16,1,5,
+2016,dpotg,mojomonkey,captainl,falcon,fox,1,bracket,top16,2,5,
+2016,dpotg,mojomonkey,captainl,falcon,fox,2,bracket,top16,3,5,
+2016,dpotg,mojomonkey,captainl,falcon,fox,1,bracket,top16,4,5,
+2016,dpotg,connor,fireblaster,pika,yoshi,2,bracket,top16,1,5,
+2016,dpotg,connor,fireblaster,pika,yoshi,1,bracket,top16,2,5,
+2016,dpotg,connor,fireblaster,pika,yoshi,2,bracket,top16,3,5,
+2016,dpotg,connor,fireblaster,pika,yoshi,2,bracket,top16,4,5,
+2016,dpotg,heropie,jason,fox,falcon,1,bracket,top16,1,5,
+2016,dpotg,heropie,jason,fox,kirby,1,bracket,top16,2,5,
+2016,dpotg,heropie,jason,fox,falcon,1,bracket,top16,3,5,
+2016,dpotg,mojomonkey,letsgo,falcon,fox,1,bracket,top16,1,5,
+2016,dpotg,mojomonkey,letsgo,falcon,fox,2,bracket,top16,2,5,
+2016,dpotg,mojomonkey,letsgo,falcon,fox,1,bracket,top16,3,5,
+2016,dpotg,mojomonkey,letsgo,falcon,pika,1,bracket,top16,4,5,
+2016,dpotg,madrush,nintendude,falcon,fox,2,bracket,top16,1,5,
+2016,dpotg,madrush,nintendude,falcon,fox,1,bracket,top16,2,5,
+2016,dpotg,madrush,nintendude,falcon,mario,1,bracket,top16,3,5,
+2016,dpotg,madrush,nintendude,falcon,fox,2,bracket,top16,4,5,
+2016,dpotg,madrush,nintendude,falcon,mario,2,bracket,top16,5,5,
+2016,dpotg,mojomonkey,fireblaster,falcon,mario,2,bracket,top8,1,5,
+2016,dpotg,mojomonkey,fireblaster,falcon,mario,2,bracket,top8,2,5,
+2016,dpotg,mojomonkey,fireblaster,kirby,mario,2,bracket,top8,3,5,
+2017,kansai,kippe,murasan,pika,falcon,2,bracket,top32,1,1,
+2017,kansai,nangoku,keisuke,ness,kirby,1,bracket,top32,1,1,
+2017,kansai,tacos,hebiichigo,pika,link,2,bracket,top32,1,1,
+2017,kansai,wangera,fukuhara,puff,yoshi,1,bracket,top32,1,1,
+2017,kansai,funyan,kurabba,kirby,yoshi,2,bracket,top32,1,1,
+2017,kansai,gyaki,ayatama,link,kirby,1,bracket,top32,1,1,
+2017,kansai,taimai,barusan,falcon,mario,1,bracket,top32,1,1,
+2017,kansai,masaru,pucchin,fox,puff,2,bracket,top32,1,1,
+2017,kansai,maguro,micchan,fox,falcon,1,bracket,top32,1,1,
+2017,kansai,toroori,shirusupu,pika,fox,2,bracket,top32,1,1,
+2017,kansai,yukun,kijimaari,falcon,falcon,1,bracket,top32,1,1,
+2017,kansai,tokiwa,shake,ness,pika,2,bracket,top32,1,1,
+2017,kansai,hiyo,kurosuta,yoshi,kirby,1,bracket,top32,1,1,
+2017,kansai,prince,dametamago,yoshi,yoshi,1,bracket,top32,1,1,
+2017,kansai,kysk,kikoushi,kirby,dk,1,bracket,top32,1,1,
+2017,kansai,noun,shizuku,yoshi,pika,2,bracket,top32,1,1,
+2017,kansai,murasan,nangoku,falcon,ness,2,bracket,top32,1,1,
+2017,kansai,hebiichigo,wangera,link,puff,2,bracket,top32,1,1,
+2017,kansai,kurabba,gyaki,yoshi,link,2,bracket,top32,1,1,
+2017,kansai,taimai,pucchin,falcon,puff,1,bracket,top32,1,1,
+2017,kansai,maguro,shirusupu,fox,fox,2,bracket,top32,1,1,
+2017,kansai,yukun,shake,falcon,pika,2,bracket,top32,1,1,
+2017,kansai,hiyo,prince,yoshi,yoshi,1,bracket,top32,1,1,
+2017,kansai,kysk,shizuku,kirby,pika,1,bracket,top32,1,1,
+2017,kansai,kippe,keisuke,pika,kirby,2,bracket,top32,1,1,
+2017,kansai,tacos,fukuhara,pika,yoshi,1,bracket,top32,1,1,
+2017,kansai,funyan,ayatama,kirby,kirby,1,bracket,top32,1,1,
+2017,kansai,barusan,masaru,mario,fox,2,bracket,top32,1,1,
+2017,kansai,micchan,shirusupu,falcon,fox,1,bracket,top32,1,1,
+2017,kansai,kijimaari,tokiwa,falcon,ness,2,bracket,top32,1,1,
+2017,kansai,kurosuta,dametamago,kirby,yoshi,1,bracket,top32,1,1,
+2017,kansai,kikoushi,noun,dk,yoshi,2,bracket,top32,1,1,
+2017,kansai,maguro,keisuke,fox,kirby,2,bracket,top32,1,1,
+2017,kansai,yukun,tacos,falcon,pika,1,bracket,top32,1,1,
+2017,kansai,prince,funyan,yoshi,kirby,1,bracket,top32,1,1,
+2017,kansai,shizuku,masaru,pika,fox,2,bracket,top32,1,1,
+2017,kansai,murasan,micchan,falcon,falcon,2,bracket,top32,1,1,
+2017,kansai,hebiichigo,tokiwa,link,ness,2,bracket,top32,1,1,
+2017,kansai,kurabba,kurosuta,yoshi,kirby,1,bracket,top32,1,1,
+2017,kansai,pucchin,noun,puff,yoshi,1,bracket,top32,1,1,
+2017,kansai,nangoku,wangera,ness,puff,2,bracket,top16,1,1,
+2017,kansai,gyaki,taimai,link,falcon,1,bracket,top16,1,1,
+2017,kansai,shirusupu,shake,fox,pika,2,bracket,top16,1,1,
+2017,kansai,hiyo,kysk,yoshi,kirby,2,bracket,top16,1,1,
+2017,kansai,keisuke,yukun,kirby,falcon,2,bracket,top16,1,1,
+2017,kansai,prince,masaru,yoshi,fox,2,bracket,top16,1,1,
+2017,kansai,micchan,tokiwa,falcon,ness,1,bracket,top16,1,1,
+2017,kansai,kurabba,pucchin,yoshi,puff,1,bracket,top16,1,1,
+2017,kansai,wangera,gyaki,puff,link,2,bracket,top16,1,1,
+2017,kansai,shake,kysk,pika,kirby,2,bracket,top16,1,1,
+2017,kansai,taimai,yukun,falcon,falcon,1,bracket,top16,1,1,
+2017,kansai,nangoku,masaru,ness,fox,2,bracket,top16,1,1,
+2017,kansai,hiyo,micchan,yoshi,falcon,2,bracket,top16,1,1,
+2017,kansai,toroori,kurabba,pika,yoshi,1,bracket,top16,1,1,
+2017,kansai,wangera,gyaki,puff,link,2,bracket,top8,1,1,
+2017,kansai,shake,kysk,pika,kirby,2,bracket,top8,1,1,
+2017,kansai,taimai,masaru,falcon,fox,2,bracket,top8,1,1,
+2017,kansai,micchan,toroori,falcon,pika,1,bracket,top8,1,1,
+2017,kansai,shake,masaru,pika,fox,2,bracket,top8,1,1,
+2017,kansai,wangera,micchan,puff,falcon,2,bracket,top8,1,1,
+2017,kansai,masaru,micchan,fox,falcon,1,bracket,ls,1,1,
+2017,kansai,kysk,masaru,kirby,fox,1,bracket,lf,1,1,
+2017,kansai,gyaki,kysk,link,kirby,1,bracket,wf,1,1,
+2017,kansai,gyaki,kysk,link,kirby,1,bracket,gf,1,3,
+2017,kansai,gyaki,kysk,link,kirby,2,bracket,gf,2,3,
+2017,kansai,gyaki,kysk,link,kirby,2,bracket,gf,3,3,
+2017,kansai,gyaki,kysk,link,kirby,2,bracket,gf2,1,3,
+2017,kansai,gyaki,kysk,link,kirby,2,bracket,gf2,2,3,
+2016,deluge,yolft,professorwizard,kirby,kirby,2,pools,pools,1,3,dreamland
+2016,deluge,yolft,professorwizard,kirby,kirby,2,pools,pools,2,3,dreamland
+2016,deluge,llcstoism,dogsjohnson,kirby,pika,2,pools,pools,1,3,dreamland
+2016,deluge,llcstoism,dogsjohnson,kirby,falcon,1,pools,pools,2,3,dreamland
+2016,deluge,llcstoism,dogsjohnson,kirby,puff,2,pools,pools,3,3,dreamland
+2016,deluge,vinsanity,fooly,fox,yoshi,1,pools,pools,1,3,dreamland
+2016,deluge,vinsanity,fooly,fox,yoshi,1,pools,pools,2,3,dreamland
+2016,deluge,tyhiggz,professorwizard,yoshi,kirby,2,pools,pools,1,3,dreamland
+2016,deluge,tyhiggz,professorwizard,yoshi,kirby,2,pools,pools,2,3,dreamland
+2016,deluge,lildragon,tyhiggz,pika,yoshi,2,pools,pools,1,3,dreamland
+2016,deluge,lildragon,tyhiggz,pika,yoshi,2,pools,pools,2,3,dreamland
+2016,deluge,b33f,amida,pika,kirby,2,bracket,wq,1,3,dreamland
+2016,deluge,b33f,amida,pika,kirby,2,bracket,wq,2,3,dreamland
+2016,deluge,fumbles,professorwizard,yoshi,kirby,1,bracket,wq,1,3,dreamland
+2016,deluge,fumbles,professorwizard,yoshi,pika,1,bracket,wq,2,3,dreamland
+2016,deluge,b33f,drcombos,pika,kirby,2,pools,pools,1,3,dreamland
+2016,deluge,b33f,drcombos,pika,kirby,1,pools,pools,2,3,dreamland
+2016,deluge,b33f,drcombos,pika,kirby,1,pools,pools,3,3,dreamland
+2016,deluge,fumbles,dogsjohnson,yoshi,falcon,2,bracket,ws,1,3,dreamland
+2016,deluge,fumbles,dogsjohnson,yoshi,falcon,1,bracket,ws,2,3,dreamland
+2016,deluge,fumbles,dogsjohnson,yoshi,falcon,1,bracket,ws,3,3,dreamland
+2016,deluge,vinsanity,amida,fox,kirby,1,bracket,ws,1,3,dreamland
+2016,deluge,vinsanity,amida,fox,kirby,2,bracket,ws,2,3,dreamland
+2016,deluge,vinsanity,amida,fox,kirby,2,bracket,ws,3,3,dreamland
+2016,deluge,pugs,drcombos,pika,kirby,1,pools,pools,1,3,dreamland
+2016,deluge,pugs,drcombos,pika,kirby,1,pools,pools,2,3,dreamland
+2016,deluge,fumbles,amida,yoshi,kirby,1,bracket,wf,1,5,dreamland
+2016,deluge,fumbles,amida,yoshi,kirby,2,bracket,wf,2,5,dreamland
+2016,deluge,fumbles,amida,yoshi,kirby,1,bracket,wf,3,5,dreamland
+2016,deluge,fumbles,amida,yoshi,kirby,2,bracket,wf,4,5,dreamland
+2016,deluge,fumbles,amida,yoshi,kirby,2,bracket,wf,5,5,dreamland
+2016,deluge,vinsanity,fumbles,falcon,yoshi,2,bracket,lf,1,5,dreamland
+2016,deluge,vinsanity,fumbles,fox,yoshi,1,bracket,lf,2,5,dreamland
+2016,deluge,vinsanity,fumbles,fox,yoshi,2,bracket,lf,3,5,dreamland
+2016,deluge,vinsanity,fumbles,fox,yoshi,1,bracket,lf,4,5,dreamland
+2016,deluge,vinsanity,fumbles,fox,yoshi,1,bracket,lf,5,5,dreamland
+2016,deluge,vinsanity,amida,fox,kirby,2,bracket,gf,1,5,dreamland
+2016,deluge,vinsanity,amida,link,kirby,2,bracket,gf,2,5,dreamland
+2016,deluge,vinsanity,amida,luigi,luigi,1,bracket,gf,3,5,dreamland
+2016,deluge,vinsanity,amida,fox,kirby,2,bracket,gf,4,5,dreamland
+2017,ceodreamland,gt,barksanchez,pika,ness,2,bracket,ws,1,5,dreamland
+2017,ceodreamland,gt,barksanchez,pika,fox,2,bracket,ws,2,5,dreamland
+2017,ceodreamland,gt,barksanchez,pika,pika,2,bracket,ws,3,5,dreamland
+2017,ceodreamland,alvin,sheermadness,yoshi,yoshi,1,bracket,ws,1,5,dreamland
+2017,ceodreamland,alvin,sheermadness,yoshi,pika,2,bracket,ws,2,5,dreamland
+2017,ceodreamland,alvin,sheermadness,falcon,yoshi,1,bracket,ws,3,5,dreamland
+2017,ceodreamland,alvin,sheermadness,mario,yoshi,1,bracket,ws,4,5,dreamland
+2017,ceodreamland,gt,fireblaster,pika,yoshi,2,bracket,lq,1,5,dreamland
+2017,ceodreamland,gt,fireblaster,pika,yoshi,2,bracket,lq,2,5,dreamland
+2017,ceodreamland,gt,fireblaster,pika,yoshi,2,bracket,lq,3,5,dreamland
+2017,ceodreamland,sheerdmadness,nta,yoshi,mario,1,bracket,lq,1,5,dreamland
+2017,ceodreamland,sheerdmadness,nta,yoshi,mario,1,bracket,lq,2,5,dreamland
+2017,ceodreamland,sheerdmadness,nta,yoshi,falcon,1,bracket,lq,3,5,dreamland
+2017,ceodreamland,barksanchez,alvin,pika,falcon,2,bracket,wf,1,5,dreamland
+2017,ceodreamland,barksanchez,alvin,pika,mario,2,bracket,wf,2,5,dreamland
+2017,ceodreamland,barksanchez,alvin,pika,pika,2,bracket,wf,3,5,dreamland
+2017,ceodreamland,sheermadness,fireblaster,yoshi,yoshi,2,bracket,ls,1,5,dreamland
+2017,ceodreamland,sheermadness,fireblaster,pika,yoshi,1,bracket,ls,2,5,dreamland
+2017,ceodreamland,sheermadness,fireblaster,pika,yoshi,2,bracket,ls,3,5,dreamland
+2017,ceodreamland,sheermadness,fireblaster,pika,yoshi,1,bracket,ls,4,5,dreamland
+2017,ceodreamland,sheermadness,fireblaster,pika,yoshi,2,bracket,ls,5,5,dreamland
+2017,ceodreamland,barksanchez,fireblaster,pika,yoshi,1,bracket,lf,1,5,dreamland
+2017,ceodreamland,barksanchez,fireblaster,pika,yoshi,1,bracket,lf,2,5,dreamland
+2017,ceodreamland,barksanchez,fireblaster,pika,yoshi,2,bracket,lf,3,5,dreamland
+2017,ceodreamland,barksanchez,fireblaster,pika,yoshi,1,bracket,lf,4,5,dreamland
+2017,ceodreamland,barksanchez,alvin,pika,fox,1,bracket,gf,1,5,dreamland
+2017,ceodreamland,barksanchez,alvin,pika,falcon,2,bracket,gf,2,5,dreamland
+2017,ceodreamland,barksanchez,alvin,pika,falcon,2,bracket,gf,3,5,dreamland
+2017,ceodreamland,barksanchez,alvin,pika,samus,1,bracket,gf,4,5,dreamland
+2017,ceodreamland,barksanchez,alvin,pika,falcon,1,bracket,gf,5,5,dreamland
+2017,ceodreamland,barksanchez,alvin,pika,falcon,2,bracket,gf2,1,5,dreamland
+2017,ceodreamland,barksanchez,alvin,pika,falcon,1,bracket,gf2,2,5,dreamland
+2017,ceodreamland,barksanchez,alvin,pika,falcon,2,bracket,gf2,3,5,dreamland
+2017,ceodreamland,barksanchez,alvin,pika,falcon,2,bracket,gf2,4,5,dreamland
