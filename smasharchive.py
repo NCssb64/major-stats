@@ -531,3 +531,108 @@ class smashdb:
                       winrank, losrank))
                   
         return data_matrix
+    
+    
+    """
+    Print player-char rankings
+        set 'which_rankings' to 'pchar' to see rankings on player-characters;
+        any other value will instead print rankings for players
+    """
+    def print_plchar_ranks(self, num_to_print=50, which_rankings='pchar', centered_player=None, degree_scale=False,
+                          transpose_flag=True):
+        # EXTRACT DATA FROM TABLES
+
+        if which_rankings == 'pchar':
+            gamemat = self.pchargamemat.copy()
+            outcomemat = self.pcharoutcomemat.copy()
+            pname2num = self.pchar2num.copy()
+            num2pname = self.num2pchar.copy()
+        else:
+            gamemat = self.GameMat.copy()
+            outcomemat = self.GameOutcomeMat.copy()
+            pname2num = self.name2number.copy()
+            num2pname = self.number2name.copy()
+
+        """ Begin PageRank computation """
+        # First extract from gamemat the connected network that contains NA
+        pmat = np.zeros( gamemat.shape )
+        rows,cols = pmat.shape
+        M = gamemat
+        if transpose_flag:
+            M += gamemat.T
+        degree_weights = []
+        for col in range(cols):
+            weight = sum(M[:,col])
+            degree_weights.append(weight)
+            if weight != 0:
+                M[:,col] = M[:,col]/weight
+
+        if which_rankings == 'pchar':
+            index = pname2num['superboomfan-kirby']
+        else:
+            index = pname2num['superboomfan']
+        dummyvec = np.zeros( (rows,1) )
+        dummyvec[index] = 1
+        temp_mat = np.eye(cols) - 0.5*M
+        connected_vec = np.linalg.solve(temp_mat, dummyvec)
+        for row in range(len(connected_vec)):
+            val = connected_vec[row]
+            if val==0:
+                gamemat[:,row] = np.squeeze(np.zeros((rows,1)))
+                gamemat[row,:] = np.squeeze(np.zeros((1,rows)))
+
+        # Options
+        normalize = True
+        handle_dangling = False
+        alpha = 0.99
+
+        for row in range(rows):
+            for col in range(cols):
+                if gamemat[row,col] != 0:
+                    entry_val = outcomemat[row,col]/gamemat[row,col]
+                    pmat[row,col] = entry_val
+        empty_cols = []
+
+        for col in range(cols):
+            weight = sum(pmat[:,col])
+            if weight == 0:
+                empty_cols.append(col)
+                continue
+            if normalize==True:
+                for row in range(rows):
+                    pmat[row,col] = pmat[row,col]/weight
+            else:
+                alpha = 1/max( 1/alpha, weight )
+
+        # handle dangling nodes -- players with no recorded losses
+        filled_pmat = pmat
+        if handle_dangling==True:
+            for col in empty_cols:
+                for row in range(rows):
+                    filled_pmat[row,col] = 1/cols
+
+        sysmat = np.eye(cols) - alpha*filled_pmat
+        righthandvec = ((1-alpha)/cols) * np.ones((rows,1))
+        if bool(centered_player):
+            if centered_player in pname2num.keys():
+                index = pname2num[centered_player]
+                righthandvec = np.zeros( (rows,1) )
+                righthandvec[index] = ((1-alpha)/cols)
+
+
+        rankings_vec = np.linalg.solve(sysmat, righthandvec)
+
+        # Scale by degree?
+        if degree_scale == True:
+            for j in range(len(rankings_vec)):
+                deg_weight = degree_weights[j]
+                if deg_weight != 0:
+                    rankings_vec[j] *= 1/deg_weight
+
+        """ PageRank computed; now sort and print """
+        ranks = rankings_vec[:,0]
+        idx = np.flipud(np.argsort( ranks ))
+
+        print("Rank", '\t', "Name".ljust(30), "Rating" )
+        for j in range( min(num_to_print, len(ranks)) ):
+            print( str(j+1), '\t',  num2pname[idx[j]].ljust(30), ranks[idx[j]] )
