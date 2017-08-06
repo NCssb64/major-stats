@@ -660,3 +660,26 @@ class smashdb:
             " {:>16d} {:>20} {:>20}".format(str(j+1), num2pname[rank2pnum[j]],
             ranks[rank2pnum[j]], int(degree_weights[rank2pnum[j]]),
             bestwins[rank2pnum[j]], worstlosses[rank2pnum[j]] ) )
+
+    def scout_report(self, pname, char_toggle=False):
+        if char_toggle:
+            datamat = self.pchargamemat.copy()
+            outcomemat = self.pcharoutcomemat.copy()
+            pname2num = self.pchar2num.copy()
+            num2pname = self.num2pchar.copy()
+        else:
+            datamat = self.GameMat.copy()
+            outcomemat = self.GameOutcomeMat.copy()
+            pname2num = self.name2number.copy()
+            num2pname = self.number2name.copy()
+
+        for char in ['pika','kirby','falcon','yoshi','fox','mario','puff','link','ness','samus','dk','luigi']:
+            charname = pname+'-'+char
+            print("{:<20}".format(charname))
+            if charname not in pname2num:
+                continue
+            pidx = pname2num[charname]
+            for p2 in range(datamat.shape[1]):
+                val = datamat[pidx, p2]
+                if val > 0:
+                    print( "   {:<20}  {:>2d}  {:>2d}  ".format(num2pname[p2], int(outcomemat[pidx,p2]), int(outcomemat[p2,pidx]) ))
