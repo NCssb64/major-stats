@@ -42,11 +42,13 @@ def make_single_plot(temp_char_map, temp_char_name, pltname, print_plots=False):
     plt.gcf().subplots_adjust(wspace=2, hspace=2, right=0.825, bottom=0.25)
     #plt.gcf().subplots_adjust(right=None, left=None, top=None, bottom=None)
 
-    plt.show()
+    if print_plots == False:
+        plt.show()
     if print_plots == True:
-        plt.savefig('../smasharticle/figures/{msg:>0}.eps'.format(msg=pltname), format='eps')
-        plt.savefig('../smasharticle/figures/{msg:>0}.png'.format(msg=pltname))
+        plt.savefig('./figures/{msg:>0}.eps'.format(msg=pltname), format='eps')
+        plt.savefig('./figures/{msg:>0}.png'.format(msg=pltname))
         plt.close(fig)
+        make_single_plot(temp_char_map, temp_char_name, pltname, False)
     
 def plot_char_use(db, plotnameroot, plot_flag=False):
     # db = smasharchive.smashdb()
