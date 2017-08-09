@@ -33,6 +33,8 @@ class smashdb:
         self.tournament_year_skip = {}
         self.tournament_name_skip = {}
 
+        # ranking_threshold allows you to ignore games between players whose
+        # ssbcentral rating is more than |threshold| apart.
         self.ranking_threshold = 10
         self.ranking_filter = False
 
@@ -408,6 +410,7 @@ class smashdb:
         self.ranking_threshold = threshold
         self.ranking_filter = True
         self.load_csv()
+        # filter out players without an ssbcentral ranking
         for player_name in self.playernames.keys():
             self.skip_these_players[player_name] = 1
         for player_name in self.player_rankings:
@@ -421,6 +424,7 @@ class smashdb:
         PRINT MATCH UP STATS
     """
     def print_mu_stats( self, game_threshold=20):
+        # print stats for any character match-up with at least game_threshold games
         charspace = 12
         gamenumspace = 8
         percspace = 12
@@ -484,7 +488,7 @@ class smashdb:
             prctchr = "%.2f" % (int(charappearances[i])/(sum(sum(self.CharGameMat))) )
             print( '| ' + '{msg: <{sp}}'.format(msg=tempcharnames[i],sp=charspacing) + ' | ' + '{msg: >{sp}}'.format(msg=str(charappearances[i]),sp=countspacing) + ' | ' + '{msg: >{sp}}'.format(msg=prctchr,sp=prctspacing) + ' |')
 
-    def print_char_mu(self, char_set):
+    def print_char_mu(self, char_set, silent=False):
 
         def get_rankings(winplayer, losplayer):
             winrank = -1.0
@@ -496,15 +500,18 @@ class smashdb:
             return winrank, losrank
 
         if type(char_set) != set:
-            print("Input char_set is of wrong type.")
+            if not silent:
+                print("Input char_set is of wrong type.")
         data_matrix = []
-        print("{: <12} {: <5} {: <5} {: <18} {: <18} {: <8} {: <8} {: >4} {: >4}".format('Tournament',
-                      'Year',
-                      'Round',
-                      'Winner', 'Loser',
-                      'Winner', 'Loser',
-                      'W-rating', 'L-rating'))
+        if not silent:
+            print("{: <12} {: <5} {: <5} {: <18} {: <18} {: <8} {: <8} {: >4} {: >4}".format('Tournament',
+                          'Year',
+                          'Round',
+                          'Winner', 'Loser',
+                          'Winner', 'Loser',
+                          'W-rating', 'L-rating'))
 
+        # for each game in the archive, check if the characters used are in char_set
         for single_game in self.games_archive:
             chars = [single_game['char1'], single_game['char2']]
             if set([chars[0], chars[1]]) != char_set:
@@ -526,12 +533,13 @@ class smashdb:
                       winchar, losechar,
                       winrank, losrank]
             data_matrix.append(line)
-            print("{: <12} {: <5} {: <5} {: <18} {: <18} {: <8} {: <8} {: 8.3f} {: 8.3f}".format(single_game['tourney_name'],
-                      single_game['tourney_year'],
-                      single_game['bracket_level'],
-                      winningplayer, losingplayer,
-                      winchar, losechar,
-                      winrank, losrank))
+            if not silent:
+                print("{: <12} {: <5} {: <5} {: <18} {: <18} {: <8} {: <8} {: 8.3f} {: 8.3f}".format(single_game['tourney_name'],
+                          single_game['tourney_year'],
+                          single_game['bracket_level'],
+                          winningplayer, losingplayer,
+                          winchar, losechar,
+                          winrank, losrank))
 
         return data_matrix
 
@@ -542,7 +550,7 @@ class smashdb:
         any other value will instead print rankings for players
     """
     def print_plchar_ranks(self, num_to_print=50, which_rankings='pchar', centered_player=None, degree_scale=False,
-                          transpose_flag=True):
+                          transpose_flag=True, remove_winless=False):
         # EXTRACT DATA FROM TABLES
 
         if which_rankings == 'pchar':
@@ -561,7 +569,7 @@ class smashdb:
         rows,cols = gamemat.shape
         if num_to_print <= 0:
             num_to_print = rows
-        M = gamemat
+        M = gamemat.copy()
         if transpose_flag:
             M += gamemat.T
         degree_weights = []
@@ -571,6 +579,7 @@ class smashdb:
             if weight != 0:
                 M[:,col] = M[:,col]/weight
 
+        # this simply removes players with too few games in NA tournaments
         if which_rankings == 'pchar':
             index = pname2num['superboomfan-kirby']
         else:
@@ -584,7 +593,6 @@ class smashdb:
             if val==0:
                 gamemat[:,row] = np.squeeze(np.zeros((rows,1)))
                 gamemat[row,:] = np.squeeze(np.zeros((1,rows)))
-        # this simply removes players with too few games in NA tournaments
 
         # Options
         normalize = True
@@ -597,8 +605,19 @@ class smashdb:
                 if gamemat[row,col] != 0:
                     entry_val = outcomemat[row,col]/gamemat[row,col]
                     pmat[row,col] = entry_val
-        empty_cols = []
 
+        # remove players with no wins
+        if remove_winless:
+            for row in range(rows):
+                if sum(pmat[row,:]) == 0:
+                    gamemat[:,row] = np.squeeze(np.zeros((rows,1)))
+                    gamemat[row,:] = np.squeeze(np.zeros((1,rows)))
+                    pmat[:,row] = np.squeeze(np.zeros((rows,1)))
+
+        for col in range(cols):
+            degree_weights[col] = sum(gamemat[:,col])
+
+        empty_cols = []
         for col in range(cols):
             weight = sum(pmat[:,col])
             if weight == 0:
@@ -639,30 +658,38 @@ class smashdb:
         ranks = rankings_vec[:,0]
         rank2pnum = np.flipud(np.argsort( ranks ))
         pnum2rank = {}
-        for idx_j, rank in enumerate(rank2pnum):
-            pnum2rank[idx_j] = rank
+        #for idx_j, rank in enumerate(rank2pnum):
+        for rank_val in range(len(rank2pnum)):
+            temp_pnum = rank2pnum[rank_val]
+            pnum2rank[temp_pnum] = int(rank_val)
         # Get each player's top game win
         bestwins = {}
         worstlosses = {}
         for idxj in range(pmat.shape[0]):
             getwins = [ (int(col_j), ranks[col_j]) for col_j, val_j in enumerate(pmat[idxj, :]) if val_j != 0.0 ]
             if len(getwins) == 0:
-                bestwins[idxj] = 'NONE-XXX'
+                bestwins[idxj] = ['NONE-XXX', -1]
             else:
-                bestwins[idxj] = num2pname[ int(max(getwins, key = lambda t: t[1])[0]) ]
+                temp_pnum = int(max(getwins, key = lambda t: t[1])[0])
+                bestwins[idxj] = [num2pname[ temp_pnum ], pnum2rank[temp_pnum]+1 ]
 
             getlosses = [ (int(row_j), ranks[row_j]) for row_j, val_j in enumerate(pmat[:,idxj]) if val_j != 0.0]
             if len(getlosses) == 0:
-                worstlosses[idxj] = 'NONE-XXX'
+                worstlosses[idxj] = ['NONE-XXX', -1]
             else:
-                worstlosses[idxj] = num2pname[ int(min(getlosses, key = lambda t: t[1])[0]) ]
+                temp_pnum = int(min(getlosses, key = lambda t: t[1])[0])
+                worstlosses[idxj] = [num2pname[ temp_pnum ], pnum2rank[temp_pnum]+1 ]
 
-        print("Rank", '\t', "Name".ljust(25), "Rating".ljust(8), '# Games played', '\t best game win', '\t worst game loss' )
+        # PRINT RESULTS
+        print("Rank   ", "Name".ljust(20), "Rating".ljust(10), '# Games  ', 'best win'.ljust(28),
+              'worst loss'.ljust(25) )
+        print("{s:{c}^{n}}".format(s='-',n=101,c='-'))
         for j in range( 0, min(num_to_print, len(ranks)) ):
-            print("{:<} \t {:<21} {:>10.7f}"
-            " {:>16d} {:>20} {:>20}".format(str(j+1), num2pname[rank2pnum[j]],
-            ranks[rank2pnum[j]], int(degree_weights[rank2pnum[j]]),
-            bestwins[rank2pnum[j]], worstlosses[rank2pnum[j]] ) )
+            print("{:<3s}  {:<21} {:>10.7f} {:>9d}   {:<20} {:>4d},   {:<20} {:>4d}"
+                  "".format(str(j+1), num2pname[rank2pnum[j]],
+                  ranks[rank2pnum[j]], int(degree_weights[rank2pnum[j]]),
+                  *bestwins[rank2pnum[j]], *worstlosses[rank2pnum[j]] ) )
+
 
     def scout_report(self, pname, char_toggle=False):
         if char_toggle:
@@ -670,15 +697,20 @@ class smashdb:
             outcomemat = self.pcharoutcomemat.copy()
             pname2num = self.pchar2num.copy()
             num2pname = self.num2pchar.copy()
+            pcharlist = ['pika','kirby','falcon','yoshi','fox','mario','puff','link','ness','samus','dk','luigi']
         else:
             datamat = self.GameMat.copy()
             outcomemat = self.GameOutcomeMat.copy()
             pname2num = self.name2number.copy()
             num2pname = self.number2name.copy()
+            pcharlist = ['']
 
-        for char in ['pika','kirby','falcon','yoshi','fox','mario','puff','link','ness','samus','dk','luigi']:
-            charname = pname+'-'+char
-            print("{:<20}".format(charname))
+        for char in pcharlist:
+            if char_toggle:
+                charname = pname+'-'+char
+            else:
+                charname = pname
+            print("{:<20}      W   L".format(charname))
             if charname not in pname2num:
                 continue
             pidx = pname2num[charname]
@@ -686,3 +718,4 @@ class smashdb:
                 val = datamat[pidx, p2]
                 if val > 0:
                     print( "   {:<20}  {:>2d}  {:>2d}  ".format(num2pname[p2], int(outcomemat[pidx,p2]), int(outcomemat[p2,pidx]) ))
+            print("")
